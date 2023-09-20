@@ -39,7 +39,7 @@ const ComingSoon = () => {
                     <div className="coming-soon-content">
                         <Link href="/">
                             <a className="logo">
-                                <img src="/images/logo.png" alt="image" />
+                                <img src="/images/logo.png" alt="image" style={{width:'50%', borderRadius:'50%'}} />
                             </a>
                         </Link>
 

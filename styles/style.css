@@ -452,14 +452,14 @@ Navbar Area CSS
   padding-right: 0;
 }
 .edemy-nav .navbar ul {
-  padding-left: 0;
+  padding-left: 36px;
   list-style-type: none;
   margin-bottom: 0;
 }
 .edemy-nav .navbar .search-box {
   margin-left: 50px;
   position: relative;
-  width: 260px;
+  width: 300px;
   border-radius: 5px;
 }
 .edemy-nav .navbar .search-box .input-search {

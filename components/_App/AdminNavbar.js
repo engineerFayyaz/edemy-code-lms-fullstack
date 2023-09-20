@@ -40,7 +40,7 @@ const AdminNavbar = ({ user }) => {
             <div className="navbar navbar-expand-lg navbar-light">
               <Link href="/">
                 <a onClick={toggleNavbar} className="navbar-brand">
-                  <img src="/images/logo.png" alt="logo" />
+                  <img src="/images/logo.png" alt="logo" style={{width:'50%', borderRadius:'50%'}} />
                 </a>
               </Link>
 

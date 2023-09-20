@@ -44,17 +44,9 @@ const FeedbackSliderWithFunFacts = () => {
 									<SwiperSlide>
 										<div className="single-feedback-item">
 											<p>
-												Lorem ipsum dolor sit amet,
-												consectetur adipiscing elit, sed do
-												eiusmod tempor incididunt ut labore
-												et dolore magna aliqua. Quis ipsum
-												suspendisse ultrices gravida. Risus
-												commodo viverra maecenas accumsan
-												lacus vel facilisis. Lorem ipsum
-												dolor sit amet, consectetur
-												adipiscing elit, sed do eiusmod
-												tempor incididunt ut labore et
-												dolore.
+											This is long over due I could not have ask for a better place to go.  
+											Everyone was welcoming and very helpful.  
+											And I finally got my body back I would so recommend this to anyone results may very.
 											</p>
 
 											<div className="client-info d-flex align-items-center">
@@ -65,7 +57,7 @@ const FeedbackSliderWithFunFacts = () => {
 												/>
 												<div className="title">
 													<h3>John Smith</h3>
-													<span>Python Developer</span>
+													<span></span>
 												</div>
 											</div>
 										</div>
@@ -74,17 +66,8 @@ const FeedbackSliderWithFunFacts = () => {
 									<SwiperSlide>
 										<div className="single-feedback-item">
 											<p>
-												Lorem ipsum dolor sit amet,
-												consectetur adipiscing elit, sed do
-												eiusmod tempor incididunt ut labore
-												et dolore magna aliqua. Quis ipsum
-												suspendisse ultrices gravida. Risus
-												commodo viverra maecenas accumsan
-												lacus vel facilisis. Lorem ipsum
-												dolor sit amet, consectetur
-												adipiscing elit, sed do eiusmod
-												tempor incididunt ut labore et
-												dolore.
+											The personalized guidance and attention to 
+											detail have helped me progress from a novice to a confident beauty enthusiast.
 											</p>
 
 											<div className="client-info d-flex align-items-center">
@@ -95,7 +78,7 @@ const FeedbackSliderWithFunFacts = () => {
 												/>
 												<div className="title">
 													<h3>Sarah Taylor</h3>
-													<span>PHP Developer</span>
+													<span>Doctor</span>
 												</div>
 											</div>
 										</div>
@@ -104,17 +87,9 @@ const FeedbackSliderWithFunFacts = () => {
 									<SwiperSlide>
 										<div className="single-feedback-item">
 											<p>
-												Lorem ipsum dolor sit amet,
-												consectetur adipiscing elit, sed do
-												eiusmod tempor incididunt ut labore
-												et dolore magna aliqua. Quis ipsum
-												suspendisse ultrices gravida. Risus
-												commodo viverra maecenas accumsan
-												lacus vel facilisis. Lorem ipsum
-												dolor sit amet, consectetur
-												adipiscing elit, sed do eiusmod
-												tempor incididunt ut labore et
-												dolore.
+											Toxic Beauty Academy is a reflection of their dedication to excellence. 
+											It's not just about learning; it's about growing and excelling in the world of beauty. 
+											I'm grateful for the guidance and support.
 											</p>
 
 											<div className="client-info d-flex align-items-center">
@@ -125,7 +100,7 @@ const FeedbackSliderWithFunFacts = () => {
 												/>
 												<div className="title">
 													<h3>David Warner</h3>
-													<span>QA Developer</span>
+													<span>Skin Specilist </span>
 												</div>
 											</div>
 										</div>
