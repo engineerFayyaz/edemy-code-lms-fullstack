@@ -31,8 +31,8 @@ const AboutUsContentThree = () => {
 								<p>
 									Want to learn and earn PDUs or CEUs on your
 									schedule — anytime, anywhere? Or, pick up a
-									new skill quickly like, project team
-									leadership or agile? Browse our most popular
+									new skill quickly like, body sculpting 
+									Lashes? Browse our most popular
 									online courses.
 								</p>
 								<p>

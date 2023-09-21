@@ -33,7 +33,7 @@ const EdemyPremium = () => {
 					</div>
 				</div>
 				<div className="bulb">
-					<img src="/images/bulb.png" alt="image" />
+					{/* <img src="/images/bulb.png" alt="image" /> */}
 				</div>
 			</div>
 

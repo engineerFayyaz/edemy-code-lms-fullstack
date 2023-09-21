@@ -30,7 +30,7 @@ const BlogSidebar = () => {
                         <span>June 10, 2020</span>
                         <h4 className="title usmall">
                             <Link href="#">
-                                <a>Ultimate Bali Guide + Where to stay in Bali 2020</a>
+                                <a>Ultimate Bali Guide + Where to stay in Toxic Beauty in 2020</a>
                             </Link>
                         </h4>
                     </div>

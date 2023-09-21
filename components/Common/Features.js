@@ -8,7 +8,7 @@ const Features = () => {
                 <div className="section-title">
                     <span className="sub-title">Education for everyone</span>
                     <h2>Online Coaching Lessons For Remote Learning</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <p>Elevate Your Beauty Skills with Online Coaching Lessons for Remote Learning at Toxic Beauty Academy.</p>
                 </div>
 
                 <div className="row">
@@ -18,7 +18,7 @@ const Features = () => {
                                 <i className="flaticon-brain-process"></i>
                             </div>
                             <h3>Learn the Latest Skills</h3>
-                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.</p>
+                            <p>Stay Ahead of the Curve: Learn the Latest Skills at Toxic Beauty Academy.</p>
 
                             <Link href="/profile-authentication">
                                 <a className="link-btn">Start Now!</a>
@@ -32,7 +32,7 @@ const Features = () => {
                                 <i className="flaticon-computer"></i>
                             </div>
                             <h3>Go at Your Own Pace</h3>
-                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.</p>
+                            <p>Empower Your Beauty Journey: Go at Your Own Pace with Toxic Beauty Academy.</p>
                             
                             <Link href="/profile-authentication">
                                 <a className="link-btn">Start Now!</a>
@@ -45,8 +45,8 @@ const Features = () => {
                             <div className="icon">
                                 <i className="flaticon-shield-1"></i>
                             </div>
-                            <h3>Learn from Industry Experts</h3>
-                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.</p>
+                            <h3>Learn from Beauty Experts</h3>
+                            <p>Unlock Beauty's Secrets: Learn from Industry Experts at Toxic Beauty Academy.</p>
                             
                             <Link href="/profile-authentication">
                                 <a className="link-btn">Start Now!</a>

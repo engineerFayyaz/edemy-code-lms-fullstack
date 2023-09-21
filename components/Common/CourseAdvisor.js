@@ -9,11 +9,9 @@ const CourseAdvisor = () => {
 				<div className="container">
 					<div className="section-title">
 						<span className="sub-title">Instructor</span>
-						<h2>Course Advisor</h2>
+						<h2>Reyna Queen </h2>
 						<p>
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-							sed do eiusmod tempor incididunt ut labore et dolore
-							magna aliqua.
+						Toxic Beauty Academy: Where CEO Reyna Queen Reigns Over Excellence in Beauty Education
 						</p>
 					</div>
 
@@ -58,13 +56,11 @@ const CourseAdvisor = () => {
 												</a>
 											</h3>
 											<span className="sub-title">
-												Project Management Expert
+											Makeup Artistry
 											</span>
 											<p>
-												Lorem ipsum dolor sit amet,
-												consectetur adipiscing elit, sed do
-												eiusmod tempor incididunt ut labore
-												et dol aliqua.
+											We, makeup artists, are a unique bunch of people; 
+											we don’t have the classic brain, the classic training, but we’re creative, so we figure it out.
 											</p>
 
 											<ul className="social-link">
@@ -131,13 +127,10 @@ const CourseAdvisor = () => {
 												</a>
 											</h3>
 											<span className="sub-title">
-												Agile Project Expert
+											Skincare
 											</span>
 											<p>
-												Lorem ipsum dolor sit amet,
-												consectetur adipiscing elit, sed do
-												eiusmod tempor incididunt ut labore
-												et dol aliqua.
+											Your skin is 90% of your selfie.
 											</p>
 											<ul className="social-link">
 												<li>
@@ -203,13 +196,13 @@ const CourseAdvisor = () => {
 												</a>
 											</h3>
 											<span className="sub-title">
-												QA Project Expert
+												Cryolipolysis
 											</span>
 											<p>
-												Lorem ipsum dolor sit amet,
-												consectetur adipiscing elit, sed do
-												eiusmod tempor incididunt ut labore
-												et dol aliqua.
+											Become an expert in cryolipolysis fat 
+											freezing and be in high demand!
+											 How many times have you been asked 
+											 if you do Coolsculpting?.
 											</p>
 											<ul className="social-link">
 												<li>

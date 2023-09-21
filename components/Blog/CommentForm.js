@@ -22,7 +22,7 @@ const CommentArea = () => {
                         </div>
 
                         <div className="comment-content">
-                            <p>Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen.</p>
+                            <p>Toxic Beauty Academy has exceeded my expectations. Their courses are not just educational but also inspiring. I'm inspired to pursue a career I'm truly passionate about, thanks to their guidance.</p>
                         </div>
 
                         <div className="reply">
@@ -48,7 +48,7 @@ const CommentArea = () => {
                                 </div>
 
                                 <div className="comment-content">
-                                    <p>Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen.</p>
+                                    <p>Toxic Beauty Academy has made learning accessible, engaging, and fun. It's the perfect platform for anyone wanting to explore or advance their skills in the beauty industry. I'm thoroughly enjoying the journey.</p>
                                 </div>
 
                                 <div className="reply">
@@ -74,7 +74,7 @@ const CommentArea = () => {
                                         </div>
 
                                         <div className="comment-content">
-                                            <p>Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen.</p>
+                                            <p>Toxic Beauty Academy's courses are like a treasure chest of beauty secrets. I've learned so much that I can't wait to apply to my future as a makeup artist. The future looks beautiful!.</p>
                                         </div>
 
                                         <div className="reply">
@@ -104,7 +104,7 @@ const CommentArea = () => {
                         </div>
 
                         <div className="comment-content">
-                            <p>Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen.</p>
+                            <p>I can't thank Toxic Beauty Academy enough for helping me kickstart my beauty career. The instructors are patient and knowledgeable, and the hands-on training is superb. I feel well-prepared for the beauty industry.</p>
                         </div>
 
                         <div className="reply">
@@ -130,7 +130,7 @@ const CommentArea = () => {
                                 </div>
 
                                 <div className="comment-content">
-                                    <p>Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen.</p>
+                                    <p>t's been a rewarding experience that's opened doors to new opportunities.</p>
                                 </div>
 
                                 <div className="reply">

@@ -12,8 +12,7 @@ const CoursesAreaStyleTwo = () => {
             <span className="sub-title">Course Advisor</span>
             <h2>Meet Our World-class Instructors</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            Introducing the Masterminds Behind Beauty Excellence: Meet Our World-Class Instructors at Toxic Beauty Academy.
             </p>
           </div>
 
@@ -76,7 +75,7 @@ const CoursesAreaStyleTwo = () => {
                       <a>James Andy</a>
                     </Link>
                   </h3>
-                  <span>Project Management Expert</span>
+                  <span>Body Sculpting</span>
                 </div>
               </div>
             </SwiperSlide>
@@ -116,7 +115,7 @@ const CoursesAreaStyleTwo = () => {
                       <a>Jassica Hische</a>
                     </Link>
                   </h3>
-                  <span>Illustrator Expert</span>
+                  <span>Beauty Business</span>
                 </div>
               </div>
             </SwiperSlide>
@@ -156,7 +155,7 @@ const CoursesAreaStyleTwo = () => {
                       <a>Alister Cock</a>
                     </Link>
                   </h3>
-                  <span>QA Project Expert</span>
+                  <span>Lash and Brow Services</span>
                 </div>
               </div>
             </SwiperSlide>
@@ -196,7 +195,7 @@ const CoursesAreaStyleTwo = () => {
                       <a>Lina Ninja</a>
                     </Link>
                   </h3>
-                  <span>QA Project Expert</span>
+                  <span>Nail Artistry</span>
                 </div>
               </div>
             </SwiperSlide>

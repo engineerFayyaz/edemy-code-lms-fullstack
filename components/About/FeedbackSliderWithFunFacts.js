@@ -13,13 +13,13 @@ const FeedbackSliderWithFunFacts = () => {
 					<div className="row align-items-center">
 						<div className="col-lg-6 col-md-12">
 							<div className="feedback-content">
-								<span className="sub-title">Distance learning</span>
+								<span className="sub-title">Distance learning from Toxic Beauty Academy</span>
 								<h2>
 									Flexible Study at Your Own Pace, According to
 									Your Own Needs
 								</h2>
 								<p>
-									With the eDemy, you can study whenever and
+									With the Toxic Beauty Academy, you can study whenever and
 									wherever you choose. We have students in over
 									175 countries and a global reputation as a
 									pioneer in the field of flexible learning. Our

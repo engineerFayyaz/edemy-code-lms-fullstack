@@ -13113,10 +13113,12 @@ Main Banner Area CSS
 }
 
 .bulb {
+  
   left: 15%;
   bottom: 0;
   z-index: -1;
   position: absolute;
+  width: 23% !important;
 }
 .bulb img {
   animation: moveleftbounce 4s linear infinite;

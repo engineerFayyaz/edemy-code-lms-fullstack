@@ -148,7 +148,7 @@ const RegisterForm = ({ user }) => {
                                         rows="5" 
                                         placeholder="Please tell us about your teaching profession" 
                                         className="form-control" 
-                                        name="as_teacher_req_desc"
+                                        name1="as_teacher_req_desc"
                                         value={apply.as_teacher_req_desc}
                                         onChange={handleChange}
                                         ref={register({ required: true })}

@@ -38,7 +38,7 @@ const MainBanner = () => {
 				<img src="/images/banner-shape3.png" alt="image" />
 			</div>
 			<div className="bulb">
-				<img src="/images/bulb.png" alt="image" />
+				{/* <img src="/images/bulb.png" alt="image" /> */}
 			</div>
 		</div>
 	);

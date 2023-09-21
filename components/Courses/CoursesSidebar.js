@@ -28,10 +28,10 @@ const CoursesSidebar = () => {
                         </a>
                     </Link>
                     <div className="info">
-                        <span>$49.00</span>
+                        <span>$180.00</span>
                         <h4 className="title usmall">
                             <Link href="#">
-                                <a>The Data Science Course 2020: Complete Data Science Bootcamp</a>
+                                <a>Body Contouring 6-in-1 Masterclass</a>
                             </Link>
                         </h4>
                     </div>
@@ -45,10 +45,10 @@ const CoursesSidebar = () => {
                         </a>
                     </Link>
                     <div className="info">
-                        <span>$59.00</span>
+                        <span>$180.00</span>
                         <h4 className="title usmall">
                             <Link href="#">
-                                <a>Java Programming MasterclassName for Software Developers</a>
+                                <a>The Booty (and Body) Sculpting Masterclass</a>
                             </Link>
                         </h4>
                     </div>
@@ -62,10 +62,10 @@ const CoursesSidebar = () => {
                         </a>
                     </Link>
                     <div className="info">
-                        <span>$69.00</span>
+                        <span>$180.00</span>
                         <h4 className="title usmall">
                             <Link href="#">
-                                <a>Deep Learning A-Z™: Hands-On Artificial Neural Networks</a>
+                                <a>Cryolipolysis (Fat Freezing) Certification Course</a>
                             </Link>
                         </h4>
                     </div>
@@ -78,40 +78,40 @@ const CoursesSidebar = () => {
 
                 <div className="tagcloud">
                     <Link href="#">
-                        <a>Business <span className="tag-link-count">(3)</span></a>
+                        <a> Makeup Artistry<span className="tag-link-count">(3)</span></a>
                     </Link>
                     <Link href="#">
-                        <a>Design <span className="tag-link-count">(3)</span></a>
+                        <a>Skincare<span className="tag-link-count">(3)</span></a>
                     </Link>
                     <Link href="#">
-                        <a>Digital <span className="tag-link-count">(2)</span></a>
+                        <a>Hair Styling <span className="tag-link-count">(2)</span></a>
                     </Link>
                     <Link href="#">
-                        <a>SEO <span className="tag-link-count">(2)</span></a>
+                        <a>Nail Artistry <span className="tag-link-count">(2)</span></a>
                     </Link>
                     <Link href="#">
-                        <a>Braike <span className="tag-link-count">(2)</span></a>
+                        <a>Lash and Brow Services<span className="tag-link-count">(2)</span></a>
                     </Link>
                     <Link href="#">
-                        <a>Fashion <span className="tag-link-count">(2)</span></a>
+                        <a>Body Sculpting <span className="tag-link-count">(2)</span></a>
                     </Link>
                     <Link href="#">
-                        <a>Software <span className="tag-link-count">(2)</span></a>
+                        <a>Beauty Business <span className="tag-link-count">(2)</span></a>
                     </Link>
                     <Link href="#">
-                        <a>Travel <span className="tag-link-count">(1)</span></a>
+                        <a>Health and Safety<span className="tag-link-count">(1)</span></a>
                     </Link>
                     <Link href="#">
-                        <a>Smart <span className="tag-link-count">(1)</span></a>
+                        <a>Trends and Innovations <span className="tag-link-count">(1)</span></a>
                     </Link>
                     <Link href="#">
-                        <a>Marketing <span className="tag-link-count">(1)</span></a>
+                        <a>Professional Development <span className="tag-link-count">(1)</span></a>
                     </Link>
                     <Link href="#">
-                        <a>Tips <span className="tag-link-count">(2)</span></a>
+                        <a>Self-Care and Wellness <span className="tag-link-count">(2)</span></a>
                     </Link>
                     <Link href="#">
-                        <a>Website <span className="tag-link-count">(2)</span></a>
+                        <a>Beauty Industry Insights<span className="tag-link-count">(2)</span></a>
                     </Link>
                 </div>
             </div>

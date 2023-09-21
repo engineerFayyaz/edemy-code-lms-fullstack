@@ -32,7 +32,7 @@ const Instance = () => {
 				</div>
 			</div>
 			<div className="bulb">
-				<img src="/images/bulb2.png" alt="image" />
+				{/* <img src="/images/bulb2.png" alt="image" /> */}
 			</div>
 		</div>
 	);

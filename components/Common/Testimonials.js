@@ -9,11 +9,9 @@ const Testimonials = () => {
 				<div className="container">
 					<div className="section-title">
 						<span className="sub-title">Testimonials</span>
-						<h2>What People Say About eDemy</h2>
+						<h2>What People Say About Toxic Beauty Academy</h2>
 						<p>
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-							sed do eiusmod tempor incididunt ut labore et dolore
-							magna aliqua.
+						Toxic Beauty Academy is more than just a school; it's a stepping stone to success. I couldn't have asked for a better place to nurture my beauty skills.
 						</p>
 					</div>
 
@@ -38,17 +36,10 @@ const Testimonials = () => {
 									alt="image"
 								/>
 								<p>
-									Lorem ipsum dolor sit amet, consectetur
-									adipiscing elit, sed do eiusmod tempor
-									incididunt ut labore et dolore magna aliqua.
-									Quis ipsum ultrices gravida. Risus commodo
-									viverra maecenas accumsan lacus vel facilisis.
-									Lorem ipsum dolor sit amet, consectetur
-									adipiscing elit, sed tempor incididunt ut labore
-									et dolore.
+								The instructors at Toxic Beauty Academy are true experts in the beauty industry. Their guidance has been invaluable in shaping my career.
 								</p>
 								<h3>John Smith</h3>
-								<span>Python Developer</span>
+								<span>Skin Care</span>
 
 								<div className="shape-img">
 									<img
@@ -78,17 +69,10 @@ const Testimonials = () => {
 									alt="image"
 								/>
 								<p>
-									Lorem ipsum dolor sit amet, consectetur
-									adipiscing elit, sed do eiusmod tempor
-									incididunt ut labore et dolore magna aliqua.
-									Quis ipsum ultrices gravida. Risus commodo
-									viverra maecenas accumsan lacus vel facilisis.
-									Lorem ipsum dolor sit amet, consectetur
-									adipiscing elit, sed tempor incididunt ut labore
-									et dolore.
+								I was skeptical about online learning, but Toxic Beauty Academy proved me wrong. The interactive courses and feedback are top-notch.
 								</p>
 								<h3>Sarah Taylor</h3>
-								<span>PHP Developer</span>
+								<span>Beauty Expert</span>
 
 								<div className="shape-img">
 									<img
@@ -118,17 +102,10 @@ const Testimonials = () => {
 									alt="image"
 								/>
 								<p>
-									Lorem ipsum dolor sit amet, consectetur
-									adipiscing elit, sed do eiusmod tempor
-									incididunt ut labore et dolore magna aliqua.
-									Quis ipsum ultrices gravida. Risus commodo
-									viverra maecenas accumsan lacus vel facilisis.
-									Lorem ipsum dolor sit amet, consectetur
-									adipiscing elit, sed tempor incididunt ut labore
-									et dolore.
+								Toxic Beauty Academy's commitment to excellence shines through in every aspect of their education. I'm proud to be a part of this community.
 								</p>
 								<h3>David Warner</h3>
-								<span>QA Developer</span>
+								<span>Dentist</span>
 
 								<div className="shape-img">
 									<img

@@ -23,30 +23,30 @@ const ApplyAsInstructor = () => {
                                 </TabList>
                             
                                 <TabPanel>
-                                    <h3>Course Description</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                                    <h3>Beauty Awareness</h3>
+                                    <p>As a beauty educator at Toxic Beauty Academy, you will be responsible for delivering high-quality beauty education to our students..</p>
+                                    <p>You will create and implement engaging lesson plans that cover a range of beauty topics, ensuring that students gain practical skills and industry knowledge..</p>
                                     <h3>Certification</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
+                                    <p>LA passion for the beauty industry and a desire to inspire and educate others..</p>
                                 </TabPanel>
 
                                 <TabPanel>
-                                    <h3>Course Description</h3>
+                                    <h3>Body Sculpting</h3>
 
-                                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+                                    <p>Our Body Sculpting course covers a wide range of techniques, including body contouring, cellulite reduction, fat reduction, and skin tightening. You'll learn the latest non-invasive and minimally invasive methods to sculpt the body effectively..</p>
  
-                                    <p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.</p>
+                                    <p>Our experienced instructors are industry experts who have mastered the art of body sculpting. They will provide you with hands-on training, personalized guidance.</p>
  
                                     <h3>Certification</h3>
-                                    <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non providrum facilis est et expedita.</p>
+                                    <p>Toxic Beauty Academy is equipped with state-of-the-art devices and tools used in the body sculpting industry.</p>
                                 </TabPanel>
 
                                 <TabPanel>
-                                    <h3>Course Description</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                                    <h3>Lashes</h3>
+                                    <p>Lash Extension Techniques: Learn a variety of lash extension techniques, including classic, volume, hybrid, and mega volume lashes. Master the art of creating customized lash looks to suit every client's unique style.</p>
+                                    <p>Adhesive Mastery: Gain in-depth knowledge of lash adhesives, ensuring safe and long-lasting lash applications. Understand the science behind adhesives and how to select the right one for each client.</p>
                                     <h3>Certification</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
+                                    <p>Upon successful completion of our Lash Artistry course, you'll receive a prestigious Toxic Beauty Academy certification, showcasing your expertise in lash extensions.</p>
                                 </TabPanel>
                             </Tabs>
                         </div>

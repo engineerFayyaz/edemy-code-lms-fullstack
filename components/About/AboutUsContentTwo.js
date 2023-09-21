@@ -21,12 +21,10 @@ const AboutUsContentTwo = () => {
             <div className="col-lg-5 col-md-12">
               <div className="about-content-box">
                 <span className="sub-title">Distance Learning</span>
-                <h2>Build Your Project Management Skills Online, Anytime</h2>
+                <h2>Build Your  Skills Online, Anytime</h2>
                 <p>
-                  Want to learn and earn PDUs or CEUs on your schedule —
-                  anytime, anywhere? Or, pick up a new skill quickly like,
-                  project team leadership or agile? Browse our most popular
-                  online courses.
+                At Toxic Beauty Academy, we believe that true beauty education should know no boundaries. 
+                Join us in our Distance Learning program and let your passion for beauty take flight.
                 </p>
                 <p>
                   <strong>

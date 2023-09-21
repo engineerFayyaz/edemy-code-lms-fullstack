@@ -27,7 +27,7 @@ const LatestNews = () => {
                                 </Link>
                                 <h3>
                                     <Link href="/single-blog-1">
-                                        <a>University Admissions Could Face Emergency Controls</a>
+                                        <a>Empowering Through Education: Toxic Beauty Academy's Commitment to Excellence</a>
                                     </Link>
                                 </h3>
                                 <ul className="post-content-footer d-flex justify-content-between align-items-center">
@@ -60,7 +60,7 @@ const LatestNews = () => {
                                 </Link>
                                 <h3>
                                     <Link href="/single-blog-1">
-                                        <a>Online Learning Can Prepare Students For A Fast-Changing</a>
+                                        <a>Online Learning: Preparing Students for a Fast-Changing Beauty Industry</a>
                                     </Link>
                                 </h3>
                                 <ul className="post-content-footer d-flex justify-content-between align-items-center">
@@ -93,7 +93,7 @@ const LatestNews = () => {
                                 </Link>
                                 <h3>
                                     <Link href="/single-blog-1">
-                                        <a>As Learning Moves Online, Trigger Warnings Must Too</a>
+                                        <a>As Learning Moves Online, Trigger Warnings Must Adapt: Navigating Sensitivity in the Digital Learning Landscape</a>
                                     </Link>
                                 </h3>
                                 <ul className="post-content-footer d-flex justify-content-between align-items-center">

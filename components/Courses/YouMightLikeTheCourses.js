@@ -21,7 +21,7 @@ const YouMightLikeTheCourses = () => {
                                 <a href="#" className="fav">
                                     <i className="flaticon-heart"></i>
                                 </a>
-                                <div className="price shadow">$39</div>
+                                <div className="price shadow">$180</div>
                             </div>
                             <div className="courses-content">
                                 <div className="course-author d-flex align-items-center">
@@ -30,10 +30,10 @@ const YouMightLikeTheCourses = () => {
                                 </div>
                                 <h3>
                                     <Link href="/single-courses-1">
-                                        <a>The Data Science Course 2020: Complete Data Science Bootcamp</a>
+                                        <a>Body Contouring 6-in-1 Masterclass</a>
                                     </Link>
                                 </h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                                <p>This turnkey Body Contouring online certification course teaches you Ultrasound Fat Cavitation, RF (Radiofrequency), Vacuum/LED AND Lipo Laser.</p>
                                 <ul className="courses-box-footer d-flex justify-content-between align-items-center">
                                     <li>
                                         <i className='flaticon-agenda'></i> 15 Lessons
@@ -57,7 +57,7 @@ const YouMightLikeTheCourses = () => {
                                 <a href="#" className="fav">
                                     <i className="flaticon-heart"></i>
                                 </a>
-                                <div className="price shadow">$49</div>
+                                <div className="price shadow">$180</div>
                             </div>
                             <div className="courses-content">
                                 <div className="course-author d-flex align-items-center">
@@ -66,10 +66,10 @@ const YouMightLikeTheCourses = () => {
                                 </div>
                                 <h3>
                                     <Link href="/single-courses-1">
-                                        <a>Java Programming MasterclassName for Software Developers</a>
+                                        <a>The Booty and Body Sculpting Masterclass</a>
                                     </Link>
                                 </h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                                <p>The ultimate online butt lift course showing you how to give your clients the enhanced booties and hourglass figures they desire…performing advanced techniques with Vacuum Therapy and Vacuum Cupping Technology!</p>
                                 <ul className="courses-box-footer d-flex justify-content-between align-items-center">
                                     <li>
                                         <i className='flaticon-agenda'></i> 20 Lessons
@@ -102,10 +102,10 @@ const YouMightLikeTheCourses = () => {
                                 </div>
                                 <h3>
                                     <Link href="/single-courses-1">
-                                        <a>Deep Learning A-Z™: Hands-On Artificial Neural Networks</a>
+                                        <a>Cryolipolysis (Fat Freezing) Certification Course</a>
                                     </Link>
                                 </h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                                <p>Cryolipolysis (fat freezing) is a non-invasive body contouring technology that utilizes cold temperatures to destroy fat cells, leading to fat reduction in the treated area.</p>
                                 <ul className="courses-box-footer d-flex justify-content-between align-items-center">
                                     <li>
                                         <i className='flaticon-agenda'></i> 20 Lessons
