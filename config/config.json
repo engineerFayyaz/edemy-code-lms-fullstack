@@ -1,15 +1,15 @@
 {
 	"development": {
 		"username": "postgres",
-		"password": "Fayyaz",
-		"database": "Lms-database1",
+		"password": "Hassan@7860",
+		"database": "edemy_app_dev",
 		"host": "127.0.0.1",
 		"dialect": "postgres"
 	},
 	"test": {
 		"username": "postgres",
-		"password": "Fayyaz",
-		"database": "Lms-Dataset_test",
+		"password": "Hassan@7860",
+		"database": "edemy_database_test",
 		"host": "127.0.0.1",
 		"dialect": "postgres"
 	},

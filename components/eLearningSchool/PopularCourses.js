@@ -60,7 +60,7 @@ const PopularCourses = ({ courses }) => {
 
                     <div className="col-lg-12 col-md-12">
                         <div className="courses-info">
-                            <p>Experience the finest in learning techniques and unlock advanced wood therapy skills. Your journey towards becoming a master in this craft begins here, and we'll be your trusted guide every step of the way. Sign up for free today and take the first stride toward your wood therapy mastery!<Link href="/profile-authentication"><a>Register Free Now!</a></Link>.</p>
+                            <p>Experience the finest in learning techniques and unlock advanced wood therapy skills. Your journey towards becoming a master in this craft begins here, and we'll be your trusted guide every step of the way. Sign up for free today and take the first stride toward your wood therapy mastery!<Link href="/profile-authentication"><a>Register Now!</a></Link>.</p>
                         </div>
                     </div>
                 </div>

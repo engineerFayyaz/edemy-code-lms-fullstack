@@ -34,7 +34,6 @@ const AboutUs = () => {
                             </div>
                         </div>
                     </div>
-
                     <div className="col-lg-6 col-md-12">
                         <div className="about-content">
                             <span className="sub-title">Online learning</span>

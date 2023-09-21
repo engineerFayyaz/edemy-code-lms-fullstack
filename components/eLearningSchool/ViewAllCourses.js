@@ -14,7 +14,7 @@ const ViewAllCourses = () => {
 
                             <Link href="/courses-1">
                                 <a className="default-btn">
-                                    <i className="flaticon-agenda"></i> View Courses <span></span>
+                                    <i className="flaticon-agenda"></i> View all Courses <span></span>
                                 </a>
                             </Link>
                         </div>

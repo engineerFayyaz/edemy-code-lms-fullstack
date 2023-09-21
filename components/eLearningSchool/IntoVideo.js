@@ -18,7 +18,7 @@ const IntoVideo = () => {
 			<div className="video-box">
 				<div className="image">
 					<img
-						src="/images/video-new-img1.jpg"
+						src="/images/Video-new-img1.jpg"
 						className="shadow"
 						alt="image"
 					/>

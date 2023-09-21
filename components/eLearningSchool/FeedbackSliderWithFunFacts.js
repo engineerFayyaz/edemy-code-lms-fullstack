@@ -13,7 +13,7 @@ const FeedbackSliderWithFunFacts = () => {
 					<div className="row align-items-center">
 						<div className="col-lg-6 col-md-12">
 							<div className="feedback-content">
-								<span className="sub-title">Distance learning</span>
+								<span className="sub-title">DISTANCE LEARNING</span>
 								<h2>
 								Tailored Learning on Your Terms, Aligned with Your Personal Goals
 								</h2>

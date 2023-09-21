@@ -9,7 +9,7 @@ const GetInstantCourses = () => {
                     <div className="row align-items-center">
                         <div className="col-lg-8 col-md-12">
                             <div className="get-instant-courses-content">
-                                <span className="sub-title">Get Instant Access</span>
+                                <span className="sub-title">Get instant Access</span>
                                 <h2>Wood Therapy Mastery Program</h2>
                                 <p>Our Wood Therapy Mastery Program is your pathway to a profound understanding of this ancient healing art, empowering you to enhance your career like never before! We believe that learning should be both enriching and fulfilling, as it's only through such experiences that true transformation can occur!</p>
 
