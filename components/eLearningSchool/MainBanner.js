@@ -9,8 +9,8 @@ const MainBanner = ({ courses }) => {
                 <div className="row align-items-center">
                     <div className="col-lg-6 col-md-12">
                         <div className="main-banner-content">
-                            <h1>The World’s Leading Distance Learning Provider</h1>
-                            <p>Flexible easy to access learning opportunities can bring a significant change in how individuals prefer to learn! The eDemy can offer you to enjoy the beauty of eLearning!</p>
+                            <h1>Crafting Wellness through Wood Therapy</h1>
+                            <p>Embark on a transformative journey with our Wood Therapy Course, where ancient wisdom meets modern wellness. Dive deep into the art of holistic healing through the power of wooden tools. Discover the therapeutic techniques of wood therapy, harnessing the natural energy of wood to rejuvenate the body and spirit. </p>
 
                             <Link href="/profile-authentication">
                                 <a className="default-btn">

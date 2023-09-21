@@ -7,8 +7,8 @@ const PopularCourses = ({ courses }) => {
             <div className="container">
                 <div className="section-title">
                     <span className="sub-title">Learn At Your Own Pace</span>
-                    <h2>eDemy Popular Courses</h2>
-                    <p>Explore all of our courses and pick your suitable ones to enroll and start learning with us! We ensure that you will never regret it!</p>
+                    <h2>Toxis Beauty Academy Popular Courses</h2>
+                    <p>Discover our wide array of wood therapy courses, tailor-made for your preferences. Choose the ones that resonate with you and embark on a rewarding learning journey! We guarantee you won't look back.</p>
                 </div>
 
                 <div className="row justify-content-center">
@@ -60,7 +60,7 @@ const PopularCourses = ({ courses }) => {
 
                     <div className="col-lg-12 col-md-12">
                         <div className="courses-info">
-                            <p>Enjoy the top notch learning methods and achieve next level skills! You are the creator of your own career & we will guide you through that. <Link href="/profile-authentication"><a>Register Free Now!</a></Link>.</p>
+                            <p>Experience the finest in learning techniques and unlock advanced wood therapy skills. Your journey towards becoming a master in this craft begins here, and we'll be your trusted guide every step of the way. Sign up for free today and take the first stride toward your wood therapy mastery!<Link href="/profile-authentication"><a>Register Free Now!</a></Link>.</p>
                         </div>
                     </div>
                 </div>
