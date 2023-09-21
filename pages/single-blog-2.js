@@ -20,7 +20,7 @@ const BlogDetails = () => {
                         <div className="col-lg-8 col-md-12">
                             <div className="blog-details-desc">
                                 <div className="article-video">
-                                    <iframe src="https://www.youtube.com/embed/bk7McNUjWgw"></iframe>
+                                    <iframe src="https://www.youtube.com/watch?v=IT94xC35u6k"></iframe>
                                 </div>
 
                                 <div className="article-content">
