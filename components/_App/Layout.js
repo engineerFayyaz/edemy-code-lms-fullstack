@@ -38,12 +38,12 @@ const Layout = ({ children, user }) => {
     return(
         <>
             <Head>
-                <title>eDemy -  React Next.js LMS Education & Online Courses Theme</title>
+                <title>Toxic Beauty Academy</title>
                 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-                <meta name="description" content="eDemy -  React Next.js LMS Education & Online Courses Theme" />
-                <meta name="og:title" property="og:title" content="eDemy -  React Next.js LMS Education & Online Courses Theme"></meta>
-                <meta name="twitter:card" content="eDemy -  React Next.js LMS Education & Online Courses Theme"></meta>
-                <link rel="canonical" href="https://edemy-react.envytheme.com/"></link>
+                <meta name="description" content="Toxic Beauty Acadmey Explore your Skills" />
+                <meta name="og:title" property="og:title" content="Toxic Beauty Acadmey Explore your Skills"></meta>
+                <meta name="twitter:card" content="Toxic Beauty Acadmey- LMS Education & Online Courses"></meta>
+                <link rel="canonical" href="https://codes-inc.com//"></link>
             </Head>
 
             {loader && <Preloader />}
