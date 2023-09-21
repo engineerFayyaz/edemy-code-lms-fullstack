@@ -7,7 +7,7 @@ const PopularCoursesTwo = () => {
             <div className="container">
                 <div className="section-title">
                     <span className="sub-title">Go at your own pace</span>
-                    <h2>Project Management Master's Program</h2>
+                    <h2>Project lymphatic drainage Program</h2>
                     <p>Explore all of our courses and pick your suitable ones to enroll and start learning with us! We ensure that you will never regret it!</p>
                 </div>
 
@@ -23,15 +23,15 @@ const PopularCoursesTwo = () => {
                                 <Link href="#">
                                     <a className="fav"><i className="flaticon-heart"></i></a>
                                 </Link>
-                                <div className="price shadow">$39</div>
+                                <div className="price shadow">$500</div>
                             </div>
                             <div className="courses-content">
                                 <h3>
                                     <Link href="/single-courses-2">
-                                        <a>PMP® Plus</a>
+                                        <a>Massage Therapist</a>
                                     </Link>
                                 </h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                                <p>If just the mention of a massage can conjure the aura of tranquillity and well-being, then one can imagine the world of good an entire session with an accomplished Massage Therapist can do to an individua.</p>
                                 <ul className="courses-box-footer d-flex justify-content-between align-items-center">
                                     <li>
                                         <i className='flaticon-agenda'></i> 15 Lessons
@@ -55,15 +55,15 @@ const PopularCoursesTwo = () => {
                                 <Link href="#">
                                     <a className="fav"><i className="flaticon-heart"></i></a>
                                 </Link>
-                                <div className="price shadow">$49</div>
+                                <div className="price shadow">$500</div>
                             </div>
                             <div className="courses-content">
                                 <h3>
                                     <Link href="/single-courses-2">
-                                        <a>PMP® Renewal Pack</a>
+                                        <a>Aromatherapists</a>
                                     </Link>
                                 </h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                                <p>When Vladimir Nabokov wrote, “nothing revives the past so completely as a smell that was once associated with it”, he was onto something. Our sense of smell is deeply tied to our memories and emotions.</p>
                                 <ul className="courses-box-footer d-flex justify-content-between align-items-center">
                                     <li>
                                         <i className='flaticon-agenda'></i> 20 Lessons
@@ -87,15 +87,15 @@ const PopularCoursesTwo = () => {
                                 <Link href="#">
                                     <a className="fav"><i className="flaticon-heart"></i></a>
                                 </Link>
-                                <div className="price shadow">$59</div>
+                                <div className="price shadow">$500</div>
                             </div>
                             <div className="courses-content">
                                 <h3>
                                     <Link href="/single-courses-2">
-                                        <a>Digital Project Manager</a>
+                                        <a>Yoga Therapist</a>
                                     </Link>
                                 </h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                                <p> Yoga, which aims at a mind free from all disturbances, teaches one how to listen to one’s body. Yoga Therapists work with clients to help improve their relationship with their body and their environment</p>
                                 <ul className="courses-box-footer d-flex justify-content-between align-items-center">
                                     <li>
                                         <i className='flaticon-agenda'></i> 20 Lessons

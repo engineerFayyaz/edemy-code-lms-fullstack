@@ -11,9 +11,7 @@ const CourseAdvisor = () => {
 					<span className="sub-title">Instructor</span>
 					<h2>Course Advisor</h2>
 					<p>
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-						sed do eiusmod tempor incididunt ut labore et dolore
-						magna aliqua.
+					Learn how to do manual lymphatic drainage massage (MLD) from best-selling massage course instructor
 					</p>
 				</div>
 
@@ -54,17 +52,14 @@ const CourseAdvisor = () => {
 									<div className="advisor-content">
 										<h3>
 											<a href="profile.html">
-												William James
+											Michael Eric Everson
 											</a>
 										</h3>
 										<span className="sub-title">
-											Project Management Expert
+											Message Therapist
 										</span>
 										<p>
-											Lorem ipsum dolor sit amet,
-											consectetur adipiscing elit, sed do
-											eiusmod tempor incididunt ut labore
-											et dol aliqua.
+										Michael is a world-renowned Manual Osteopath, Registered Massage Therapist, and Yoga Teacher  that draws from a diverse background and lifelong pursuit of knowledge in the health and wellness space.
 										</p>
 
 										<ul className="social-link">
@@ -131,13 +126,10 @@ const CourseAdvisor = () => {
 											</a>
 										</h3>
 										<span className="sub-title">
-											Agile Project Expert
+										Aromatherapists
 										</span>
 										<p>
-											Lorem ipsum dolor sit amet,
-											consectetur adipiscing elit, sed do
-											eiusmod tempor incididunt ut labore
-											et dol aliqua.
+										Sarah Taylor holds a Diploma in Holistic Aromatherapy, Holistic Massage, Anatomy, and Physiology, and Reflexology from the Raworth College of Natural Medicine in Dorking, the UK.
 										</p>
 										<ul className="social-link">
 											<li>
@@ -203,13 +195,10 @@ const CourseAdvisor = () => {
 											</a>
 										</h3>
 										<span className="sub-title">
-											QA Project Expert
+										 Yoga Therapist
 										</span>
 										<p>
-											Lorem ipsum dolor sit amet,
-											consectetur adipiscing elit, sed do
-											eiusmod tempor incididunt ut labore
-											et dol aliqua.
+										Maxine has been practising yoga since 2008, when she initially came to yoga as a pro-active approach to injury prevention while engaging in other activities such as cycling and long distance running.
 										</p>
 										<ul className="social-link">
 											<li>

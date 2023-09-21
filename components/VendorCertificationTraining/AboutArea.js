@@ -22,13 +22,11 @@ const AboutArea = () => {
           <div className="row align-items-center">
             <div className="col-lg-5 col-md-12">
               <div className="about-content-box">
-                <span className="sub-title">Distance Learning</span>
-                <h2>Build Your Project Management Skills Online, Anytime</h2>
+                <span className="sub-title">lymphaticdrainage</span>
+                <h2>Build Your lymphaticdrainage Skills Online, Anytime</h2>
                 <p>
-                  Want to learn and earn PDUs or CEUs on your schedule —
-                  anytime, anywhere? Or, pick up a new skill quickly like,
-                  project team leadership or agile? Browse our most popular
-                  online courses.
+                Lymphatic drainage massage, also known as manual lymphatic drainage, is a gentle form of massage used to relieve painful swelling in your arms and legs caused by lymphedema. 
+                Lymphedema often affects people recovering from breast cancer surgery.
                 </p>
                 <p>
                   <strong>
@@ -78,7 +76,7 @@ const AboutArea = () => {
         <ModalVideo
           channel="youtube"
           isOpen={!isOpen}
-          videoId="bk7McNUjWgw"
+          videoId="-30hudsIXXE"
           onClose={() => setIsOpen(!isOpen)}
         />
       ) : (
