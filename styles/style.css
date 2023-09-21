@@ -432,10 +432,6 @@ textarea.form-control {
 /*================================================
 Navbar Area CSS
 =================================================*/
-.edemy-nav .container-fluid {
-  padding-left: 40px;
-  padding-right: 40px;
-}
 .edemy-nav .navbar {
   position: inherit;
   padding-left: 0;
@@ -451,20 +447,23 @@ Navbar Area CSS
   padding-left: 0;
   padding-right: 0;
 }
+.edemy-nav .navbar .navbar-brand img{
+  width: 100%;
+}
 .edemy-nav .navbar ul {
-  padding-left: 36px;
+  width: 139%;
   list-style-type: none;
   margin-bottom: 0;
 }
 .edemy-nav .navbar .search-box {
-  margin-left: 50px;
+  margin-left: 0px;
   position: relative;
   width: 300px;
   border-radius: 5px;
 }
 .edemy-nav .navbar .search-box .input-search {
+  margin-left: -7rem;
   display: block;
-  width: 100%;
   height: 48px;
   border: none;
   border-radius: 5px;
@@ -498,7 +497,7 @@ Navbar Area CSS
 }
 .edemy-nav .navbar .search-box button {
   position: absolute;
-  right: 0;
+  right: 2rem;
   top: 0;
   height: 48px;
   background-color: transparent;
@@ -854,8 +853,6 @@ Navbar Area CSS
 .navbar-area {
   position: relative;
   background-color: #ffffff;
-  padding-top: 5px;
-  padding-bottom: 5px;
   z-index: 9999999;
 }
 .navbar-area.is-sticky {
