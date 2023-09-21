@@ -91,92 +91,91 @@ const Navbar = ({ user }) => {
 														className="nav-link" 
 														onClick={toggleNavbar}
 													>
-														Learning Provider
+														Body Sculpting
 													</a>
 												</Link>
 											</li>
 
 											<li className="nav-item">
 												<Link
-													href="/elearning"
+													href="/woodtherapy"
 													activeClassName="active"
 												>
 													<a
 														onClick={toggleNavbar}
 														className="nav-link"
 													>
-														eLearning School
+														Wood Therapy
 													</a>
 												</Link>
 											</li>
 
 											<li className="nav-item">
 												<Link
-													href="/vendor-certification"
+													href="/lymphaticdrainage"
 													activeClassName="active"
 												>
 													<a
 														onClick={toggleNavbar}
 														className="nav-link"
 													>
-														Vendor Certification
-														Training
+														Lymphatic Drainage
 													</a>
 												</Link>
 											</li>
 
 											<li className="nav-item">
 												<Link
-													href="/online-training"
+													href="/lipfillers"
 													activeClassName="active"
 												>
 													<a
 														onClick={toggleNavbar}
 														className="nav-link"
 													>
-														Online Training School
+														Lip Fillers
 													</a>
 												</Link>
 											</li>
 
 											<li className="nav-item">
 												<Link
-													href="/distance-learning"
+													href="/teethwhitening"
 													activeClassName="active"
 												>
 													<a
 														onClick={toggleNavbar}
 														className="nav-link"
 													>
-														Distance Learning
+														Teeth whitening
 													</a>
 												</Link>
 											</li>
 
 											<li className="nav-item">
 												<Link
-													href="/language-school"
+													href="/hairextensions"
 													activeClassName="active"
 												>
 													<a
 														onClick={toggleNavbar}
 														className="nav-link"
 													>
-														Language School
+														Hair Extensions
 													</a>
 												</Link>
 											</li>
 
 											<li className="nav-item">
 												<Link
-													href="/modern-schooling"
+													href="/fatdesolvingshots"
 													activeClassName="active"
 												>
 													<a
 														onClick={toggleNavbar}
 														className="nav-link"
 													>
-														Modern Schooling
+														Fat Desolving Shots
 													</a>
 												</Link>
 											</li>
@@ -211,14 +210,14 @@ const Navbar = ({ user }) => {
 
 											<li className="nav-item">
 												<Link
-													href="/kindergaten"
+													href="/lashes"
 													activeClassName="active"
 												>
 													<a
 														onClick={toggleNavbar}
 														className="nav-link"
 													>
-														Kindergaten
+														Lashes
 													</a>
 												</Link>
 											</li>
