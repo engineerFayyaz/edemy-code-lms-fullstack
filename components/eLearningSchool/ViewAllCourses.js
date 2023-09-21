@@ -9,12 +9,12 @@ const ViewAllCourses = () => {
                     <div className="col-lg-6 col-md-12">
                         <div className="view-all-courses-content">
                             <span className="sub-title">Distance learning</span>
-                            <h2>Feel Like You Are Attending Your classNamees Physically!</h2>
-                            <p>eDemy training programs can bring you a super exciting experience of learning through online! You never face any negative experience while enjoying your classNamees virtually by sitting in your comfort zone. Our flexible learning initiatives will help you to learn better and quicker than the traditional ways of learning skills.</p>
+                            <h2>Experience the Authenticity of In-Person Learning!</h2>
+                            <p>Our Wood Therapy courses offer a remarkable online learning experience that feels just like being present in a physical classroom! You'll never miss out on the authenticity of learning, even as you enjoy your classes from the comfort of your own space. Our flexible and engaging learning methods are designed to accelerate your wood therapy expertise, surpassing the conventional ways of skill development.</p>
 
                             <Link href="/courses-1">
                                 <a className="default-btn">
-                                    <i className="flaticon-agenda"></i> View Courses <span></span>
+                                    <i className="flaticon-agenda"></i> View all Courses <span></span>
                                 </a>
                             </Link>
                         </div>

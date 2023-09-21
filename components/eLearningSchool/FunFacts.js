@@ -14,7 +14,7 @@ const FunFacts = () => {
                 <div className="col-lg-6 col-md-6 col-sm-6">
                     <div className="single-funfacts-box">
                         <h3>3,279</h3>
-                        <p>Enrolled Learners</p>
+                        <p>Enrolled learners</p>
                     </div>
                 </div>
 

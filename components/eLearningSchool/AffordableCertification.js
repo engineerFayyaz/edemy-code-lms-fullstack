@@ -6,9 +6,9 @@ const AffordableCertification = () => {
         <div className="premium-access-area ptb-100">
             <div className="container">
                 <div className="premium-access-content">
-                    <span className="sub-title">Affordable Certification</span>
-                    <h2>Get Your Quality Skills Certificate Through Online Exam</h2>
-                    <p>Students friendly pricing for the certificate programs helps individuals to get their skill certificate easier than ever!</p>
+                    <span className="sub-title">Accessible Certification</span>
+                    <h2>Earn Your Prestigious Wood Therapy Certificate with Online Examinations</h2>
+                    <p>Our student-friendly pricing for certification programs ensures that individuals can obtain their valuable wood therapy certificates with unparalleled ease!</p>
                     
                     <Link href="/membership-levels">
                         <a className="default-btn">

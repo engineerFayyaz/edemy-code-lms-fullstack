@@ -13,19 +13,12 @@ const FeedbackSliderWithFunFacts = () => {
 					<div className="row align-items-center">
 						<div className="col-lg-6 col-md-12">
 							<div className="feedback-content">
-								<span className="sub-title">Distance learning</span>
+								<span className="sub-title">DISTANCE LEARNING</span>
 								<h2>
-									Flexible Study at Your Own Pace, According to
-									Your Own Needs
+								Tailored Learning on Your Terms, Aligned with Your Personal Goals
 								</h2>
 								<p>
-									With the eDemy, you can study whenever and
-									wherever you choose. We have students in over
-									175 countries and a global reputation as a
-									pioneer in the field of flexible learning. Our
-									teaching also means, if you travel often or need
-									to relocate, you can continue to study wherever
-									you go.
+								At the Wooden Therapy Academy, you have the freedom to study at your convenience and adapt to your unique needs. Our student community spans across 175+ countries, and we're renowned worldwide for pioneering flexible learning in the realm of wooden therapy. Our commitment to your education means that even when you're on the move or embarking on new journeys, your wooden therapy studies can seamlessly accompany you.
 								</p>
 
 								<Swiper 
