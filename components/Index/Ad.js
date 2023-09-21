@@ -41,7 +41,7 @@ const Ad = () => {
 				<ModalVideo
 					channel="youtube"
 					isOpen={!isOpen}
-					videoId="bk7McNUjWgw"
+					videoId="IT94xC35u6k"
 					onClose={() => setIsOpen(!isOpen)}
 				/>
 			) : (

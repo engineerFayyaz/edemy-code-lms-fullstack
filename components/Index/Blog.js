@@ -32,8 +32,7 @@ const Blog = () => {
 								<h3>
 									<Link href="/single-blog-1">
 										<a>
-											University Admissions Could Face
-											Emergency Controls
+										body sculpting
 										</a>
 									</Link>
 								</h3>
