@@ -13,9 +13,9 @@ const SEO = ({ title, description, image }) => {
 };
 
 SEO.defaultProps = {
-	title: "eDemy - React Next.js Education LMS Template",
-	description: "eDemy - React Next.js Education LMS Template",
-	image: "https://res.cloudinary.com/dev-empty/image/upload/v1595838139/vivi/about-img-two.jpg",
+	title: "Toxic Beauty Acadmey Explore your Skills",
+	description: "Toxic Beauty Education LMS system",
+	image: "https://res.cloudinary.com/lms-empty/image/upload/v1595838139/vivi/about-img-two.jpg",
 };
 
 export default SEO;
