@@ -2,14 +2,14 @@
 	"development": {
 		"username": "postgres",
 		"password": "Fayyaz",
-		"database": "edemy_app_dev",
+		"database": "Lms-database1",
 		"host": "127.0.0.1",
 		"dialect": "postgres"
 	},
 	"test": {
 		"username": "postgres",
 		"password": "Fayyaz",
-		"database": "edemy_database_test",
+		"database": "Lms-Dataset_test",
 		"host": "127.0.0.1",
 		"dialect": "postgres"
 	},

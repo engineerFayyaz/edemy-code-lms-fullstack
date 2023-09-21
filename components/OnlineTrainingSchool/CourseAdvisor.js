@@ -12,8 +12,13 @@ const CourseAdvisor = () => {
             <span className="sub-title">Course Advisor</span>
             <h2>Meet Our World-class Instructors</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
+              Dr Tim Pearce’s eLearning courses are aimed at medical
+              professionals and do not replace the need for practical
+              face-to-face training, which this course is designed to
+              complement. This course is not suitable for non-medical
+              practitioners and all medical practitioners should also seek
+              practical hands-on training, which is available at
+              Toxic Beauty Acadmey, before purchasing eLearning.
             </p>
           </div>
 
@@ -33,11 +38,11 @@ const CourseAdvisor = () => {
                 slidesPerView: 3,
               },
             }}
-						autoplay={{
-							delay: 6500,
-							disableOnInteraction: true,
-							pauseOnMouseEnter: true,
-						}}
+            autoplay={{
+              delay: 6500,
+              disableOnInteraction: true,
+              pauseOnMouseEnter: true,
+            }}
             modules={[Pagination, Autoplay]}
             className="advisor-slides-two"
           >
@@ -73,10 +78,10 @@ const CourseAdvisor = () => {
                 <div className="advisor-content">
                   <h3>
                     <Link href="/profile">
-                      <a>James Andy</a>
+                      <a>Dr Tim Pearce</a>
                     </Link>
                   </h3>
-                  <span>Project Management Expert</span>
+                  <span>Toxic Beauty Acadmey </span>
                 </div>
               </div>
             </SwiperSlide>
@@ -116,7 +121,7 @@ const CourseAdvisor = () => {
                       <a>Jassica Hische</a>
                     </Link>
                   </h3>
-                  <span>Illustrator Expert</span>
+                  <span> DERMAL FILLER TRAININER</span>
                 </div>
               </div>
             </SwiperSlide>
@@ -156,7 +161,7 @@ const CourseAdvisor = () => {
                       <a>Alister Cock</a>
                     </Link>
                   </h3>
-                  <span>QA Project Expert</span>
+                  <span>Nasolabial Folds Advisor</span>
                 </div>
               </div>
             </SwiperSlide>
@@ -196,7 +201,7 @@ const CourseAdvisor = () => {
                       <a>Lina Ninja</a>
                     </Link>
                   </h3>
-                  <span>QA Project Expert</span>
+                  <span>Lips, and Marionette Lines Advisor</span>
                 </div>
               </div>
             </SwiperSlide>
