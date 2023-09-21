@@ -5269,17 +5269,11 @@
 }
 /* Min width 1200px Max width 1355px */
 @media only screen and (min-width: 1200px) and (max-width: 1355px) {
-  .container {
-    max-width: 1140px;
-  }
-  .edemy-nav .container-fluid {
-    max-width: 1200px;
-    padding-left: 15px;
-    padding-right: 60px;
-  }
-  .edemy-nav .navbar .search-box {
+
+
+  /* .edemy-nav .navbar .search-box {
     display: none;
-  }
+  } */
   .edemy-nav .navbar .others-option {
     display: flex !important;
   }
@@ -5489,8 +5483,12 @@
     width: 100%;
   }
   .edemy-nav .navbar .search-box .input-search {
+    margin-left:0px ;
     height: 45px;
     font-size: 14px;
+  }
+  .edemy-nav .navbar .search-box button{
+    right: 0;
   }
   .edemy-nav .navbar .navbar-collapse {
     max-height: 70vh;
@@ -5577,7 +5575,7 @@
     margin-left: 0;
     position: absolute;
     top: 15px;
-    right: 60px;
+    right: 8px;
   }
   .edemy-nav .navbar .others-option .option-item {
     margin-left: 20px;

@@ -27,7 +27,7 @@ const LatestNewsTwo = () => {
                                 </Link>
                                 <h3>
                                     <Link href="/single-blog-3">
-                                        <a>University Admissions Could Face Emergency Controls</a>
+                                        <a>Body Sculpting </a>
                                     </Link>
                                 </h3>
                                 <ul className="post-content-footer d-flex align-items-center">

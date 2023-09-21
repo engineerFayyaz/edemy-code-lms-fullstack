@@ -1,6 +1,6 @@
 import React from 'react';
 import PageBanner from '../components/Common/PageBanner';
-// import PremiumAccessTwo from '../components/Common/PremiumAccessTwo';
+import PremiumAccessTwo from '../components/Common/PremiumAccessTwo';
 import Link from 'next/link';
 
 const Advisor = () => {
