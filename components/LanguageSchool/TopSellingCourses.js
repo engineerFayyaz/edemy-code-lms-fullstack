@@ -95,7 +95,7 @@ const TopSellingCourses = () => {
                                 <a href="#" className="fav">
                                     <i className="flaticon-heart"></i>
                                 </a>
-                                <div className="price shadow">$59</div>
+                                <div className="price shadow">$250</div>
                             </div>
                             <div className="courses-content">
                                 <div className="course-author d-flex align-items-center">

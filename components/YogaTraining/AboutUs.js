@@ -16,7 +16,7 @@ const AboutUs = () => {
                         <div className="about-content">
                             <span className="sub-title">About Us</span>
                             <h2 className="playfair-display-font">Feel Like You Are Attending Your Class Physically!</h2>
-                            <p>eCademy training programs can bring you a super exciting experience of learning through online! You never face any negative experience while enjoying your classNamees virtually by sitting in your comfort zone. Our flexible learning initiatives will help you to learn better and quicker than the traditional ways of learning skills.</p>
+                            <p>Toxic Beauty Academy offers an exhilarating online learning experience. Explore our courses from the comfort of your space, free from any drawbacks. Our adaptable learning methods empower you to master skills efficiently, outpacing conventional learning approaches.</p>
 
                             <Link href="/profile-authentication">
                                 <a className="default-btn mt-2">

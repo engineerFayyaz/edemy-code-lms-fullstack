@@ -8,7 +8,7 @@ const Pricing = () => {
                 <div className="section-title">
                     <span className="sub-title">Pricing</span>
                     <h2 className="playfair-display-font">Our Flexible Pricing Plan</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <p>Discover our flexible pricing plans tailored to your needs. Choose the perfect option to access quality education within your budget.</p>
                 </div>
 
                 <div className="row">
@@ -30,7 +30,7 @@ const Pricing = () => {
                             </div>
 
                             <div className="price">
-                                $499.99
+                                $190.99
                                 <span>Yoga Alliance Certified</span>
                             </div>
 
@@ -65,7 +65,7 @@ const Pricing = () => {
                             </div>
 
                             <div className="price">
-                                $599.99
+                                $299.99
                                 <span>Yoga Alliance Certified</span>
                             </div>
 
@@ -100,7 +100,7 @@ const Pricing = () => {
                             </div>
 
                             <div className="price">
-                                $699.99
+                                $399.99
                                 <span>Yoga Alliance Certified</span>
                             </div>
 
