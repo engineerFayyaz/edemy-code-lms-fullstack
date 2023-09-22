@@ -35,7 +35,7 @@ const FeedbackSlider = () => {
                   <img src="/images/user1.jpg" alt="image" />
                   <div className="title">
                     <h3>John Smith</h3>
-                    <span>Python Developer</span>
+                    <span>hair extensionist</span>
                   </div>
                 </div>
               </div>
@@ -56,7 +56,7 @@ const FeedbackSlider = () => {
                   <img src="/images/user2.jpg" alt="image" />
                   <div className="title">
                     <h3>David Warner</h3>
-                    <span>Java Developer</span>
+                    <span>hair extensionist</span>
                   </div>
                 </div>
               </div>
@@ -77,7 +77,7 @@ const FeedbackSlider = () => {
                   <img src="/images/user3.jpg" alt="image" />
                   <div className="title">
                     <h3>Sarah Taylor</h3>
-                    <span>PHP Developer</span>
+                    <span>hair extensionist</span>
                   </div>
                 </div>
               </div>

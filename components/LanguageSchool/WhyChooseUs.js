@@ -8,15 +8,15 @@ const WhyChooseUs = () => {
                 <div className="row align-items-center">
                     <div className="col-lg-6 col-md-12">
                         <div className="about-image text-center">
-                            <img src="/images/about-img9.png" alt="image" />
+                            <img src="/images/about-img7.png" alt="image" />
                         </div>
                     </div>
 
                     <div className="col-lg-6 col-md-12">
                         <div className="about-content">
                             <span className="sub-title">Why choose us</span>
-                            <h2>Language Courses to Help You Explore The World</h2>
-                            <p>We understand better that online-based learning can make a significant change to reach students from all over the world! Giving options to learn better always can offer the best outcomes!</p>
+                            <h2>Unlock the Art of Hair Extensions</h2>
+                            <p>We recognize the power of online education to reach aspiring hairstylists worldwide. Our commitment to diverse learning options ensures your journey to hair extension mastery is as exceptional as the results you'll achieve!</p>
 
                             <ul className="features-list">
                                 <li><span><i className="flaticon-experience"></i> Skiled Teachers</span></li>

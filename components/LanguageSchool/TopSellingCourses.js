@@ -7,8 +7,8 @@ const TopSellingCourses = () => {
             <div className="container">
                 <div className="section-title">
                     <span className="sub-title">Go At Your Own Pace</span>
-                    <h2>Top Selling Courses</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <h2>Top Hair Extension Courses</h2>
+                    <p>Explore the world of hair extensions with courses designed to elevate your skills and transform your career. Discover the art of seamless hair transformations.</p>
                 </div>
 
                 <div className="row">
@@ -17,13 +17,13 @@ const TopSellingCourses = () => {
                             <div className="courses-image">
                                 <Link href="/single-courses-1">
                                     <a className="d-block image">
-                                        <img src="/images/courses/courses1.jpg" alt="image" />
+                                        <img src="/images/hair-extension-courses/hair-extension-course2.webp" alt="image" />
                                     </a>
                                 </Link>
                                 <a href="#" className="fav">
                                     <i className="flaticon-heart"></i>
                                 </a>
-                                <div className="price shadow">$39</div>
+                                <div className="price shadow">$190</div>
                             </div>
                             <div className="courses-content">
                                 <div className="course-author d-flex align-items-center">
@@ -32,10 +32,10 @@ const TopSellingCourses = () => {
                                 </div>
                                 <h3>
                                     <Link href="/single-courses-1">
-                                        <a>Online Course For Korean Level 1</a>
+                                        <a>Fundamentals of Hair Extension Techniques</a>
                                     </Link>
                                 </h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                                <p>Lay the foundation for hair extension mastery, learning essential techniques for volumizing hair with precision.</p>
                                 <ul className="courses-box-footer d-flex justify-content-between align-items-center">
                                     <li>
                                         <i className='flaticon-agenda'></i> 15 Lessons
@@ -53,13 +53,13 @@ const TopSellingCourses = () => {
                             <div className="courses-image">
                                 <Link href="/single-courses-1">
                                     <a className="d-block image">
-                                        <img src="/images/courses/courses2.jpg" alt="image" />
+                                        <img src="/images/hair-extension-courses/hair-extension-course1.jpg" alt="image" />
                                     </a>
                                 </Link>
                                 <a href="#" className="fav">
                                     <i className="flaticon-heart"></i>
                                 </a>
-                                <div className="price shadow">$49</div>
+                                <div className="price shadow">$220</div>
                             </div>
                             <div className="courses-content">
                                 <div className="course-author d-flex align-items-center">
@@ -68,10 +68,10 @@ const TopSellingCourses = () => {
                                 </div>
                                 <h3>
                                     <Link href="/single-courses-1">
-                                        <a>Online Course For Marathi Level 2</a>
+                                        <a>Advanced Hair Extension Artistry</a>
                                     </Link>
                                 </h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                                <p>Elevate your skills to expert level, exploring advanced methods and creative applications for stunning hair transformations.</p>
                                 <ul className="courses-box-footer d-flex justify-content-between align-items-center">
                                     <li>
                                         <i className='flaticon-agenda'></i> 20 Lessons
@@ -89,7 +89,7 @@ const TopSellingCourses = () => {
                             <div className="courses-image">
                                 <Link href="/single-courses-1">
                                     <a className="d-block image">
-                                        <img src="/images/courses/courses3.jpg" alt="image" />
+                                    <img src="/images/hair-extension-courses/hair-extension-course3.webp" alt="image" />
                                     </a>
                                 </Link>
                                 <a href="#" className="fav">
@@ -99,15 +99,15 @@ const TopSellingCourses = () => {
                             </div>
                             <div className="courses-content">
                                 <div className="course-author d-flex align-items-center">
-                                    <img src="/images/user3.jpg" className="rounded-circle" alt="image" />
-                                    <span>David Warner</span>
+                                    <img src="/images/user5.jpg" className="rounded-circle" alt="image" />
+                                    <span>Nenna</span>
                                 </div>
                                 <h3>
                                     <Link href="/single-courses-1">
-                                        <a>Online Course For French Level 3</a>
+                                        <a>Mastering Tape-in Hair Extensions</a>
                                     </Link>
                                 </h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                                <p>Specialize in the art of tape-in extensions, gaining in-depth knowledge and proficiency in this popular and versatile technique.</p>
                                 <ul className="courses-box-footer d-flex justify-content-between align-items-center">
                                     <li>
                                         <i className='flaticon-agenda'></i> 20 Lessons
