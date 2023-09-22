@@ -15,7 +15,7 @@ const MainBanner = () => {
                     <div className="col-lg-6 col-md-12">
                         <div className="health-coaching-banner-content">
                             <h1 className="playfair-display-font">Welcome, <br /> I am Amada, <br /> Your Nutritionist</h1>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <p>Welcome! I'm Amada, your dedicated nutritionist. I'm here to guide you on your journey to a healthier, happier you through personalized and sustainable dietary solutions.</p>
                             <div className="btn-box">
                                 <div className="d-flex align-items-center">
                                     <Link href="/profile-authentication">

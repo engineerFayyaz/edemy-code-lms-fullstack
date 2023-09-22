@@ -9,7 +9,7 @@ const ChooseProgram = () => {
                     <div className="col-lg-6 col-md-12">
                         <div className="program-section-title">
                             <h2 className="playfair-display-font">Choose Your Program Bellow to See How We Can Help</h2>
-                            <p>eDemy training programs can bring you a super exciting experience of learning through online! You never face any negative experience while enjoying your classNamees virtually by sitting in your comfort zone. Our flexible learning initiatives will help you to learn better and quicker than the traditional ways of learning skills.</p>
+                            <p>Toxic Beauty Academy training programs can bring you a super exciting experience of learning through online! You never face any negative experience while enjoying your classNamees virtually by sitting in your comfort zone. Our flexible learning initiatives will help you to learn better and quicker than the traditional ways of learning skills.</p>
 
                             <Link href="/profile-authentication">
                                 <a className="default-btn">
@@ -38,7 +38,7 @@ const ChooseProgram = () => {
                                             </Link>
                                         </h3>
 
-                                        <p>Lorem ipsum dolor sit amet ut, adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                        <p>Toxic Beauty Academy offers certification courses in healthcare, blending beauty and wellness. Join us to gain valuable skills in healthcare, enhancing your career prospects in a dynamic industr.</p>
 
                                         <Link href="#">
                                             <a className="link-btn">Read More</a>
@@ -60,7 +60,7 @@ const ChooseProgram = () => {
                                             </Link>
                                         </h3>
                                         
-                                        <p>Lorem ipsum dolor sit amet ut, adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                        <p>Elevate your well-being with Men's Health Coaching. Empowering men with personalized strategies for physical and mental fitness, we help you thrive in every aspect of life. Join us today!.</p>
                                         
                                         <Link href="#">
                                             <a className="link-btn">Read More</a>
@@ -84,7 +84,7 @@ const ChooseProgram = () => {
                                             </Link>
                                         </h3>
 
-                                        <p>Lorem ipsum dolor sit amet ut, adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                        <p>Elevate your well-being with our women's health coaching. Empower yourself with personalized guidance, nutrition, and fitness support, leading to a healthier, happier you.</p>
                                         
                                         <Link href="#">
                                             <a className="link-btn">Read More</a>

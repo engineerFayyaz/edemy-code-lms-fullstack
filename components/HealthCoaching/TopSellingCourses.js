@@ -35,7 +35,7 @@ const TopSellingCourses = () => {
                                         <a>Diet And Nutrition Coach Certification</a>
                                     </Link>
                                 </h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                                <p>Earn your Diet and Nutrition Coach Certification. Gain expertise in dietary science, meal planning, and client coaching to help others achieve healthier lives through nutrition.</p>
                             </div>
                         </div>
                     </div>
@@ -63,7 +63,7 @@ const TopSellingCourses = () => {
                                         <a>Internationally Accredited Diploma Certificate</a>
                                     </Link>
                                 </h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                                <p>Recognized worldwide. Our programs are accredited internationally, ensuring the highest standards of education and qualification, opening doors to global opportunities and credibility.</p>
                             </div>
                         </div>
                     </div>
@@ -91,7 +91,7 @@ const TopSellingCourses = () => {
                                         <a>Nutrition Certification Diet & Meal Panning</a>
                                     </Link>
                                 </h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                                <p>Nutrition Certification specializing in diet and meal planning. Master the art of crafting personalized,the balanced diets to promote health and well-being with expert guidance of nutrition</p>
                             </div>
                         </div>
                     </div>

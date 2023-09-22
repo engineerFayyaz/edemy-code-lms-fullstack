@@ -7,7 +7,7 @@ const LifestyleCourses = () => {
             <div className="container">
                 <div className="section-title">
                     <h2 className="playfair-display-font">Inspring you to live a healthier lifestyle</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <p>I'm here to inspire you to embrace a healthier lifestyle. Together, we'll make positive choices and achieve your wellness goals for a happier, more vibrant life</p>
                 </div>
 
                 <div className="row">
@@ -23,7 +23,7 @@ const LifestyleCourses = () => {
                                 </Link>
                             </h3>
                             
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                            <p>Discover effective nutrition strategies with me. From balanced meal plans to mindful eating, I'll empower you to make informed choices for a healthier, more energized life.</p>
 
                             <Link href="/courses-1">
                                 <a className="link-btn">Start Now</a>
@@ -43,7 +43,7 @@ const LifestyleCourses = () => {
                                 </Link>
                             </h3>
 
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                            <p>Unlock your full potential with a personalized program tailored just for you. Achieve your goals, whether it's fitness, health, or personal development, through a customized.</p>
                             
                             <Link href="/courses-1">
                                 <a className="link-btn">Start Now</a>
@@ -63,7 +63,7 @@ const LifestyleCourses = () => {
                                 </Link>
                             </h3>
 
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                            <p>Discover the key to wellness with 'Find Your Balance' healthcare. We offer holistic approaches to health, helping you achieve harmony and vitality through tailored solutions.</p>
                             
                             <Link href="/courses-1">
                                 <a className="link-btn">Start Now</a>

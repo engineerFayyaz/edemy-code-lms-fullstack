@@ -8,7 +8,7 @@ const HealthServices = () => {
                 <div className="section-title">
                     <span className="sub-title">Do not wait for Tomorrow!</span>
                     <h2 className="playfair-display-font">You’ve tried dieting a million times. Now try something different.</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <p>Unlock your full potential with a personalized program tailored just for you. Achieve your goals, whether it's fitness, health, or personal development, through a customized and guided journey.</p>
                 </div>
 
                 <div className="row">
@@ -22,7 +22,7 @@ const HealthServices = () => {
                                     <a>Daily Excersize</a>
                                 </Link>
                             </h3>
-                            <p>Lorem ipsum dolor sit amet, conectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse.</p>
+                            <p>Incorporate daily exercise into your healthcare routine for improved well-being. Engage in activities like brisk walks, yoga, or strength training to boost energy, reduce stress, and enhance overall health..</p>
                         </div>
                     </div>
 
@@ -36,7 +36,7 @@ const HealthServices = () => {
                                     <a>Find Your Balance</a>
                                 </Link>
                             </h3>
-                            <p>Lorem ipsum dolor sit amet, conectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse.</p>
+                            <p>Find Your Balance in Healthcare. We provide comprehensive wellness services, combining modern medicine with holistic approaches, ensuring you achieve optimal health and a harmonious, balanced life.</p>
                         </div>
                     </div>
 
@@ -50,7 +50,7 @@ const HealthServices = () => {
                                     <a>Personal Program</a>
                                 </Link>
                             </h3>
-                            <p>Lorem ipsum dolor sit amet, conectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse.</p>
+                            <p>Experience personalized healthcare programs that cater to your unique needs. Our expert team crafts tailored plans encompassing nutrition, exercise, and wellness strategies, enhancing your overall well-being and vitality.</p>
                         </div>
                     </div>
 
@@ -64,7 +64,7 @@ const HealthServices = () => {
                                     <a>Natural Process</a>
                                 </Link>
                             </h3>
-                            <p>Lorem ipsum dolor sit amet, conectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse.</p>
+                            <p>Embrace healthcare through natural processes. We prioritize holistic, non-invasive methods, harnessing the body's innate healing abilities. Experience wellness and vitality through our patient-centered approach.</p>
                         </div>
                     </div>
 
@@ -78,7 +78,7 @@ const HealthServices = () => {
                                     <a>Immune System</a>
                                 </Link>
                             </h3>
-                            <p>Lorem ipsum dolor sit amet, conectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse.</p>
+                            <p>Explore healthcare focused on enhancing your immune system. Our tailored solutions and expert guidance aim to boost your immunity, safeguarding your well-being and vitality in today's world.</p>
                         </div>
                     </div>
 
@@ -92,7 +92,7 @@ const HealthServices = () => {
                                     <a>Gives You Energy</a>
                                 </Link>
                             </h3>
-                            <p>Lorem ipsum dolor sit amet, conectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse.</p>
+                            <p>Our healthcare focuses on revitalizing your energy. We offer personalized solutions, including nutrition, fitness, and lifestyle changes, to boost your vitality and foster long-lasting, vibrant well-being</p>
                         </div>
                     </div>
                 </div>
