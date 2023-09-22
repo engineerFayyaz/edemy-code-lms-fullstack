@@ -690,10 +690,10 @@ Navbar Area CSS
   justify-content: unset;
 }
 .edemy-nav .navbar .navbar-nav .nav-item.megamenu .dropdown-menu {
-  width: 100% !important;
+  width: 50% !important;
   top: auto;
   left: 0;
-  margin-top: 0;
+  margin: 10px auto;
   padding: 30px 0;
   position: absolute;
   transform: unset !important;

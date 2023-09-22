@@ -335,7 +335,7 @@ const Navbar = ({ user }) => {
                     </ul>
                   </li>
 
-                  <li className="nav-item ">
+                  <li className="nav-item megamenu ">
                     <Link href="/">
                       <a
                         onClick={(e) => e.preventDefault()}
@@ -350,7 +350,7 @@ const Navbar = ({ user }) => {
                         <div className="container">
                           <div className="row">
                             <div className="col">
-                              <ul className="submenu">
+                              <ul className="megamenu-submenu">
                                 <li className="nav-item">
                                   <Link
                                     href="/courses-1"
@@ -364,7 +364,6 @@ const Navbar = ({ user }) => {
                                     </a>
                                   </Link>
                                 </li>
-
                                 <li className="nav-item">
                                   <Link
                                     href="/courses-2"
@@ -437,7 +436,7 @@ const Navbar = ({ user }) => {
                               </ul>
                             </div>
                             <div className="col">
-                              <ul className="submenu">
+                              <ul className="megamenu-submenu">
                                 <li className="nav-item">
                                   <Link
                                     href="/single-courses-1"
