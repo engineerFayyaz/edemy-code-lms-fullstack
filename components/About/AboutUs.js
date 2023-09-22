@@ -10,25 +10,25 @@ const AboutUs = () => {
                             <div className="row">
                                 <div className="col-lg-6 col-sm-6 col-md-6 col-6">
                                     <div className="image">
-                                        <img src="/images/about-img1.png" alt="image" />
+                                        <img src="/images/about-img5.jpg" className='rounded-4' alt="image" />
                                     </div>
                                 </div>
 
                                 <div className="col-lg-6 col-sm-6 col-md-6 col-6">
                                     <div className="image">
-                                        <img src="/images/about-img2.png" alt="image" />
+                                        <img src="/images/about-img6.jpg" className='rounded-pill' alt="image" />
                                     </div>
                                 </div>
 
                                 <div className="col-lg-6 col-sm-6 col-md-6 col-6">
                                     <div className="image">
-                                        <img src="/images/about-img3.png" alt="image" />
+                                        <img src="/images/about-img10.png" className='rounded-pill' alt="image" />
                                     </div>
                                 </div>
 
                                 <div className="col-lg-6 col-sm-6 col-md-6 col-6">
                                     <div className="image">
-                                        <img src="/images/about-img4.png" alt="image" />
+                                        <img src="/images/about-img-new-3.jpg" className='rounded-4' alt="image" />
                                     </div>
                                 </div>
                             </div>
@@ -38,10 +38,10 @@ const AboutUs = () => {
                     <div className="col-lg-6 col-md-12">
                         <div className="about-content">
                             <span className="sub-title">DISTANCE LEARNING</span>
-                            <h2>89% of people learning for professional development report career benefits like getting a promotion, starting a new career</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <h2>89% of our dedicated learners experience transformative career benefits, including career advancement and new career opportunities.</h2>
+                            <p>At Toxic beauty Academy, we're committed to providing you with top-notch education in body sculpting, wood therapy, lashes, fat dissolving, health coaching, yoga training, lip fillers, lymphatic drainage, and hair extensions.</p>
 
-                            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+                            <p>Our courses empower you to achieve your professional goals and open doors to exciting career possibilities. Discover the path to success with us!</p>
                             
                             <ul className="features-list">
                                 <li><span><i className="flaticon-experience"></i> Expert Trainers</span></li>
@@ -53,11 +53,6 @@ const AboutUs = () => {
                     </div>
                 </div>
             </div>
-
-            <div className="shape1"><img src="/images/shape1.png" alt="image" /></div>
-            <div className="shape2"><img src="/images/shape2.png" alt="image" /></div>
-            <div className="shape3"><img src="/images/shape3.png" alt="image" /></div>
-            <div className="shape4"><img src="/images/shape4.png" alt="image" /></div>
         </div>
     )
 }
