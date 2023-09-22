@@ -10,7 +10,7 @@ const AboutUs = () => {
                         <div className="kindergarten-about-image">
                             <div className="main-image">
                                 <img src="/images/kindergarten-about-img1.png" alt="image" />
-                                <img src="/images/kindergarten-about-img2.png" alt="image" />
+                                <img src="/images/kindergarten-about-img2.png" className='rounded-5' alt="image" />
                             </div>
                             <div className="shape">
                                 <img src="/images/kite1.png" alt="image" />
@@ -21,14 +21,14 @@ const AboutUs = () => {
                     <div className="col-lg-6 col-md-12">
                         <div className="about-content">
                             <span className="sub-title">About Us</span>
-                            <h2 className="font-weight-black">We are Kindergarten & Childhood is our Passion</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
+                            <h2 className="font-weight-black">Eyelash Extension and Lash Lift</h2>
+                            <p>Learn to skillfully perform eyelash extension and lash curl treatments to grow your business and impress clientele. This course introduces the tools required, procedures and industry standards for hygiene in the work environment.</p>
+                            <p>You will also learn to select the best lashes suitable for the different natural lash lengths and discover how to choose the best shields to give the curl effect that is sure to satisfy your clients..</p>
 
                             <ul className="about-list">
-                                <li><span><i className='bx bx-check'></i> Transportation</span></li>
-                                <li><span><i className='bx bx-check'></i> Outdoor Games</span></li>
-                                <li><span><i className='bx bx-check'></i> Nutritious Food</span></li>
+                                <li><span><i className='bx bx-check'></i> Enhanced Length</span></li>
+                                <li><span><i className='bx bx-check'></i> Customized Looks</span></li>
+                                <li><span><i className='bx bx-check'></i> Semi-Permanent</span></li>
                                 <li><span><i className='bx bx-check'></i> Best Care</span></li>
                             </ul>
 

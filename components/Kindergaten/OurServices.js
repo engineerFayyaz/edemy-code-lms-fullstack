@@ -10,7 +10,7 @@ const OurServices = () => {
 					<div className="section-title">
 						<span className="sub-title">Our Services</span>
 						<h2 className="font-weight-black">
-							Best Services for Kids
+							Best Services of lashes
 						</h2>
 						<p>
 							Explore all of our courses and pick your suitable ones
@@ -47,15 +47,17 @@ const OurServices = () => {
 
 								<div className="content">
 									<div className="icon">
-										<i className="flaticon-guitar"></i>
+										<i className="flaticon-eyelashes"></i>
+								{/* <img src="/images/eye1.png" alt="image" /> */}
+
+										
+										
 									</div>
 									<h3 className="font-weight-black">
-										Music Training
+									Eyelash Extensions
 									</h3>
 									<p>
-										Lorem ipsum dolor sit amet, ipsum adipiscing
-										elit elit, sed do eiusmod tempor incididunt
-										ut labore et dolore magna aliqua quis ipsum.
+									lash extensions to your existing lashes to create a fuller, longer, and more dramatic look. Extensions come in various styles and materials.
 									</p>
 								</div>
 							</div>
@@ -67,15 +69,13 @@ const OurServices = () => {
 
 								<div className="content">
 									<div className="icon">
-										<i className="flaticon-experience"></i>
+										{/* <i className="flaticon-experience"></i> */}
 									</div>
 									<h3 className="font-weight-black">
-										Sports Training
+									Lash Lift
 									</h3>
 									<p>
-										Lorem ipsum dolor sit amet, ipsum adipiscing
-										elit elit, sed do eiusmod tempor incididunt
-										ut labore et dolore magna aliqua quis ipsum.
+									A lash lift typically lasts several weeks and is a low-maintenance option for those who want a natural look without extensions.
 									</p>
 								</div>
 							</div>
@@ -87,15 +87,13 @@ const OurServices = () => {
 
 								<div className="content">
 									<div className="icon">
-										<i className="flaticon-artist"></i>
+										{/* <i className="flaticon-artist"></i> */}
 									</div>
 									<h3 className="font-weight-black">
-										Art Training
+									Lash Tinting
 									</h3>
 									<p>
-										Lorem ipsum dolor sit amet, ipsum adipiscing
-										elit elit, sed do eiusmod tempor incididunt
-										ut labore et dolore magna aliqua quis ipsum.
+									Lash tinting involves applying a semi-permanent dye to your natural lashes, making them appear darker and more defined
 									</p>
 								</div>
 							</div>
@@ -107,15 +105,13 @@ const OurServices = () => {
 
 								<div className="content">
 									<div className="icon">
-										<i className="flaticon-translation"></i>
+										{/* <i className="flaticon-translation"></i> */}
 									</div>
 									<h3 className="font-weight-black">
-										Language Training
+									Lash Removal
 									</h3>
 									<p>
-										Lorem ipsum dolor sit amet, ipsum adipiscing
-										elit elit, sed do eiusmod tempor incididunt
-										ut labore et dolore magna aliqua quis ipsum.
+									This service ensures a smooth transition between lash styles or when extensions have reached their natural shedding cycle.
 									</p>
 								</div>
 							</div>

@@ -54,7 +54,7 @@ const TopSellingCourses = () => {
 											src="/images/price-bg.png"
 											alt="image"
 										/>
-										<span>$39</span>
+										<span>$500</span>
 									</div>
 									<Link href="#">
 										<a className="link-btn"></a>
@@ -73,15 +73,12 @@ const TopSellingCourses = () => {
 									<h3 className="font-weight-black">
 										<Link href="/single-courses-1">
 											<a>
-												Equivalent fractions and comparing
-												fractions
+											Lash Artist
 											</a>
 										</Link>
 									</h3>
 									<p>
-										Lorem ipsum dolor sit amet, consectetur
-										adipiscing elit, sed do eiusmod tempor
-										incididunt ut labore et dolore.
+									Lash artists are skilled cosmetic professionals who specialize in the art of applying semi-permanent lash extensions to their clients' natural lashes. Their expertise lies in enhancing or transforming their clients' eye appearance, creating stunning.
 									</p>
 								</div>
 							</div>
@@ -101,7 +98,7 @@ const TopSellingCourses = () => {
 											src="/images/price-bg.png"
 											alt="image"
 										/>
-										<span>$49</span>
+										<span>$500</span>
 									</div>
 									<Link href="#">
 										<a className="link-btn"></a>
@@ -120,15 +117,12 @@ const TopSellingCourses = () => {
 									<h3 className="font-weight-black">
 										<Link href="/single-courses-1">
 											<a>
-												Arithmetic patterns and problem
-												solving
+											Tint Eyelashes
 											</a>
 										</Link>
 									</h3>
 									<p>
-										Lorem ipsum dolor sit amet, consectetur
-										adipiscing elit, sed do eiusmod tempor
-										incididunt ut labore et dolore.
+									This free online course takes you through a step-by-step eyelash lift and tint treatment. We lay out the benefits of such a treatment to explain why the clients tend to prefer this treatment over a false lash application about tint eyelashes
 									</p>
 								</div>
 							</div>
@@ -148,7 +142,7 @@ const TopSellingCourses = () => {
 											src="/images/price-bg.png"
 											alt="image"
 										/>
-										<span>$59</span>
+										<span>$500</span>
 									</div>
 									<Link href="#">
 										<a className="link-btn"></a>
@@ -167,15 +161,12 @@ const TopSellingCourses = () => {
 									<h3 className="font-weight-black">
 										<Link href="/single-courses-1">
 											<a>
-												The unit circle definition of sine,
-												and cosine
+											Eyelash Extension
 											</a>
 										</Link>
 									</h3>
 									<p>
-										Lorem ipsum dolor sit amet, consectetur
-										adipiscing elit, sed do eiusmod tempor
-										incididunt ut labore et dolore.
+									Learn to skillfully perform eyelash extension and lash curl treatments to grow your business and impress clientele. This course introduces the tools required, procedures and industry standards for hygiene in the work environment. 
 									</p>
 								</div>
 							</div>
@@ -195,7 +186,7 @@ const TopSellingCourses = () => {
 											src="/images/price-bg.png"
 											alt="image"
 										/>
-										<span>$69</span>
+										<span>$500</span>
 									</div>
 									<Link href="#">
 										<a className="link-btn"></a>
@@ -214,15 +205,12 @@ const TopSellingCourses = () => {
 									<h3 className="font-weight-black">
 										<Link href="/single-courses-1">
 											<a>
-												Thinking about multivariable
-												functions
+											Permanent Eyebrow
 											</a>
 										</Link>
 									</h3>
 									<p>
-										Lorem ipsum dolor sit amet, consectetur
-										adipiscing elit, sed do eiusmod tempor
-										incididunt ut labore et dolore.
+									Here's your chance to master a new skill that can improve your beauty and makeup business. A permanent eyebrow treatment can create the desired eyebrow shape that doesn’t require the constant application of makeup
 									</p>
 								</div>
 							</div>

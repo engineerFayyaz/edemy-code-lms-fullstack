@@ -12,8 +12,8 @@ const MainBanner = () => {
                                 <img src="/images/bird1.png" alt="image" />
                             </div>
 
-                            <h1>A lifetime of <span>Confidence</span> starts here</h1>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <h1>Enhance Your <span>Eyelash</span> with Expert Tips</h1>
+                            <p>Become an expert on eyelash extension and lash lift treatments for professional development in this online course.</p>
                             
                             <Link href="/profile-authentication">
                                 <a className="default-btn-style-two">
@@ -32,19 +32,19 @@ const MainBanner = () => {
                             <div className="row">
                                 <div className="col-lg-6 col-md-6 col-sm-6">
                                     <div className="image">
-                                        <img src="/images/kids1.png" alt="image" />
+                                        <img src="/images/kids1.png"  alt="image" />
                                     </div>
                                 </div>
 
                                 <div className="col-lg-6 col-md-6 col-sm-6">
                                     <div className="image">
-                                        <img src="/images/kids2.png" alt="image" />
+                                        <img src="/images/kids2.png" className='rounded-circle' alt="image" />
                                     </div>
                                 </div>
 
                                 <div className="col-lg-6 col-md-6 col-sm-6">
                                     <div className="image">
-                                        <img src="/images/kids3.png" alt="image" />
+                                        <img src="/images/kids3.png" className='rounded-pill' alt="image" />
                                     </div>
                                 </div>
 
