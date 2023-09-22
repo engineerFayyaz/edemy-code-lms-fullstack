@@ -81,7 +81,7 @@ export default class Gallery extends Component {
                       this.setState({ isOpen: true, photoIndex: 1 })
                     }
                   >
-                    <img src="/images/courses/courses2.jpg" alt="image" />
+                    <img src="/images/courses/courses14.jpg" alt="image" />
                   </div>
                 </div>
               </div>
@@ -94,7 +94,7 @@ export default class Gallery extends Component {
                       this.setState({ isOpen: true, photoIndex: 2 })
                     }
                   >
-                    <img src="/images/courses/courses3.jpg" alt="image" />
+                    <img src="/images/courses/courses3.webp" alt="image" />
                   </div>
                 </div>
               </div>
@@ -107,7 +107,7 @@ export default class Gallery extends Component {
                       this.setState({ isOpen: true, photoIndex: 3 })
                     }
                   >
-                    <img src="/images/courses/courses4.jpg" alt="image" />
+                    <img src="/images/courses/kindergarten-img1.jpg" alt="image" />
                   </div>
                 </div>
               </div>
@@ -120,7 +120,7 @@ export default class Gallery extends Component {
                       this.setState({ isOpen: true, photoIndex: 4 })
                     }
                   >
-                    <img src="/images/courses/courses5.jpg" alt="image" />
+                    <img src="/images/courses/kindergarten-img4.jpg" alt="image" />
                   </div>
                 </div>
               </div>
@@ -146,7 +146,7 @@ export default class Gallery extends Component {
                       this.setState({ isOpen: true, photoIndex: 6 })
                     }
                   >
-                    <img src="/images/courses/courses7.jpg" alt="image" />
+                    <img src="/images/courses/yoga-img3.jpg" alt="image" />
                   </div>
                 </div>
               </div>
@@ -172,7 +172,7 @@ export default class Gallery extends Component {
                       this.setState({ isOpen: true, photoIndex: 8 })
                     }
                   >
-                    <img src="/images/courses/courses9.jpg" alt="image" />
+                    <img src="/images/courses/courses7.jpg" alt="image" />
                   </div>
                 </div>
               </div>
