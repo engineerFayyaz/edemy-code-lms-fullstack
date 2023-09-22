@@ -9,7 +9,7 @@ const DistanceLearning = () => {
                     <div className="overview-content">
                         <span className="sub-title">Distance Learning</span>
                         <h2>Feel Like You Are Attending Your classNamees Physically!</h2>
-                        <p>eCademy training programs can bring you a super exciting experience of learning through online! You never face any negative experience while enjoying your classNamees virtually by sitting in your comfort zone. Our flexible learning initiatives will help you to learn better and quicker than the traditional ways of learning skills.</p>
+                        <p>Toxic Beauty Academy training programs can bring you a super exciting experience of learning through online! You never face any negative experience while enjoying your classNamees virtually by sitting in your comfort zone. Our flexible learning initiatives will help you to learn better and quicker than the traditional ways of learning skills.</p>
 
                         <Link href="#">
                             <a className="default-btn">
@@ -29,9 +29,9 @@ const DistanceLearning = () => {
                     </div>
 
                     <div className="overview-content">
-                        <span className="sub-title">eCademy Mobile App</span>
+                        <span className="sub-title">Toxic Beauty Academy Mobile App</span>
                         <h2>Access From Your Mobile, Learn Any Time Any Where</h2>
-                        <p>eCademy training programs can bring you a super exciting experience of learning through online! You never face any negative experience while enjoying your classNamees virtually by sitting in your comfort zone. Our flexible learning initiatives will help you to learn better and quicker than the traditional ways of learning skills.</p>
+                        <p>Toxic Beauty Academy training programs can bring you a super exciting experience of learning through online! You never face any negative experience while enjoying your classNamees virtually by sitting in your comfort zone. Our flexible learning initiatives will help you to learn better and quicker than the traditional ways of learning skills.</p>
 
                         <div className="btn-box">
                             <Link href="#">

@@ -11,8 +11,8 @@ const FeaturedCourses = () => {
                             <div className="image">
                                 <img src="/images/boxes-img1.png" alt="image" />
                             </div>
-                            <h3>Web Development</h3>
-                            <p>Lorem ipsum dolor sit amet, consecteur adipiscing elit, sed do eiusmod tempor.</p>
+                            <h3>8 Point Facelift Training course</h3>
+                            <p>During the course, students will learn how to enhance and balance each of these areas to create a lifting effect across the entire face. Focusing on facial profiling to rebalance the facial feature</p>
 
                             <Link href="/courses-1">
                                 <a className="link-btn">Start Now!</a>
@@ -25,8 +25,8 @@ const FeaturedCourses = () => {
                             <div className="image">
                                 <img src="/images/boxes-img2.png" alt="image" />
                             </div>
-                            <h3>UX/UI Design</h3>
-                            <p>Lorem ipsum dolor sit amet, consecteur adipiscing elit, sed do eiusmod tempor.</p>
+                            <h3>Advanced Aesthetics Training Course</h3>
+                            <p>This course is built and lead by passion and determination and we promise to bring you the best with an invaluable amount of information to become a professional and confident aesthetics practitioner.</p>
                             
                             <Link href="/courses-1">
                                 <a className="link-btn">Start Now!</a>
@@ -39,8 +39,8 @@ const FeaturedCourses = () => {
                             <div className="image">
                                 <img src="/images/boxes-img3.png" alt="image" />
                             </div>
-                            <h3>App Development</h3>
-                            <p>Lorem ipsum dolor sit amet, consecteur adipiscing elit, sed do eiusmod tempor.</p>
+                            <h3>Advanced Anti Wrinkle Injection Course </h3>
+                            <p>This course is built and lead by passion and determination and we promise to bring you the best with an invaluable amount of information to become a professional and confident aesthetics practitioner.</p>
                             
                             <Link href="/courses-1">
                                 <a className="link-btn">Start Now!</a>

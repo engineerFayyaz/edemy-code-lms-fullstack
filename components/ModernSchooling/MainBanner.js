@@ -8,8 +8,8 @@ const MainBanner = () => {
                 <div className="row align-items-center">
                     <div className="col-lg-6 col-md-12">
                         <div className="hero-banner-content">
-                            <h1>Build Development Skills With eCademy Any Time, Anywhere</h1>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <h1>Build Fat Dissolving Skills With Toxic Beauty Academyademy Any Time, Anywhere</h1>
+                            <p>This course is built and lead by passion and determination and we promise to bring you the best with an invaluable amount of information to become a professional and confident FAT DISSOLVING and successful business owner.</p>
                             
                             <Link href="/profile-authentication">
                                 <a className="default-btn">
