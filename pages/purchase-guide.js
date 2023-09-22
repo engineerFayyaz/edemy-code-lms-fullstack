@@ -17,10 +17,10 @@ const PurchaseGuide = () => {
                     <div className="row">
                         <div className="col-lg-8 col-md-12">
                             <div className="purchase-guide-content">
-                                <img src="/images/courses/courses3.jpg" alt="image" />
+                                <img src="/images/courses/courses3.webp" alt="image" />
                                 <p><i>This Purchase Guide was last updated on January 1, 2020.</i></p>
                                 <h3>1. Our website</h3>
-                                <p>Our website address is: http://edemy.com</p>
+                                <p>Our website address is: ToxicBeautyAcademy.com</p>
                                 <h3>2. Account Registering</h3>
                                 <p>In order to buy any course or become a member of our center, customers/ learners must first register with a personal account providing the following information:</p>
                                 <ol>

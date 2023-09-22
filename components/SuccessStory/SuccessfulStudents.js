@@ -7,8 +7,8 @@ const SuccessfulStudents = () => {
             <div className="container">
                 <div className="section-title">
                     <span className="sub-title">Education For Everyone</span>
-                    <h2>Start writing your own success story with a good beginning from eDemy help</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <h2>Start writing your own success story with a good beginning from Toxic Academy help</h2>
+                   
                 </div>
 
                 <div className="row">
@@ -29,7 +29,7 @@ const SuccessfulStudents = () => {
                                     </a>
                                 </Link>
                                 <h3>Sarah Taylor</h3>
-                                <span>Web Developer</span>
+                                <span>Dermatologist</span>
                             </div>
                         </div>
                     </div>
@@ -51,7 +51,7 @@ const SuccessfulStudents = () => {
                                     </a>
                                 </Link>
                                 <h3>Alex Maxwell</h3>
-                                <span>Tutor</span>
+                                <span>Wood Therapiest</span>
                             </div>
                         </div>
                     </div>
@@ -73,7 +73,7 @@ const SuccessfulStudents = () => {
                                     </a>
                                 </Link>
                                 <h3>Eva Lucy</h3>
-                                <span>UX/UI Designer</span>
+                                <span>Doctor</span>
                             </div>
                         </div>
                     </div>
@@ -95,7 +95,7 @@ const SuccessfulStudents = () => {
                                     </a>
                                 </Link>
                                 <h3>Alina Smith</h3>
-                                <span>Author</span>
+                                <span>Yoga Trainer</span>
                             </div>
                         </div>
                     </div>
@@ -117,7 +117,7 @@ const SuccessfulStudents = () => {
                                     </a>
                                 </Link>
                                 <h3>James Anderson</h3>
-                                <span>Designer</span>
+                                <span>Dentist</span>
                             </div>
                         </div>
                     </div>
@@ -139,7 +139,7 @@ const SuccessfulStudents = () => {
                                     </a>
                                 </Link>
                                 <h3>Meg Lanning</h3>
-                                <span>Writer</span>
+                                <span>Fitness Trainer</span>
                             </div>
                         </div>
                     </div>

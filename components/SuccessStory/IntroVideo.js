@@ -19,11 +19,11 @@ const IntroVideo = () => {
 				<div className="container">
 					<div className="video-box mt-0">
 						<div className="image">
-							<img
-								src="/images/success-story.jpg"
-								className="shadow"
-								alt="image"
-							/>
+						<img
+						src="/images/Video-new-img1.jpg"
+						className="shadow"
+						alt="image"
+					/>
 						</div>
 
 						<div
@@ -59,7 +59,7 @@ const IntroVideo = () => {
 				<ModalVideo
 					channel="youtube"
 					isOpen={!isOpen}
-					videoId="bk7McNUjWgw"
+					videoId="ajvvhldgErc"
 					onClose={() => setIsOpen(!isOpen)}
 				/>
 			) : (
