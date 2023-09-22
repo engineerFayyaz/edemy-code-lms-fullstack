@@ -10,8 +10,8 @@ const MainBanner = () => {
 
                     <div className="content">
                         <img src="/images/top-img.png" className="top-image" alt="image" />
-                        <h1 className="playfair-display-font">Accredited Online Yoga Teacher Training</h1>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <h1 className="playfair-display-font">Accredited Online Yoga Training</h1>
+                        <p>Embark on a transformative journey of self-discovery with our Yoga Training Course. Cultivate physical and mental harmony through ancient wisdom and modern practices.</p>
 
                         <Link href="/profile-authentication">
                             <a className="default-btn">

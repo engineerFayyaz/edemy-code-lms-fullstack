@@ -7,7 +7,7 @@ const YogaTraining = () => {
             <div className="container">
                 <div className="section-title">
                     <h2 className="playfair-display-font">Why Online Yoga Training</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <p>Embrace holistic well-being and inner peace as you embark on a path to strengthen your body, mind, and soul.</p>
                 </div>
 
                 <div className="row">
@@ -19,7 +19,7 @@ const YogaTraining = () => {
                                     <a>Flexibility</a>
                                 </Link>
                             </h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                            <p>Experience flexibility in your training schedule, allowing you to adapt yoga seamlessly into your busy life while nurturing your well-being.</p>
 
                             <Link href="/courses-1">
                                 <a className="link-btn">Start Now</a>
@@ -35,7 +35,7 @@ const YogaTraining = () => {
                                     <a>Comfort</a>
                                 </Link>
                             </h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                            <p>Access a wealth of resources, from expert instructors to comprehensive materials, to enhance your yoga training.</p>
                             
                             <Link href="/courses-1">
                                 <a className="link-btn">Start Now</a>
@@ -51,7 +51,7 @@ const YogaTraining = () => {
                                     <a>Resources</a>
                                 </Link>
                             </h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                            <p>Access a wealth of resources, from expert instructors to comprehensive materials, to enhance your yoga training.</p>
                             
                             <Link href="/courses-1">
                                 <a className="link-btn">Start Now</a>

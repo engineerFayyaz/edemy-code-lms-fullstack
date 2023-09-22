@@ -46,7 +46,7 @@ const FeedbackSlider = () => {
 									/>
 									<div className="title">
 										<h3>John Smith</h3>
-										<span>Python Developer</span>
+										<span>Yoga Trainee</span>
 									</div>
 								</div>
 							</div>
@@ -70,7 +70,7 @@ const FeedbackSlider = () => {
 									/>
 									<div className="title">
 										<h3>Sarah Taylor</h3>
-										<span>PHP Developer</span>
+										<span>Yoga Trainee</span>
 									</div>
 								</div>
 							</div>
@@ -94,7 +94,7 @@ const FeedbackSlider = () => {
 									/>
 									<div className="title">
 										<h3>David Warner</h3>
-										<span>QA Developer</span>
+										<span>Yoga Trainee</span>
 									</div>
 								</div>
 							</div>
