@@ -30,11 +30,11 @@ const Courses = () => {
                                         <a href="#" className="fav">
                                             <i className="flaticon-heart"></i>
                                         </a>
-                                        <span className="price">$39</span>
+                                        <span className="price">$190</span>
 
                                         <h3>
                                             <Link href="/single-courses-1">
-                                                <a>Agile Crash Course: Agile Project Management</a>
+                                                <a>The Beginners Botox Anti-wrinkle Training Course</a>
                                             </Link>
                                         </h3>
 
@@ -70,10 +70,10 @@ const Courses = () => {
                                         <a href="#" className="fav">
                                             <i className="flaticon-heart"></i>
                                         </a>
-                                        <span className="price">$99</span>
+                                        <span className="price">$190</span>
                                         <h3>
                                             <Link href="/single-courses-1">
-                                                <a>Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)</a>
+                                                <a>Platelet Rich Plasma (PRP Vampire Facial) Training Course</a>
                                             </Link>
                                         </h3>
                                         <ul className="courses-content-footer d-flex justify-content-between align-items-center">
@@ -106,11 +106,11 @@ const Courses = () => {
                                 <div className="col-lg-8 col-md-8">
                                     <div className="courses-content">
                                         <a href="#" className="fav"><i className="flaticon-heart"></i></a>
-                                        <span className="price">$49</span>
+                                        <span className="price">$190</span>
 
                                         <h3>
                                             <Link href="/single-courses-1">
-                                                <a>The Python Bible™ | Everything You Need to Program in Python</a>
+                                                <a>The Profhilo® & Skin Boosters Training Course</a>
                                             </Link>
                                         </h3>
 
@@ -144,11 +144,11 @@ const Courses = () => {
                                 <div className="col-lg-8 col-md-8">
                                     <div className="courses-content">
                                         <a href="#" className="fav"><i className="flaticon-heart"></i></a>
-                                        <span className="price">$79</span>
+                                        <span className="price">$190</span>
                                
                                         <h3>
                                             <Link href="/single-courses-1">
-                                                <a>Mathematical Foundation For Machine Learning and AI</a>
+                                                <a> The Aesthetics Expert Packages course</a>
                                             </Link>
                                         </h3>
                                         
@@ -182,11 +182,11 @@ const Courses = () => {
                                 <div className="col-lg-8 col-md-8">
                                     <div className="courses-content">
                                         <a href="#" className="fav"><i className="flaticon-heart"></i></a>
-                                        <span className="price">$59</span> 
+                                        <span className="price">$190</span> 
 
                                         <h3>
                                             <Link href="/single-courses-1">
-                                                <a>The Ultimate Drawing Course - Beginner to Advanced</a>
+                                                <a>New Double Chin Treatment Training Course </a>
                                             </Link>
                                         </h3>
  
@@ -220,11 +220,11 @@ const Courses = () => {
                                 <div className="col-lg-8 col-md-8">
                                     <div className="courses-content">
                                         <a href="#" className="fav"><i className="flaticon-heart"></i></a>
-                                        <span className="price">$89</span> 
+                                        <span className="price">$190</span> 
 
                                         <h3>
                                             <Link href="/single-courses-1">
-                                                <a>PyTorch: Deep Learning and Artificial Intelligence</a>
+                                                <a>Fat Dissolving Injections Course</a>
                                             </Link>
                                         </h3>
  

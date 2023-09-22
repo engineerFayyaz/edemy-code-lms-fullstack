@@ -8,7 +8,7 @@ const TopCategories = () => {
                 <div className="section-title">
                     <span className="sub-title">Categories</span>
                     <h2>Top Categories</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <p>Join Toxic Beauty Academy now! Limited seats available. Elevate your beauty skills with Harry. Don't miss out on this exclusive opportunity</p>
                 </div>
 
                 <div className="row">
@@ -17,8 +17,8 @@ const TopCategories = () => {
                             <img src="/images/categories/categorie1.jpg" alt="image" />
 
                             <div className="content">
-                                <h3>Development</h3>
-                                <span>10 Courses</span>
+                                <h3>Body Sculpting</h3>
+                                <span>12 Courses</span>
                             </div>
 
                             <Link href="/courses-1">
@@ -32,7 +32,7 @@ const TopCategories = () => {
                             <img src="/images/categories/categorie2.jpg" alt="image" />
 
                             <div className="content">
-                                <h3>Business</h3>
+                                <h3>Wood Therapy</h3>
                                 <span>20 Courses</span>
                             </div>
                             
@@ -47,7 +47,7 @@ const TopCategories = () => {
                             <img src="/images/categories/categorie3.jpg" alt="image" />
 
                             <div className="content">
-                                <h3>IT & Software</h3>
+                                <h3>lymphatic Drainage</h3>
                                 <span>15 Courses</span>
                             </div>
                             
@@ -62,7 +62,7 @@ const TopCategories = () => {
                             <img src="/images/categories/categorie4.jpg" alt="image" />
 
                             <div className="content">
-                                <h3>Design</h3>
+                                <h3>Lip Fillers</h3>
                                 <span>11 Courses</span>
                             </div>
                             
@@ -77,7 +77,7 @@ const TopCategories = () => {
                             <img src="/images/categories/categorie5.jpg" alt="image" />
 
                             <div className="content">
-                                <h3>Lifestyle</h3>
+                                <h3>Teeth Whitening</h3>
                                 <span>10 Courses</span>
                             </div>
                             
@@ -92,8 +92,8 @@ const TopCategories = () => {
                             <img src="/images/categories/categorie6.jpg" alt="image" />
 
                             <div className="content">
-                                <h3>Photo & Flim</h3>
-                                <span>12 Courses</span>
+                                <h3>Hair Extensions</h3>
+                                <span>3 Courses</span>
                             </div>
                             
                             <Link href="/courses-1">
@@ -107,7 +107,7 @@ const TopCategories = () => {
                             <img src="/images/categories/categorie7.jpg" alt="image" />
 
                             <div className="content">
-                                <h3>Animation</h3>
+                                <h3>Fat Dissolving Shots</h3>
                                 <span>05 Courses</span>
                             </div>
                             
@@ -122,7 +122,7 @@ const TopCategories = () => {
                             <img src="/images/categories/categorie8.jpg" alt="image" />
 
                             <div className="content">
-                                <h3>Writing</h3>
+                                <h3>Health Coaching</h3>
                                 <span>20 Courses</span>
                             </div>
                             

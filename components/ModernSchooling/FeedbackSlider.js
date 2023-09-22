@@ -41,7 +41,7 @@ const FeedbackSlider = () => {
                   />
                   <div className="title">
                     <h3>John Smith</h3>
-                    <span>Python Developer</span>
+                    <span></span>
                   </div>
                 </div>
               </div>
@@ -50,12 +50,7 @@ const FeedbackSlider = () => {
             <SwiperSlide>
               <div className="single-feedback-box">
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Quis ipsum ultrices gravida. Risus commodo viverra maecenas
-                  accumsan lacus vel facilisis. Lorem ipsum dolor sit amet,
-                  consectetur adipiscing elit, sed tempor incididunt ut labore
-                  et dolore.
+                Cryolipolysis has previously received FDA clearance for fat reduction in the abdomen, flanks, and thighs. There is also interest in small volume fat reduction for areas such as the chin, knees, and axilla. This article reports the results of a cryolipolysis pivotal IDE study for reduction of submental fullness.
                 </p>
                 <div className="client-info d-flex align-items-center">
                   <img
