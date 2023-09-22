@@ -35,7 +35,6 @@ const CoursesGrid01 = ({ courses }) => {
                     </div>
 
                     <div className="row">
-
                         {courses ? courses.map(course => (
                             <div className="col-lg-4 col-md-6" key={course.id}>
                                 <div className="single-courses-box">
