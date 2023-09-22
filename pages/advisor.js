@@ -35,7 +35,7 @@ const Advisor = () => {
                                             <a>James Andy</a>
                                         </Link>
                                     </h3>
-                                    <span>Project Management Expert</span>
+                                    <span>Wood Therapiest</span>
                                 </div>
                             </div>
                         </div>
@@ -59,7 +59,7 @@ const Advisor = () => {
                                             <a>Jassica Hische</a>
                                         </Link>
                                     </h3>
-                                    <span>Illustrator Expert</span>
+                                    <span>Dermatologist</span>
                                 </div>
                             </div>
                         </div>
@@ -83,7 +83,7 @@ const Advisor = () => {
                                             <a>Alister Cock</a>
                                         </Link>
                                     </h3>
-                                    <span>QA Project Expert</span>
+                                    <span>body sculptor</span>
                                 </div>
                             </div>
                         </div>
@@ -107,7 +107,7 @@ const Advisor = () => {
                                             <a>Lina Ninja</a>
                                         </Link>
                                     </h3>
-                                    <span>QA Project Expert</span>
+                                    <span>Yoga Trainer</span>
                                 </div>
                             </div>
                         </div>
@@ -131,7 +131,7 @@ const Advisor = () => {
                                             <a>Chris Evans</a>
                                         </Link>
                                     </h3>
-                                    <span>Python Expert</span>
+                                    <span>Dentist</span>
                                 </div>
                             </div>
                         </div>
@@ -155,7 +155,7 @@ const Advisor = () => {
                                             <a>Scarlett Johansson</a>
                                         </Link>
                                     </h3>
-                                    <span>Photoshop Expert</span>
+                                    <span>Fitness Trainer</span>
                                 </div>
                             </div>
                         </div>
