@@ -8,8 +8,8 @@ const MainBanner = () => {
                 <div className="row align-items-center">
                     <div className="col-lg-5 col-md-12">
                         <div className="banner-content">
-                            <h1>Project Management Certification Training </h1>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse.</p>
+                            <h1>Lymphatic Drainage Massage Certification Training </h1>
+                            <p>Welcome to the Lymphatic Drainage online course! Here you will learn all about this manual massage technique that helps eliminate fluids and toxins from the body, in addition to providing a series of health benefits.</p>
 
                             <Link href="/profile-authentication">
                                 <a className="default-btn">
