@@ -7,7 +7,7 @@ const LanguageCourses = () => {
             <div className="container">
                 <div className="section-title">
                     <span className="sub-title">Welcome to eDemy</span>
-                    <h2>Our Language Courses</h2>
+                    <h2>Our Hair Extensions Courses</h2>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                 </div>
 
