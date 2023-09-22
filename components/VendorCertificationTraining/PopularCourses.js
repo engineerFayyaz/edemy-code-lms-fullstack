@@ -25,19 +25,19 @@ const PopularCourses = () => {
                                     <a className="fav"><i className="flaticon-heart"></i></a>
                                 </Link>
 
-                                <div className="price shadow">$39</div>
+                                <div className="price shadow">$500</div>
                             </div>
                             <div className="courses-content">
                                 <div className="course-author d-flex align-items-center">
                                     <img src="/images/user1.jpg" className="rounded-circle" alt="image" />
-                                    <span>Alex Morgan</span>
+                                    <span>Alex David</span>
                                 </div>
                                 <h3>
                                     <Link href="/single-courses-2">
-                                        <a>PRINCE2® Practitioner Certification Training</a>
+                                        <a>Complete Lymphatic Drainage Course</a>
                                     </Link>
                                 </h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                                <p>Welcome to the Lymphatic Drainage online course! Here you will learn all about this manual massage technique that helps eliminate fluids and toxins from the body, in addition to providing health.</p>
                                 <ul className="courses-box-footer d-flex justify-content-between align-items-center">
                                     <li>
                                         <i className='flaticon-agenda'></i> 15 Lessons
@@ -61,19 +61,19 @@ const PopularCourses = () => {
                                 <Link href="#">
                                     <a className="fav"><i className="flaticon-heart"></i></a>
                                 </Link>
-                                <div className="price shadow">$49</div>
+                                <div className="price shadow">$500</div>
                             </div>
                             <div className="courses-content">
                                 <div className="course-author d-flex align-items-center">
                                     <img src="/images/user2.jpg" className="rounded-circle" alt="image" />
-                                    <span>Sarah Taylor</span>
+                                    <span>Amelia</span>
                                 </div>
                                 <h3>
                                     <Link href="/single-courses-2">
-                                        <a>PMI-RMP® Certification Training</a>
+                                        <a>Advanced Reflexology Certificate Course (3 CEU)</a>
                                     </Link>
                                 </h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                                <p>In this advanced reflexology massage course, you are going to learn the specific reflex zones and acupressure points to stimulate so that you will see great results in your reflexology practice.</p>
                                 <ul className="courses-box-footer d-flex justify-content-between align-items-center">
                                     <li>
                                         <i className='flaticon-agenda'></i> 20 Lessons
@@ -97,19 +97,19 @@ const PopularCourses = () => {
                                 <Link href="#">
                                     <a className="fav"><i className="flaticon-heart"></i></a>
                                 </Link>
-                                <div className="price shadow">$59</div>
+                                <div className="price shadow">$$500</div>
                             </div>
                             <div className="courses-content">
                                 <div className="course-author d-flex align-items-center">
                                     <img src="/images/user3.jpg" className="rounded-circle" alt="image" />
-                                    <span>David Warner</span>
+                                    <span>Samuel</span>
                                 </div>
                                 <h3>
                                     <Link href="/single-courses-2">
-                                        <a>PRINCE2® Foundation Certification Training</a>
+                                        <a>Acupressure Massage For Pain Relief Certificate </a>
                                     </Link>
                                 </h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                                <p>This acupressure massage course is informative and enjoyable i really want to just keep going with it I cannot put it down. Learning so many beneficial acupressure massage techniques.</p>
                                 <ul className="courses-box-footer d-flex justify-content-between align-items-center">
                                     <li>
                                         <i className='flaticon-agenda'></i> 20 Lessons
