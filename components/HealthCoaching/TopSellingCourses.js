@@ -23,7 +23,7 @@ const TopSellingCourses = () => {
                                 <a href="#" className="fav">
                                     <i className="flaticon-heart"></i>
                                 </a>
-                                <div className="price bg-45a393 shadow">$39</div>
+                                <div className="price bg-45a393 shadow">$190</div>
                             </div>
                             <div className="courses-content">
                                 <div className="course-author d-flex align-items-center">
@@ -51,7 +51,7 @@ const TopSellingCourses = () => {
                                 <a href="#" className="fav">
                                     <i className="flaticon-heart"></i>
                                 </a>
-                                <div className="price bg-45a393 shadow">$49</div>
+                                <div className="price bg-45a393 shadow">$190</div>
                             </div>
                             <div className="courses-content">
                                 <div className="course-author d-flex align-items-center">
@@ -79,7 +79,7 @@ const TopSellingCourses = () => {
                                 <a href="#" className="fav">
                                     <i className="flaticon-heart"></i>
                                 </a>
-                                <div className="price bg-45a393 shadow">$59</div>
+                                <div className="price bg-45a393 shadow">$190</div>
                             </div>
                             <div className="courses-content">
                                 <div className="course-author d-flex align-items-center">

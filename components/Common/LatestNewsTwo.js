@@ -8,7 +8,7 @@ const LatestNewsTwo = () => {
                 <div className="section-title">
                     <span className="sub-title">News</span>
                     <h2>Check Out Our Latest Blog</h2>
-                    <p>Unmasking the Hidden Dangers: Toxic Ingredients Lurking in Your Beauty Products.</p>
+                    <p>Explore our latest blog on toxic beauty. Discover the hidden dangers in cosmetics and skincare, and make informed choices for healthier, safer beauty routines</p>
                 </div>
 
                 <div className="row">
@@ -27,7 +27,7 @@ const LatestNewsTwo = () => {
                                 </Link>
                                 <h3>
                                     <Link href="/single-blog-3">
-                                        <a>OBody Sculpting </a>
+                                        <a>Body Sculpting </a>
                                     </Link>
                                 </h3>
                                 <ul className="post-content-footer d-flex align-items-center">
