@@ -53,19 +53,19 @@ const BlogDetails = () => {
                                         </ul>
                                     </div>
 
-                                    <h3>It’s Time To Think Differently About Homeschooling</h3>
+                                    <h3>Toxic Beauty Academy: Empowering Beauty Professionals through Online Courses</h3>
 
-                                    <p>Quuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quia non numquam eius modi tempora incidunt ut labore et dolore magnam dolor sit amet, consectetur adipisicing.</p>
+                                    <p>Toxic Beauty Academy is a cutting-edge online platform that offers a diverse range of courses and training programs specifically designed for beauty professionals.</p>
 
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in  sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+                                    <p>With a commitment to education, safety, and sustainability, our academy empowers beauty enthusiasts, skincare experts, and makeup artists to excel in their careers while promoting clean and responsible beauty practices.</p>
 
                                     <blockquote className="wp-block-quote">
-                                        <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+                                        <p>Toxic Beauty Academy is not just an online learning platform; it's a movement that empowers beauty professionals to embrace clean beauty practices, foster sustainability, and deliver toxin-free beauty solutions to clients. Join us on this transformative journey towards a safer, healthier, and more ethical beauty industry.</p>
 
                                         <cite>Tom Cruise</cite>
                                     </blockquote>
 
-                                    <p>Quuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quia non numquam eius modi tempora incidunt ut labore et dolore magnam dolor sit amet, consectetur adipisicing.</p>
+                                    <p>Graduates receive valuable certifications that demonstrate their expertise in clean beauty practices.</p>
 
                                     <ul className="wp-block-gallery columns-3">
                                         <li className="blocks-gallery-item">
@@ -85,20 +85,20 @@ const BlogDetails = () => {
                                         </li>
                                     </ul>
 
-                                    <h3>Four major elements that we offer:</h3>
+                                    <h3>Four major elements:</h3>
 
                                     <ul className="features-list">
-                                        <li><i className='bx bx-badge-check'></i> Scientific skills for getting a better result</li>
-                                        <li><i className='bx bx-badge-check'></i> Communication skills to getting in touch</li>
-                                        <li><i className='bx bx-badge-check'></i> A career overview opportunity available</li>
-                                        <li><i className='bx bx-badge-check'></i> A good work environment for work</li>
+                                        <li><i className='bx bx-badge-check'></i> Body Sculpting</li>
+                                        <li><i className='bx bx-badge-check'></i> Wood Therapy</li>
+                                        <li><i className='bx bx-badge-check'></i> Lymphatic Drainage</li>
+                                        <li><i className='bx bx-badge-check'></i> Lips Filler</li>
                                     </ul>
 
-                                    <h3>Setting the mood with incense</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in  sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+                                    <h3>Online Accessibility</h3>
+                                    <p>Our courses are available globally, allowing beauty professionals from around the world to access high-quality education conveniently.</p>
 
-                                    <h3>The rise of marketing and why you need it</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p>
+                                    <h3>Flexible Learning</h3>
+                                    <p>We understand the demands of a beauty professional's schedule. Our courses offer flexibility, enabling you to learn at your own pace.</p>
                                 </div>
 
                                 <div className="article-footer">
@@ -106,8 +106,8 @@ const BlogDetails = () => {
                                         <span><i className='bx bx-purchase-tag'></i></span>
 
                                         <a href="#">Fashion</a>
-                                        <a href="#">Games</a>
-                                        <a href="#">Travel</a>
+                                        <a href="#">Styles</a>
+                                        <a href="#">Fitness</a>
                                     </div>
 
                                     <div className="article-share">

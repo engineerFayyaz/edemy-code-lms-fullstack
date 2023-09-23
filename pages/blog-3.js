@@ -158,11 +158,11 @@ const Blog3 = () => {
                                 </div>
                                 <div className="post-content">
                                     <Link href="#">
-                                        <a className="category">Online</a>
+                                        <a className="category"></a>
                                     </Link>
                                     <h3>
                                         <Link href="/single-blog-1">
-                                            <a>100 Blended Learning Resources For Teachers</a>
+                                            <a>Hair Extensions Unveiled: A Comprehensive Guide to Luscious Locks</a>
                                         </Link>
                                     </h3>
                                     <ul className="post-content-footer d-flex justify-content-between align-items-center">
@@ -191,11 +191,11 @@ const Blog3 = () => {
                                 </div>
                                 <div className="post-content">
                                     <Link href="#">
-                                        <a className="category">Learning</a>
+                                        <a className="category"></a>
                                     </Link>
                                     <h3>
                                         <Link href="/single-blog-1">
-                                            <a>20 Examples Of Project-Based Learning</a>
+                                            <a>Unlocking the Healing Power of Lymphatic Drainage: Your Guide to a Healthier You</a>
                                         </Link>
                                     </h3>
                                     <ul className="post-content-footer d-flex justify-content-between align-items-center">
@@ -224,11 +224,11 @@ const Blog3 = () => {
                                 </div>
                                 <div className="post-content">
                                     <Link href="#">
-                                        <a className="category">Education</a>
+                                        <a className="category"></a>
                                     </Link>
                                     <h3>
                                         <Link href="/single-blog-1">
-                                            <a>Instructional Design And Adult Learners</a>
+                                            <a>Brighten Your Smile: A Comprehensive Guide to Teeth Whitening</a>
                                         </Link>
                                     </h3>
                                     <ul className="post-content-footer d-flex justify-content-between align-items-center">
@@ -257,11 +257,11 @@ const Blog3 = () => {
                                 </div>
                                 <div className="post-content">
                                     <Link href="#">
-                                        <a className="category">Online</a>
+                                        <a className="category"></a>
                                     </Link>
                                     <h3>
                                         <Link href="/single-blog-1">
-                                            <a>Join ATD 2020 International Conference & EXPO</a>
+                                            <a>Melting Away Fat: Exploring the World of Fat Dissolving Treatments</a>
                                         </Link>
                                     </h3>
                                     <ul className="post-content-footer d-flex justify-content-between align-items-center">
