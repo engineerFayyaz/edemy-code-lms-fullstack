@@ -73,7 +73,7 @@ const SingleCourses = () => {
                     <div className="row">
                         <div className="col-lg-8 col-md-12">
                             <div className="courses-details-image-style-two text-center">
-                                <img src="/images/courses/courses2.jpg" alt="image" />
+                                <img src="/images/blog/img16.jpg" style={{height:"450px"}} alt="image" />
                             </div>
 
                             <div className="courses-details-desc-style-two">
