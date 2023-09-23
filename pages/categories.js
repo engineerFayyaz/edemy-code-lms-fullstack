@@ -21,7 +21,7 @@ const Categories = () => {
                                 <img src="/images/categories/categorie1.jpg" alt="image" />
 
                                 <div className="content">
-                                    <h3>Development</h3>
+                                    <h3>Body Sculpting</h3>
                                     <span>10 Courses</span>
                                 </div>
 
@@ -36,7 +36,7 @@ const Categories = () => {
                                 <img src="/images/categories/categorie2.jpg" alt="image" />
 
                                 <div className="content">
-                                    <h3>Business</h3>
+                                    <h3>Wood Therapy</h3>
                                     <span>20 Courses</span>
                                 </div>
 
@@ -51,7 +51,7 @@ const Categories = () => {
                                 <img src="/images/categories/categorie3.jpg" alt="image" />
 
                                 <div className="content">
-                                    <h3>IT & Software</h3>
+                                    <h3>Lymphatic Drainage</h3>
                                     <span>15 Courses</span>
                                 </div>
                                 
@@ -66,7 +66,7 @@ const Categories = () => {
                                 <img src="/images/categories/categorie4.jpg" alt="image" />
 
                                 <div className="content">
-                                    <h3>Design</h3>
+                                    <h3>Lip Fillers</h3>
                                     <span>11 Courses</span>
                                 </div>
                                 
@@ -81,7 +81,7 @@ const Categories = () => {
                                 <img src="/images/categories/categorie5.jpg" alt="image" />
 
                                 <div className="content">
-                                    <h3>Lifestyle</h3>
+                                    <h3>Teeth Whitening</h3>
                                     <span>10 Courses</span>
                                 </div>
                                 
@@ -96,7 +96,7 @@ const Categories = () => {
                                 <img src="/images/categories/categorie6.jpg" alt="image" />
 
                                 <div className="content">
-                                    <h3>Photo & Flim</h3>
+                                    <h3>Hair Extensions</h3>
                                     <span>12 Courses</span>
                                 </div>
                                 
@@ -111,7 +111,7 @@ const Categories = () => {
                                 <img src="/images/categories/categorie7.jpg" alt="image" />
 
                                 <div className="content">
-                                    <h3>Animation</h3>
+                                    <h3>Fat Dissolving Shots</h3>
                                     <span>05 Courses</span>
                                 </div>
                                 
@@ -126,7 +126,7 @@ const Categories = () => {
                                 <img src="/images/categories/categorie8.jpg" alt="image" />
 
                                 <div className="content">
-                                    <h3>Writing</h3>
+                                    <h3>Health Coaching</h3>
                                     <span>20 Courses</span>
                                 </div>
                                 
