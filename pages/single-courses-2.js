@@ -8,12 +8,12 @@ const SingleCourses = () => {
     return (
         <>
             <PageBanner 
-                pageTitle="Python for Finance: Investment Fundamentals & Data Analytics" 
+                pageTitle="Mastering the Art of Body Sculpting: Your Complete Certified Course" 
                 homePageUrl="/" 
                 homePageText="Home" 
                 innerPageUrl="/courses-1" 
                 innerPageText="Courses" 
-                activePageText="Python for Finance: Investment Fundamentals & Data Analytics" 
+                activePageText="Mastering the Art of Body Sculpting: Your Complete Certified Course" 
             />  
 
             <div className="courses-details-area ptb-100">
