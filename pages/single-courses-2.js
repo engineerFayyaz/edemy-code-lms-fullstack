@@ -22,14 +22,14 @@ const SingleCourses = () => {
                         <div className="row align-items-center">
                             <div className="col-lg-8 col-md-12">
                                 <div className="courses-title">
-                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.</p>
+                                    <p>Achieve your dream physique with our comprehensive certified course, covering the latest techniques in body sculpting and contouring.</p>
                                 </div>
                                 <div className="courses-meta">
                                     <ul>
                                         <li>
                                             <i className='bx bx-folder-open'></i>
                                             <span>Category</span>
-                                            <Link href="#"><a>Photography</a></Link>
+                                            <Link href="#"><a>Body Sculpting</a></Link>
                                         </li>
                                         <li>
                                             <i className='bx bx-group'></i>
@@ -39,7 +39,7 @@ const SingleCourses = () => {
                                         <li>
                                             <i className='bx bx-calendar'></i>
                                             <span>Last Updated</span>
-                                            <Link href="#"><a>01/14/2020</a></Link>
+                                            <Link href="#"><a>01/14/2023</a></Link>
                                         </li>
                                     </ul>
                                 </div>
@@ -55,10 +55,10 @@ const SingleCourses = () => {
                                             <i className='bx bxs-star'></i>
                                             <i className='bx bxs-star'></i>
                                         </div>
-                                        <span className="reviews-total d-inline-block">(3 reviews)</span>
+                                        <span className="reviews-total d-inline-block">(4 reviews)</span>
                                     </div>
 
-                                    <div className="price">$150</div>
+                                    <div className="price">$500</div>
 
                                     <Link href="#">
                                         <a className="default-btn">
@@ -78,21 +78,23 @@ const SingleCourses = () => {
 
                             <div className="courses-details-desc-style-two">
                                 <h3>Description</h3>
-                                <p><strong>Hi! Welcome to Photography Crash Course for Photographer, the only course you need to become a BI Analyst.</strong></p>
-                                <p>Here are some more details of what you get with The Business Intelligence Analyst Course:</p>
+                                <p><strong>Hi! Welcome to our Body Sculpting Mastery Course, your ultimate path to achieving your fitness goals and sculpting the body you desire.</strong></p>
+                                <p>Here are some more details of what you get with The Body Sculpting Course:</p>
                                 <ul className="description-features-list">
-                                    <li><strong>Introduction to Data and Data Science</strong> – Make sense of terms like business intelligence, traditional and big data, traditional statistical methods, machine learning, predictive analytics, supervised learning, unsupervised learning, reinforcement learning, and many more;</li>
-                                    <li><strong>Database theory</strong> – Before you start using SQL, it is highly beneficial to learn about the underlying database theory and acquire an understanding of why databases are created and how they can help us manage data;</li>
-                                    <li><strong>SQL</strong> – when you can work with SQL, it means you don’t have to rely on others sending you data and executing queries for you. You can do that on your own. This allows you to be independent and dig deeper into the data to obtain the answers to questions that might improve the way your company does its business;</li>
+                                    <li><strong>Introduction to Body Sculpting: </strong> – An overview of the field, its history, and its relevance in the beauty and fitness industry.</li>
+                                    <li><strong>Anatomy and Physiology:</strong> – Understanding the human body's musculature, fat distribution, and how it relates to body sculpting;</li>
+                                    <li><strong>Client Consultation and Assessment: </strong> –  How to assess a client's goals, needs, and medical history to create a personalized sculpting plan;</li>
+                                    <li><strong>Body Sculpting Techniques:</strong> – Hands-on training in various body sculpting techniques such as liposuction, non-surgical methods, and more;</li>
+                                    <li><strong>Equipment and Tools:</strong> –   Familiarization with the tools and equipment used in body sculpting procedures, including their maintenance;</li>
                                 </ul>
 
                                 <h3>Courses Video</h3>
                                 <div className="courses-curriculum">
-                                    <h3>Python Introduction</h3>
+                                    <h3>Introduction to Body Sculpting: </h3>
                                     <ul>
                                         <li>
                                             <a href="#" className="d-flex justify-content-between align-items-center">
-                                                <span className="courses-name">Python Introduction</span>
+                                                <span className="courses-name">Introduction to Body Sculpting: </span>
                                                 <div className="courses-meta">
                                                     <span className="questions">5 questions</span>
                                                     <span className="duration">01 Hour</span>
@@ -101,11 +103,11 @@ const SingleCourses = () => {
                                             </a>
                                         </li>
                                     </ul>
-                                    <h3>Stepping into the World of Python</h3>
+                                    <h3>Stepping into the World of Body Sculpting</h3>
                                     <ul>
                                         <li>
                                             <a href="#" className="d-flex justify-content-between align-items-center">
-                                                <span className="courses-name">NumPy Introduction</span>
+                                                <span className="courses-name">Anatomy and Physiology:</span>
                                                 <div className="courses-meta">
                                                     <span className="duration">15 Min</span>
                                                     <span className="status locked"><i className="flaticon-password"></i></span>
@@ -114,7 +116,7 @@ const SingleCourses = () => {
                                         </li>
                                         <li>
                                             <a href="#" className="d-flex justify-content-between align-items-center">
-                                                <span className="courses-name">NumPy Getting Started</span>
+                                                <span className="courses-name">Client Consultation and Assessment: </span>
                                                 <div className="courses-meta">
                                                     <span className="duration">30 Min</span>
                                                     <span className="status locked"><i className="flaticon-password"></i></span>
@@ -123,7 +125,7 @@ const SingleCourses = () => {
                                         </li>
                                         <li>
                                             <a href="#" className="d-flex justify-content-between align-items-center">
-                                                <span className="courses-name">NumPy Creating Arrays</span>
+                                                <span className="courses-name">Body Sculpting Techniques:</span>
                                                 <div className="courses-meta">
                                                     <span className="duration">45 Min</span>
                                                     <span className="status locked"><i className="flaticon-password"></i></span>
@@ -132,7 +134,7 @@ const SingleCourses = () => {
                                         </li>
                                         <li>
                                             <a href="#" className="d-flex justify-content-between align-items-center">
-                                                <span className="courses-name">NumPy Array Indexing</span>
+                                                <span className="courses-name">Equipment and Tools:</span>
                                                 <div className="courses-meta">
                                                     <span className="questions">4 questions</span>
                                                     <span className="duration">1 Hour</span>
@@ -151,34 +153,24 @@ const SingleCourses = () => {
                                         </li>
                                     </ul>
 
-                                    <h3>Python MySQL</h3>
+                                    <h3>Last Week</h3>
                                     <ul>
                                         <li>
                                             <a href="#" className="d-flex justify-content-between align-items-center">
-                                                <span className="courses-name">Python MySQL</span>
-                                                <div className="courses-meta">
-                                                    <span className="duration">01 Hour</span>
-                                                    <span className="status locked"><i className="flaticon-password"></i></span>
-                                                </div>
+                                                <span className="courses-name">Hands-On Practice:</span>
+                                               
                                             </a>
                                         </li>
                                         <li>
                                             <a href="#" className="d-flex justify-content-between align-items-center">
-                                                <span className="courses-name">Python MySQL Create Database</span>
-                                                <div className="courses-meta">
-                                                    <span className="questions">3 questions</span>
-                                                    <span className="duration">1.1 Hour</span>
-                                                    <span className="status locked"><i className="flaticon-password"></i></span>
-                                                </div>
+                                                <span className="courses-name">Case Studies:</span>
+                                               
                                             </a>
                                         </li>
                                         <li>
                                             <a href="#" className="d-flex justify-content-between align-items-center">
-                                                <span className="courses-name">Python MySQL Create Table</span>
-                                                <div className="courses-meta">
-                                                    <span className="duration">1.5 Hour</span>
-                                                    <span className="status locked"><i className="flaticon-password"></i></span>
-                                                </div>
+                                                <span className="courses-name">Continuing Education:</span>
+                                              
                                             </a>
                                         </li>
                                     </ul>
@@ -190,7 +182,7 @@ const SingleCourses = () => {
                                         <li>
                                             <span>
                                                 <i className='flaticon-tick'></i>
-                                                Become an expert in Statistics
+                                                Become an expert in Body Sculpting
                                             </span>
                                         </li>
                                         <li>
@@ -202,49 +194,49 @@ const SingleCourses = () => {
                                         <li>
                                             <span>
                                                 <i className='flaticon-tick'></i>
-                                                Gather, organize, data
+                                                Understanding the human musculoskeletal system
                                             </span>
                                         </li>
                                         <li>
                                             <span>
                                                 <i className='flaticon-tick'></i>
-                                                Use data for improved
+                                                Liposuction procedures and principles
                                             </span>
                                         </li>
                                         <li>
                                             <span>
                                                 <i className='flaticon-tick'></i>
-                                                Present information KPIs
+                                                Infection control and sterilization procedures
                                             </span>
                                         </li>
                                         <li>
                                             <span>
                                                 <i className='flaticon-tick'></i>
-                                                Perform quantitative
+                                                Conducting thorough client assessments
                                             </span>
                                         </li>
                                         <li>
                                             <span>
                                                 <i className='flaticon-tick'></i>
-                                                Analyze current data
+                                                Familiarity with various sculpting tools and devices
                                             </span>
                                         </li>
                                         <li>
                                             <span>
                                                 <i className='flaticon-tick'></i>
-                                                Discover how to find trends
+                                                Providing post-procedure instructions to clients
                                             </span>
                                         </li>
                                         <li>
                                             <span>
                                                 <i className='flaticon-tick'></i>
-                                                Understand the fundamentals
+                                                Integrating body sculpting with other cosmetic procedures
                                             </span>
                                         </li>
                                         <li>
                                             <span>
                                                 <i className='flaticon-tick'></i>
-                                                Use SQL to create, design
+                                                Effective communication with clients
                                             </span>
                                         </li>
                                     </ul>
@@ -252,17 +244,17 @@ const SingleCourses = () => {
 
                                 <h3>Requirements</h3>
                                 <ul className="requirements-list">
-                                    <li>Contrary to popular belief, Lorem Ipsum is not simply random text.</li>
-                                    <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry.</li>
-                                    <li>The standard Lorem Ipsum passage, used since the 1500s.</li>
+                                    <li>Relevant undergraduate or healthcare degree (for advanced courses)</li>
+                                    <li>Minimum age requirement, typically 18 years or older</li>
+                                    <li>No serious medical conditions that could pose a risk during training.</li>
                                 </ul>
 
                                 <h3>Who this course is for:</h3>
                                 <ul className="audience-list">
-                                    <li>Beginners to programming and data science</li>
-                                    <li>Students eager to learn about job opportunities in the field of data science</li>
-                                    <li>Candidates willing to boost their resume by learning how to combine the knowledge of Statistics, SQL, and Tableau in a real-world working environment</li>
-                                    <li>People interested in a Business Intelligence Analyst career</li>
+                                    <li>Individuals who want to start a career in body sculpting and aesthetics.</li>
+                                    <li>Doctors, nurses, or medical practitioners looking to expand their skills and offer body sculpting services.</li>
+                                    <li>Professionals in the beauty and skincare industry seeking to diversify their services.</li>
+                                    <li>Personal trainers or fitness instructors interested in enhancing their knowledge of body contouring techniques.</li>
                                 </ul>
 
                                 <h3>Meet Your Instructors</h3>
@@ -274,12 +266,12 @@ const SingleCourses = () => {
                                             <div className="author-profile-title-details">
                                                 <div className="author-profile-details">
                                                     <h4>James Anderson</h4>
-                                                    <span className="d-block">Photographer, Author, Teacher</span>
+                                                    <span className="d-block">body contouring specialist.</span>
                                                 </div>
                                             </div>
                                         </div>
-                                        <p>James Anderson is a celebrated photographer, author, and teacher who brings passion to everything he does.</p>
-                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                                        <p>James Anderson is a highly skilled and experienced Body Contouring Specialist dedicated to helping you achieve your desired aesthetic goals. With a passion for artistry and a deep understanding of human anatomy, James has honed his craft to bring out the best in your natural beauty.</p>
+                                        <p>James's commitment to excellence in body sculpting shines through in every procedure he performs.</p>
                                     </div>
                                 </div>
 

@@ -48,7 +48,7 @@ const MembershipLevels = () => {
                                 <tr>
                                     <td>
                                         <Link href="#">
-                                            <a>Investment Fundamentals & Data Analytics</a>
+                                            <a>Body Sculpting </a>
                                         </Link>
                                     </td>
                                     <td className="item-check"><i className='bx bx-check'></i></td>
@@ -58,7 +58,7 @@ const MembershipLevels = () => {
                                 <tr>
                                     <td>
                                         <Link href="#">
-                                            <a>Hands-On Python & R In Data Science</a>
+                                            <a>Wood Therapy</a>
                                         </Link>
                                     </td>
                                     <td className="item-check"><i className='bx bx-check'></i></td>
@@ -68,7 +68,7 @@ const MembershipLevels = () => {
                                 <tr>
                                     <td>
                                         <Link href="#">
-                                            <a>Complete Data Science Bootcamp</a>
+                                            <a>Lymphatic Drainage</a>
                                         </Link>
                                     </td>
                                     <td className="item-check"><i className='bx bx-check'></i></td>
@@ -78,7 +78,7 @@ const MembershipLevels = () => {
                                 <tr>
                                     <td>
                                         <Link href="#">
-                                            <a>Programming MasterclassName for Developers</a>
+                                            <a>Lip Fillers</a>
                                         </Link>
                                     </td>
                                     <td className="item-none"><i className='bx bx-x'></i></td>
@@ -88,7 +88,7 @@ const MembershipLevels = () => {
                                 <tr>
                                     <td>
                                         <Link href="#">
-                                            <a>Hands-On Artificial Neural Networks</a>
+                                            <a>Teeth Whitening</a>
                                         </Link>
                                     </td>
                                     <td className="item-none"><i className='bx bx-x'></i></td>
@@ -98,7 +98,7 @@ const MembershipLevels = () => {
                                 <tr>
                                     <td>
                                         <Link href="#">
-                                            <a>PRINCE2® Practitioner Certification Training</a>
+                                            <a>Hair Extension</a>
                                         </Link>
                                     </td>
                                     <td className="item-none"><i className='bx bx-x'></i></td>
@@ -108,7 +108,7 @@ const MembershipLevels = () => {
                                 <tr>
                                     <td>
                                         <Link href="#">
-                                            <a>PMI-RMP® Certification Training</a>
+                                            <a>Fat Dissolving Shots</a>
                                         </Link>
                                     </td>
                                     <td className="item-none"><i className='bx bx-x'></i></td>
@@ -118,7 +118,7 @@ const MembershipLevels = () => {
                                 <tr>
                                     <td>
                                         <Link href="#">
-                                            <a>PRINCE2® Foundation Certification Training</a>
+                                            <a>Yoga Training</a>
                                         </Link>
                                     </td>
                                     <td className="item-none"><i className='bx bx-x'></i></td>
@@ -128,7 +128,7 @@ const MembershipLevels = () => {
                                 <tr>
                                     <td>
                                         <Link href="#">
-                                            <a>PMP® Plus</a>
+                                            <a>Health Coaching</a>
                                         </Link>
                                     </td>
                                     <td className="item-none"><i className='bx bx-x'></i></td>
@@ -138,14 +138,14 @@ const MembershipLevels = () => {
                                 <tr>
                                     <td>
                                         <Link href="#">
-                                            <a>PMP® Renewal Pack</a>
+                                            <a>Lashes</a>
                                         </Link>
                                     </td>
                                     <td className="item-none"><i className='bx bx-x'></i></td>
                                     <td className="item-check"><i className='bx bx-check'></i></td>
                                     <td className="item-check"><i className='bx bx-check'></i></td>
                                 </tr>
-                                <tr>
+                                {/* <tr>
                                     <td>
                                         <Link href="#">
                                             <a>Digital Project Manager</a>
@@ -262,7 +262,7 @@ const MembershipLevels = () => {
                                             <a className="select-btn">Get it now</a>
                                         </Link>
                                     </td>
-                                </tr>
+                                </tr> */}
                             </tbody>
                         </table>
                     </div>
