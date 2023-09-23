@@ -130,7 +130,7 @@ const CommentArea = () => {
                                 </div>
 
                                 <div className="comment-content">
-                                    <p>t's been a rewarding experience that's opened doors to new opportunities.</p>
+                                    <p>it's been a rewarding experience that's opened doors to new opportunities.</p>
                                 </div>
 
                                 <div className="reply">
