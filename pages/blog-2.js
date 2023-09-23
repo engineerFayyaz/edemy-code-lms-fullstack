@@ -26,11 +26,11 @@ const Blog2 = () => {
                                 </div>
                                 <div className="post-content">
                                     <Link href="#">
-                                        <a className="category">Education</a>
+                                        <a className="category"></a>
                                     </Link>
                                     <h3>
                                         <Link href="/single-blog-1">
-                                            <a>It’s Time To Think Differently About Homeschooling</a>
+                                            <a>Unlocking the Art of Body Sculpting: Transforming Your Ideal Physique</a>
                                         </Link>
                                     </h3>
                                     <ul className="post-content-footer d-flex justify-content-between align-items-center">
@@ -59,11 +59,11 @@ const Blog2 = () => {
                                 </div>
                                 <div className="post-content">
                                     <Link href="#">
-                                        <a className="category">Online</a>
+                                        <a className="category"></a>
                                     </Link>
                                     <h3>
                                         <Link href="/single-blog-1">
-                                            <a>What Is The MLB Summer Slugger Program?</a>
+                                            <a>Mastering the Hyaluron Pen: Training for the Perfect Pout</a>
                                         </Link>
                                     </h3>
                                     <ul className="post-content-footer d-flex justify-content-between align-items-center">
@@ -92,11 +92,11 @@ const Blog2 = () => {
                                 </div>
                                 <div className="post-content">
                                     <Link href="#">
-                                        <a className="category">Learning</a>
+                                        <a className="category"></a>
                                     </Link>
                                     <h3>
                                         <Link href="/single-blog-1">
-                                            <a>28 Student-Centered Instructional Strategies</a>
+                                            <a>The Beauty of Wood Therapy: A Holistic Approach to Wellness and Aesthetics</a>
                                         </Link>
                                     </h3>
                                     <ul className="post-content-footer d-flex justify-content-between align-items-center">
@@ -125,11 +125,11 @@ const Blog2 = () => {
                                 </div>
                                 <div className="post-content">
                                     <Link href="#">
-                                        <a className="category">Education</a>
+                                        <a className="category"></a>
                                     </Link>
                                     <h3>
                                         <Link href="/single-blog-1">
-                                            <a>4 Steps To Quality Training In Times Of Urgency</a>
+                                            <a>Glowing from Within: Unveiling the Secrets of BB Glow Training</a>
                                         </Link>
                                     </h3>
                                     <ul className="post-content-footer d-flex justify-content-between align-items-center">
@@ -158,11 +158,11 @@ const Blog2 = () => {
                                 </div>
                                 <div className="post-content">
                                     <Link href="#">
-                                        <a className="category">Online</a>
+                                        <a className="category"></a>
                                     </Link>
                                     <h3>
                                         <Link href="/single-blog-1">
-                                            <a>100 Blended Learning Resources For Teachers</a>
+                                            <a>Hair Extensions Unveiled: A Comprehensive Guide to Luscious Locks</a>
                                         </Link>
                                     </h3>
                                     <ul className="post-content-footer d-flex justify-content-between align-items-center">
@@ -191,11 +191,11 @@ const Blog2 = () => {
                                 </div>
                                 <div className="post-content">
                                     <Link href="#">
-                                        <a className="category">Learning</a>
+                                        <a className="category"></a>
                                     </Link>
                                     <h3>
                                         <Link href="/single-blog-1">
-                                            <a>20 Examples Of Project-Based Learning</a>
+                                            <a>Unlocking the Healing Power of Lymphatic Drainage: Your Guide to a Healthier You</a>
                                         </Link>
                                     </h3>
                                     <ul className="post-content-footer d-flex justify-content-between align-items-center">
@@ -224,7 +224,7 @@ const Blog2 = () => {
                                 </div>
                                 <div className="post-content">
                                     <Link href="#">
-                                        <a className="category">Education</a>
+                                        <a className="category"></a>
                                     </Link>
                                     <h3>
                                         <Link href="/single-blog-1">
