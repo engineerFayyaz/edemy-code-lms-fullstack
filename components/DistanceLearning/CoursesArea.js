@@ -24,7 +24,7 @@ const CoursesArea = () => {
                 <div className="courses-image">
                   <Link href="/single-courses-2">
                     <a className="d-block image">
-                      <img src="/images/courses/courses12.jpg" alt="image" />
+                      <img src="/images/courses/courses12.jpg" className="" alt="image" />
                     </a>
                   </Link>
 

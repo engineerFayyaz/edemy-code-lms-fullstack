@@ -19,19 +19,19 @@ const Profile = () => {
                         <div className="row align-items-center">
                             <div className="col-lg-4 col-md-4">
                                 <div className="image">
-                                    <img src="/images/advisor/advisor10.jpg" alt="image" />
+                                    <img src="/images/man2.jpg" alt="image" />
                                 </div>
                             </div>
 
                             <div className="col-lg-8 col-md-8">
                                 <div className="content">
-                                    <h3>Sarah Taylor</h3>
-                                    <span className="sub-title">Agile Project Expert</span>
+                                    <h3>Joanna Grajeda</h3>
+                                    <span className="sub-title">CEO and ounder of Toxiccbeauty LLC</span>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                                     
                                     <ul className="info">
-                                        <li><span>Phone Number:</span> <a href="tel:+44254588689">(+44) -2545 - 88689</a></li>
-                                        <li><span>Email:</span> <a href="mailto:hello@sarahtaylor.com">hello@sarahtaylor.com</a></li>
+                                        <li><span>Phone Number:</span> <a href="tel:+44254588689">+1 (602) 316-8811</a></li>
+                                        <li><span>Email:</span> <a href="mailto:hello@sarahtaylor.com">Toxiccbeauty.3@gmail.con</a></li>
                                     </ul>
 
                                     <ul className="social-link">

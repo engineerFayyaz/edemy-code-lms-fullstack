@@ -21,7 +21,7 @@ const Quizzes = () => {
                         <tr>
                             <td>
                                 <Link href="#">
-                                    <a>Introduction to Python for Beginners</a>
+                                    <a>Introduction to Wood Therapy</a>
                                 </Link>
                             </td>
                             <td>Lesson 1 Term Test</td>
@@ -32,7 +32,7 @@ const Quizzes = () => {
                         <tr>
                             <td>
                                 <Link href="#">
-                                    <a>Python for Data Science and Machine Learning Bootcamp</a>
+                                    <a>Anatomy and Physiology</a>
                                 </Link>
                             </td>
                             <td>Lesson 2 Term Test</td>
@@ -54,7 +54,7 @@ const Quizzes = () => {
                         <tr>
                             <td>
                                 <Link href="#">
-                                    <a>REST APIs with Flask and Python</a>
+                                    <a>Types of Wood Instruments</a>
                                 </Link>
                             </td>
                             <td>Lesson 1 Term Test</td>
@@ -65,7 +65,7 @@ const Quizzes = () => {
                         <tr>
                             <td>
                                 <Link href="#">
-                                    <a>Reinforcement Learning in Python</a>
+                                    <a>Wood Therapy Techniques</a>
                                 </Link>
                             </td>
                             <td>Lesson 1 Term Test</td>
