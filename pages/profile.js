@@ -27,7 +27,7 @@ const Profile = () => {
                                 <div className="content">
                                     <h3>Joanna Grajeda</h3>
                                     <span className="sub-title">CEO and ounder of Toxiccbeauty LLC</span>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                    <p>Our project management training equips learners with the knowledge and discipline required to effectively plan, manage, execute, and control projects regardless of industry. You'll learn all about the most popular project management methodologies that help organizations deliver successful projects..</p>
                                     
                                     <ul className="info">
                                         <li><span>Phone Number:</span> <a href="tel:+44254588689">+1 (602) 316-8811</a></li>
