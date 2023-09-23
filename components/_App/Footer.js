@@ -12,7 +12,7 @@ const Footer = () => {
                         <div className="single-footer-widget">
                             <Link href="/">
                                 <a className="logo">
-                                    <img src="/images/logo2.png" alt="logo" />
+                                    <img src="/images/logo.png" alt="logo" />
                                 </a>
                             </Link>
 
@@ -119,15 +119,15 @@ const Footer = () => {
                                 </li>
                                 <li>
                                     <i className='bx bx-phone-call'></i> 
-                                    <a href="tel:+44587154756">+1 (123) 456 7890</a>
+                                    <a href="tel:+44587154756">+1 (602) 316-8811</a>
                                 </li>
                                 <li>
                                     <i className='bx bx-envelope'></i> 
-                                    <a href="mailto:hello@edemy.com">hello@toxicbeautyacademy.com</a>
+                                    <a href="mailto:Toxiccbeauty@gamil.com">hello@toxicbeautyacademy.com</a>
                                 </li>
                                 <li>
                                     <i className='bx bxs-inbox'></i> 
-                                    <a href="tel:+557854578964">+55 785 4578964</a>
+                                    <a href="tel:+557854578964">+1 (602) 316-8811</a>
                                 </li>
                             </ul>
                         </div>

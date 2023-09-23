@@ -8,7 +8,7 @@ const UpcomingEvents = () => {
                 <div className="section-title">
                     <span className="sub-title">Events</span>
                     <h2 className="font-weight-black">Our Upcoming Events</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <p>Get ready to elevate your beauty game! Discover our upcoming events, where you'll dive into the world of clean beauty and wellness like never before.</p>
                 </div>
 
                 <div className="row">

@@ -7,7 +7,7 @@ const SubscribeForm = () => {
                 <div className="subscribe-content">
                     <span className="sub-title">Go At Your Own Pace</span>
                     <h2>Subscribe To Our Newsletter</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <p>Your path to a cleaner, greener beauty routine starts with a click. Subscribe today and unlock the natural beauty potential within you.</p>
                     
                     <form className="newsletter-form">
                         <input type="text" className="input-newsletter" placeholder="Enter your email address" name="EMAIL" required />

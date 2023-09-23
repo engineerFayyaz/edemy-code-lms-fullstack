@@ -19,7 +19,7 @@ const SelectedAgesArea = () => {
 
                             <div className="content">
                                 <h3>Infants</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                <p>The Toxic Truth: What You Need to Know About Beauty Products and Your Health.</p>
                                 <span className="ages-number">3 - 12 Months</span>
                             </div>
                         </div>
@@ -33,7 +33,7 @@ const SelectedAgesArea = () => {
 
                             <div className="content">
                                 <h3>Toddler</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                <p>From Toxic to Terrific: Transforming Your Beauty Routine with Clean Ingredients.</p>
                                 <span className="ages-number">1 - 3 Years</span>
                             </div>
                         </div>
@@ -47,7 +47,7 @@ const SelectedAgesArea = () => {
 
                             <div className="content">
                                 <h3>Preschool</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                <p>The Beauty Revolution: Why Toxic-Free Cosmetics Are the Future.</p>
                                 <span className="ages-number">3 - 5 Years</span>
                             </div>
                         </div>
@@ -61,7 +61,7 @@ const SelectedAgesArea = () => {
 
                             <div className="content">
                                 <h3>Flex-Care</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                <p>Flex Care Beauty: A Healthier, More Adaptable Approach to Toxic Beauty Academy.</p>
                                 <span className="ages-number">5 - 12 Years</span>
                             </div>
                         </div>

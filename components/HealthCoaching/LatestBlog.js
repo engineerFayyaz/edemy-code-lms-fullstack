@@ -8,7 +8,7 @@ const LatestBlog = () => {
                 <div className="section-title">
                     <span className="sub-title">Our New</span>
                     <h2 className="playfair-display-font">Check Out Our Latest Blog</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <p>"Empower Your Beauty Routine: A Guide to Toxic-Free Cosmetics.</p>
                 </div>
 
                 <div className="row">

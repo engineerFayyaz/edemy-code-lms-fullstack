@@ -14,7 +14,7 @@ const SubscribeForm = () => {
                     <div className="col-lg-6 col-md-12">
                         <div className="subscribe-content text-left">
                             <h2 className="font-weight-black">Subscribe To Our Newsletter</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <p>Join the Toxic Beauty Academy family and receive our newsletter filled with inspiration, education, and the latest updates in the world of clean beauty.</p>
 
                             <form className="newsletter-form">
                                 <input type="text" className="input-newsletter" placeholder="Enter your email address" name="EMAIL" required />

@@ -8,7 +8,7 @@ const TopCategories = () => {
                 <div className="section-title">
                     <span className="sub-title">Categories</span>
                     <h2>Top Categories</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <p>Explore Toxic Beauty Academy's Top Categories and Dive into Clean Beauty Excellence!</p>
                 </div>
 
                 <div className="row">

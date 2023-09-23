@@ -8,7 +8,7 @@ const Features = () => {
                 <div className="section-title">
                     <span className="sub-title">Education for everyone</span>
                     <h2>Online Coaching Lessons For Remote Learning</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <p>Master Toxic-Free Beauty from Anywhere with Our Online Coaching Lessons for Remote Learning!</p>
                 </div>
 
                 <div className="row">

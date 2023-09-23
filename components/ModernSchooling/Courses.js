@@ -8,7 +8,7 @@ const Courses = () => {
                 <div className="section-title">
                     <span className="sub-title">Go at your own pace</span>
                     <h2>The World’s Largest Selection Of Courses</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <p>"Unlock Your Beauty Potential with the World's Largest Selection of Toxic-Free Beauty Courses at Toxic Beauty Academy!</p>
                 </div>
 
                 <div className="row">

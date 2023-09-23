@@ -11,8 +11,8 @@ const Testimonials = () => {
             <span className="sub-title">Testimonials</span>
             <h2>What People Say About</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
+              The customer service I received was exceptional. The staff went
+              above and beyond to assist me.
             </p>
           </div>
 
@@ -37,7 +37,10 @@ const Testimonials = () => {
                   alt="image"
                 />
                 <p>
-                I've been using Toxic Beauty for a while now, and I'm amazed at the results. Their natural approach to beauty products is refreshing and effective. I finally found products that align with my values and deliver fantastic results
+                  I've been using Toxic Beauty for a while now, and I'm amazed
+                  at the results. Their natural approach to beauty products is
+                  refreshing and effective. I finally found products that align
+                  with my values and deliver fantastic results
                 </p>
                 <h3>John Smith</h3>
                 <span>Wood Therapy</span>
@@ -70,7 +73,11 @@ const Testimonials = () => {
                   alt="image"
                 />
                 <p>
-                As someone with sensitive skin, I've struggled to find skincare products that don't irritate my skin. Toxic Beauty has been a game-changer. Their toxin-free formulas have improved my skin's texture and appearance without any adverse reactions
+                  As someone with sensitive skin, I've struggled to find
+                  skincare products that don't irritate my skin. Toxic Beauty
+                  has been a game-changer. Their toxin-free formulas have
+                  improved my skin's texture and appearance without any adverse
+                  reactions
                 </p>
                 <h3>Sarah Taylor</h3>
                 <span>Hair Extensions</span>
@@ -103,7 +110,10 @@ const Testimonials = () => {
                   alt="image"
                 />
                 <p>
-                I stumbled upon Toxic Beauty and haven't looked back since. Their dedication to transparency and natural ingredients is evident in every product. My skin has never felt so pampered and healthy
+                  I stumbled upon Toxic Beauty and haven't looked back since.
+                  Their dedication to transparency and natural ingredients is
+                  evident in every product. My skin has never felt so pampered
+                  and healthy
                 </p>
                 <h3>David Warner</h3>
                 <span>Teeth Whitening</span>

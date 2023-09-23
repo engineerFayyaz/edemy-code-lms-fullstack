@@ -20,7 +20,7 @@ const Contact = () => {
                             <div className="contact-info">
                                 <span className="sub-title">Contact Details</span>
                                 <h2>Get in Touch</h2>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra.</p>
+                                <p>You can put whatever makes me sound nice and professional</p>
 
                                 <ul>
                                     <li>

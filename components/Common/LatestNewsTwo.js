@@ -8,7 +8,7 @@ const LatestNewsTwo = () => {
                 <div className="section-title">
                     <span className="sub-title">News</span>
                     <h2>Check Out Our Latest Blog</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <p>Unmasking the Hidden Dangers: Toxic Ingredients Lurking in Your Beauty Products.</p>
                 </div>
 
                 <div className="row">

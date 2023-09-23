@@ -9,7 +9,7 @@ const MainBanner = () => {
                     <div className="container">
                         <div className="banner-wrapper-text">
                             <h1>Build Skills With Experts Any Time, Anywhere</h1>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <p>Highlight how Toxic Beauty Academy offers a wide range of online courses and resources, enabling individuals to access expert-led education from the comfort of their homes or wherever they choose.</p>
 
                             <Link href="/courses-4">
                                 <a className="default-btn">

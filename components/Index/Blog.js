@@ -21,7 +21,7 @@ const Blog = () => {
 										<img
 											src="/images/blog/img16.jpg"
 											alt="image"
-										/>
+											style={{ height:"257px"}}/>
 									</a>
 								</Link>
 							</div>
@@ -49,7 +49,7 @@ const Blog = () => {
 									</li>
 									<li>
 										<i className="flaticon-calendar"></i>{" "}
-										Feb 22, 2021
+										Feb 22, 2023
 									</li>
 								</ul>
 							</div>
@@ -63,19 +63,19 @@ const Blog = () => {
 										<img
 											src="/images/blog/img17.jpg"
 											alt="image"
+											style={{height:"257px"}}
 										/>
 									</a>
 								</Link>
 							</div>
 							<div className="post-content">
 								<Link href="#">
-									<a className="category">Online</a>
+									<a className="category">Education</a>
 								</Link>
 								<h3>
 									<Link href="/single-blog-1">
 										<a>
-											Online Learning Can Prepare Students
-											For A Fast-Changing
+											Hyaluron Pen Traning With Toxic Beauty Acadmey 
 										</a>
 									</Link>
 								</h3>
@@ -92,7 +92,7 @@ const Blog = () => {
 									</li>
 									<li>
 										<i className="flaticon-calendar"></i>{" "}
-										Feb 25, 2021
+										Feb 25, 2023
 									</li>
 								</ul>
 							</div>
@@ -106,19 +106,19 @@ const Blog = () => {
 										<img
 											src="/images/blog/img18.jpg"
 											alt="image"
+											style={{height:"257px"}}
 										/>
 									</a>
 								</Link>
 							</div>
 							<div className="post-content">
 								<Link href="#">
-									<a className="category">Learning</a>
+									<a className="category">Education</a>
 								</Link>
 								<h3>
 									<Link href="/single-blog-1">
 										<a>
-											As Learning Moves Online, Trigger
-											Warnings Must Too
+											EyeLash Extensions Traning with Toxic Beauty Acadmey
 										</a>
 									</Link>
 								</h3>
@@ -135,7 +135,7 @@ const Blog = () => {
 									</li>
 									<li>
 										<i className="flaticon-calendar"></i>{" "}
-										Feb 28, 2021
+										Feb 28, 2023
 									</li>
 								</ul>
 							</div>
