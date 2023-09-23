@@ -9,7 +9,7 @@ const MainBanner = () => {
                     <div className="col-lg-6 col-md-12">
                         <div className="banner-wrapper-content">
                             <h1>Build Skills With Experts Any Time, Anywhere</h1>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <p>Master lip filler techniques with experts, anytime, anywhere. Enhance your skills and offer stunning results in the field of cosmetic enhancements.</p>
 
                             <form>
                                 <label><i className="flaticon-search"></i></label>
@@ -19,10 +19,10 @@ const MainBanner = () => {
 
                             <ul className="popular-search-list">
                                 <li><span>Popular:</span></li>
-                                <li><Link href="#"><a>Development</a></Link></li>
-                                <li><Link href="#"><a>Marketing</a></Link></li>
-                                <li><Link href="#"><a>Illustration</a></Link></li>
-                                <li><Link href="#"><a>UX/UI</a></Link></li>
+                                <li><Link href="#"><a>Basic Filler Areas</a></Link></li>
+                                <li><Link href="#"><a>Advanced filler Areas</a></Link></li>
+                                <li><Link href="#"><a>Marionette</a></Link></li>
+                                <li><Link href="#"><a>lips</a></Link></li>
                             </ul>
                         </div>
                     </div>
