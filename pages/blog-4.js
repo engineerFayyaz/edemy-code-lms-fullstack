@@ -29,11 +29,11 @@ const Blog4 = () => {
                                         </div>
                                         <div className="post-content">
                                             <Link href="#">
-                                                <a className="category">Education</a>
+                                                <a className="category"></a>
                                             </Link>
                                             <h3>
                                                 <Link href="/single-blog-1">
-                                                    <a>The Beat Goes On: High School Choirs Improvise In The Age Of Coronavirus</a>
+                                                    <a>Unlocking the Art of Body Sculpting: Transforming Your Ideal Physique</a>
                                                 </Link>
                                             </h3>
                                             <ul className="post-content-footer d-flex justify-content-between align-items-center">
@@ -62,11 +62,11 @@ const Blog4 = () => {
                                         </div>
                                         <div className="post-content">
                                             <Link href="#">
-                                                <a className="category">Online</a>
+                                                <a className="category"></a>
                                             </Link>
                                             <h3>
                                                 <Link href="/single-blog-1">
-                                                    <a>How Online Book Read-Alouds Can Help Students' Literacy and Connection During Social Distancing</a>
+                                                    <a>Mastering the Hyaluron Pen: Training for the Perfect Pout</a>
                                                 </Link>
                                             </h3>
                                             <ul className="post-content-footer d-flex justify-content-between align-items-center">
@@ -95,11 +95,11 @@ const Blog4 = () => {
                                         </div>
                                         <div className="post-content">
                                             <Link href="#">
-                                                <a className="category">Learning</a>
+                                                <a className="category"></a>
                                             </Link>
                                             <h3>
                                                 <Link href="/single-blog-1">
-                                                    <a>How To Secure Remote Workers During The COVID-19 Outbreak</a>
+                                                    <a>The Beauty of Wood Therapy: A Holistic Approach to Wellness and Aesthetics</a>
                                                 </Link>
                                             </h3>
                                             <ul className="post-content-footer d-flex justify-content-between align-items-center">
@@ -128,11 +128,11 @@ const Blog4 = () => {
                                         </div>
                                         <div className="post-content">
                                             <Link href="#">
-                                                <a className="category">Learning</a>
+                                                <a className="category"></a>
                                             </Link>
                                             <h3>
                                                 <Link href="/single-blog-1">
-                                                    <a>What A Company Needs To Provide Employees For Effective Remote Work</a>
+                                                    <a>Glowing from Within: Unveiling the Secrets of BB Glow Training</a>
                                                 </Link>
                                             </h3>
                                             <ul className="post-content-footer d-flex justify-content-between align-items-center">

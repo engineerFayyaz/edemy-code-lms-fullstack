@@ -228,7 +228,7 @@ const Blog2 = () => {
                                     </Link>
                                     <h3>
                                         <Link href="/single-blog-1">
-                                            <a>Instructional Design And Adult Learners</a>
+                                            <a>Brighten Your Smile: A Comprehensive Guide to Teeth Whitening</a>
                                         </Link>
                                     </h3>
                                     <ul className="post-content-footer d-flex justify-content-between align-items-center">
@@ -257,11 +257,11 @@ const Blog2 = () => {
                                 </div>
                                 <div className="post-content">
                                     <Link href="#">
-                                        <a className="category">Online</a>
+                                        <a className="category"></a>
                                     </Link>
                                     <h3>
                                         <Link href="/single-blog-1">
-                                            <a>Join ATD 2020 International Conference & EXPO</a>
+                                            <a>Melting Away Fat: Exploring the World of Fat Dissolving Treatments</a>
                                         </Link>
                                     </h3>
                                     <ul className="post-content-footer d-flex justify-content-between align-items-center">
@@ -290,11 +290,11 @@ const Blog2 = () => {
                                 </div>
                                 <div className="post-content">
                                     <Link href="#">
-                                        <a className="category">Learning</a>
+                                        <a className="category"></a>
                                     </Link>
                                     <h3>
                                         <Link href="/single-blog-1">
-                                            <a>2020 L&D On A Shoestring Online Conference</a>
+                                            <a>The Path to Inner Balance: A Guide to Yoga Training</a>
                                         </Link>
                                     </h3>
                                     <ul className="post-content-footer d-flex justify-content-between align-items-center">

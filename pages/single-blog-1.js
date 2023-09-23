@@ -55,9 +55,9 @@ const BlogDetails = () => {
 
                                     <h3>It’s Time To Think Differently About Homeschooling</h3>
 
-                                    <p>Quuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quia non numquam eius modi tempora incidunt ut labore et dolore magnam dolor sit amet, consectetur adipisicing.</p>
+                                    <p>Body sculpting, also known as body contouring, refers to a group of cosmetic procedures and non-invasive treatments designed to reshape and enhance the appearance of the body.</p>
 
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in  sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+                                    <p>The goal of body sculpting is to improve the overall contours of the body by reducing or eliminating localized areas of fat, toning and tightening loose skin, and enhancing muscle definition. This can create a more aesthetically pleasing and youthful appearance.</p>
 
                                     <blockquote className="wp-block-quote">
                                         <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
@@ -65,7 +65,7 @@ const BlogDetails = () => {
                                         <cite>Tom Cruise</cite>
                                     </blockquote>
 
-                                    <p>Quuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quia non numquam eius modi tempora incidunt ut labore et dolore magnam dolor sit amet, consectetur adipisicing.</p>
+                                    <p>Body sculpting treatments are often chosen by individuals who have achieved a healthy body weight through diet and exercise but still have areas of stubborn fat or loose skin that they wish to address..</p>
 
                                     <ul className="wp-block-gallery columns-3">
                                         <li className="blocks-gallery-item">
@@ -85,20 +85,20 @@ const BlogDetails = () => {
                                         </li>
                                     </ul>
 
-                                    <h3>Four major elements that we offer:</h3>
+                                    <h3>Four major elements:</h3>
 
                                     <ul className="features-list">
-                                        <li><i className='bx bx-badge-check'></i> Scientific skills for getting a better result</li>
-                                        <li><i className='bx bx-badge-check'></i> Communication skills to getting in touch</li>
-                                        <li><i className='bx bx-badge-check'></i> A career overview opportunity available</li>
-                                        <li><i className='bx bx-badge-check'></i> A good work environment for work</li>
+                                        <li><i className='bx bx-badge-check'></i> Liposuction</li>
+                                        <li><i className='bx bx-badge-check'></i> Tummy Tuck (Abdominoplasty)</li>
+                                        <li><i className='bx bx-badge-check'></i> CoolSculpting</li>
+                                        <li><i className='bx bx-badge-check'></i> Laser Liposuctionk</li>
                                     </ul>
 
                                     <h3>Setting the mood with incense</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in  sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+                                    <p>Embarking on a body sculpting journey is not only about physical transformation but also a profound experience for the mind and spirit. To create an environment that supports your wellness goals, consider incorporating incense into your routine. In this blog post, we'll explore how the use of incense can help set the mood, enhance relaxation, and promote a harmonious atmosphere during your body sculpting sessions..</p>
 
                                     <h3>The rise of marketing and why you need it</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p>
+                                    <p>In the ever-evolving landscape of aesthetics and wellness, body sculpting has emerged as a highly sought-after solution for those seeking to enhance their physical appearance. However, in a competitive market, the importance of effective marketing cannot be overstated..</p>
                                 </div>
 
                                 <div className="article-footer">
@@ -106,8 +106,8 @@ const BlogDetails = () => {
                                         <span><i className='bx bx-purchase-tag'></i></span>
 
                                         <a href="#">Fashion</a>
-                                        <a href="#">Games</a>
-                                        <a href="#">Travel</a>
+                                        <a href="#">Styles</a>
+                                        <a href="#">Fitness</a>
                                     </div>
 
                                     <div className="article-share">
