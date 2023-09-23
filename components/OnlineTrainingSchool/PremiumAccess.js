@@ -8,7 +8,7 @@ const PremiumAccess = () => {
                 <div className="premium-access-content">
                     <span className="sub-title">Go at your own pace</span>
                     <h2>Give their limitless potential unlimited access</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <p>Unlock limitless potential with unlimited access. Elevate your capabilities and explore endless opportunities with our comprehensive platform</p>
                     
                     <Link href="/membership-levels">
                         <a className="default-btn">

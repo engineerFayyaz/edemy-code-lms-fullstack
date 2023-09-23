@@ -12,9 +12,7 @@ const PopularCourses = () => {
 						<span className="sub-title">Go At Your Own Pace</span>
 						<h2>Our Popular Courses</h2>
 						<p>
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-							sed do eiusmod tempor incididunt ut labore et dolore
-							magna aliqua.
+						Join now for our popular courses on toxic beauty. Gain insights into safer, cleaner beauty practices while enhancing your skincare knowledge and expertise.
 						</p>
 					</div>
 
@@ -56,7 +54,7 @@ const PopularCourses = () => {
 									<a href="#" className="fav">
 										<i className="flaticon-heart"></i>
 									</a>
-									<div className="price shadow">$39</div>
+									<div className="price shadow">$190</div>
 								</div>
 								<div className="courses-content">
 									<div className="course-author d-flex align-items-center">
@@ -70,15 +68,12 @@ const PopularCourses = () => {
 									<h3>
 										<Link href="/single-courses-2">
 											<a>
-												The Data Science Course 2020:
-												Complete Data Science Bootcamp
+											Professional Teeth Whitening Certification
 											</a>
 										</Link>
 									</h3>
 									<p>
-										Lorem ipsum dolor sit amet, consectetur
-										adipiscing elit, sed do eiusmod tempor
-										incididunt ut labore et dolore.
+									Master the art of teeth whitening, from choosing the right products to safe and effective application techniques
 									</p>
 									<ul className="courses-box-footer d-flex justify-content-between align-items-center">
 										<li>
@@ -108,7 +103,7 @@ const PopularCourses = () => {
 									<a href="#" className="fav">
 										<i className="flaticon-heart"></i>
 									</a>
-									<div className="price shadow">$49</div>
+									<div className="price shadow">$190</div>
 								</div>
 								<div className="courses-content">
 									<div className="course-author d-flex align-items-center">
@@ -122,15 +117,12 @@ const PopularCourses = () => {
 									<h3>
 										<Link href="/single-courses-2">
 											<a>
-												Java Programming MasterclassName for
-												Software Developers
+											Natural Teeth Whitening with certification
 											</a>
 										</Link>
 									</h3>
 									<p>
-										Lorem ipsum dolor sit amet, consectetur
-										adipiscing elit, sed do eiusmod tempor
-										incididunt ut labore et dolore.
+									Explore holistic approaches to teeth whitening, utilizing natural ingredients and methods for a brighter smile
 									</p>
 									<ul className="courses-box-footer d-flex justify-content-between align-items-center">
 										<li>
@@ -160,7 +152,7 @@ const PopularCourses = () => {
 									<a href="#" className="fav">
 										<i className="flaticon-heart"></i>
 									</a>
-									<div className="price shadow">$59</div>
+									<div className="price shadow">$190</div>
 								</div>
 								<div className="courses-content">
 									<div className="course-author d-flex align-items-center">
@@ -174,15 +166,12 @@ const PopularCourses = () => {
 									<h3>
 										<Link href="/single-courses-2">
 											<a>
-												Deep Learning A-Z™: Hands-On
-												Artificial Neural Networks
+											Advanced Cosmetic Dentistry certification
 											</a>
 										</Link>
 									</h3>
 									<p>
-										Lorem ipsum dolor sit amet, consectetur
-										adipiscing elit, sed do eiusmod tempor
-										incididunt ut labore et dolore.
+									Dive deep into advanced dental techniques, including veneers and implants, to achieve comprehensive smile transformations
 									</p>
 									<ul className="courses-box-footer d-flex justify-content-between align-items-center">
 										<li>
@@ -212,7 +201,7 @@ const PopularCourses = () => {
 									<a href="#" className="fav">
 										<i className="flaticon-heart"></i>
 									</a>
-									<div className="price shadow">$54</div>
+									<div className="price shadow">$190</div>
 								</div>
 								<div className="courses-content">
 									<div className="course-author d-flex align-items-center">
@@ -226,15 +215,12 @@ const PopularCourses = () => {
 									<h3>
 										<Link href="/single-courses-2">
 											<a>
-												Python for Finance: Investment
-												Fundamentals & Data Analytics
+											Teeth Whitening Business with certification
 											</a>
 										</Link>
 									</h3>
 									<p>
-										Lorem ipsum dolor sit amet, consectetur
-										adipiscing elit, sed do eiusmod tempor
-										incididunt ut labore et dolore.
+									Learn how to start and grow a successful teeth whitening business, from marketing strategies to client management, and profit.
 									</p>
 									<ul className="courses-box-footer d-flex justify-content-between align-items-center">
 										<li>
