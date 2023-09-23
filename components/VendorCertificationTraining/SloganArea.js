@@ -7,7 +7,7 @@ const SloganArea = () => {
                 <div className="row align-items-center">
                     <div className="col-lg-5 col-md-12">
                         <div className="slogan-image">
-                            <img src="/images/man2.jpg" alt="image" />
+                            <img src="/images/man2.jpg" alt="image" style={{borderRadius:"150px"}} />
                         </div>
                     </div>
 

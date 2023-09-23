@@ -22,7 +22,7 @@ const ViewAllCourses = () => {
 
                     <div className="col-lg-6 col-md-12">
                         <div className="view-all-courses-image">
-                            <img src="/images/woman-with-book.png" alt="image" />
+                            <img src="/images/woman-with-book.png" alt="image" style={{borderRadius:"50px"}}/>
 
                             <div className="shape11" data-speed="0.06" data-revert="true">
                                 <img src="/images/shape10.png" alt="image" />

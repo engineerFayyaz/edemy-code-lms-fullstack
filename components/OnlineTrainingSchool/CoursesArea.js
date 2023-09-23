@@ -26,6 +26,7 @@ const CoursesArea = () => {
                     <img
                       src="/images/courses-small/courses-small1.jpg"
                       alt="image"
+                      style={{borderRadius:"30px"}}
                     />
 
                     <Link href="/single-courses-1">
@@ -69,6 +70,7 @@ const CoursesArea = () => {
                     <img
                       src="/images/courses-small/courses-small2.jpg"
                       alt="image"
+                      style={{borderRadius:"30px"}}
                     />
 
                     <Link href="/single-courses-1">
@@ -110,6 +112,7 @@ const CoursesArea = () => {
                     <img
                       src="/images/courses-small/courses-small3.jpg"
                       alt="image"
+                      style={{borderRadius:"30px"}}
                     />
 
                     <Link href="/single-courses-1">
@@ -151,6 +154,7 @@ const CoursesArea = () => {
                     <img
                       src="/images/courses-small/courses-small4.jpg"
                       alt="image"
+                      style={{borderRadius:"30px"}}
                     />
 
                     <Link href="/single-courses-1">
@@ -192,6 +196,7 @@ const CoursesArea = () => {
                     <img
                       src="/images/courses-small/courses-small5.jpg"
                       alt="image"
+                      style={{borderRadius:"30px"}}
                     />
 
                     <Link href="/single-courses-1">
@@ -233,6 +238,7 @@ const CoursesArea = () => {
                     <img
                       src="/images/courses-small/courses-small6.jpg"
                       alt="image"
+                      style={{borderRadius:"30px"}}
                     />
 
                     <Link href="/single-courses-1">

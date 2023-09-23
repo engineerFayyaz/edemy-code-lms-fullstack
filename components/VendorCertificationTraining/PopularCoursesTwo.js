@@ -17,7 +17,7 @@ const PopularCoursesTwo = () => {
                             <div className="courses-image">
                                 <Link href="/single-courses-2">
                                     <a className="d-block image">
-                                        <img src="/images/courses/courses6.jpg" alt="image" />
+                                        <img src="/images/courses/courses6.jpg" alt="image" style={{borderRadius:"50px"}} />
                                     </a>
                                 </Link>
                                 <Link href="#">
@@ -49,7 +49,7 @@ const PopularCoursesTwo = () => {
                             <div className="courses-image">
                                 <Link href="/single-courses-2">
                                     <a className="d-block image">
-                                        <img src="/images/courses/courses7.jpg" alt="image" />
+                                        <img src="/images/courses/courses7.jpg" alt="image" style={{borderRadius:"50px"}} />
                                     </a>
                                 </Link>
                                 <Link href="#">
@@ -81,7 +81,7 @@ const PopularCoursesTwo = () => {
                             <div className="courses-image">
                                 <Link href="/single-courses-2">
                                     <a className="d-block image">
-                                        <img src="/images/courses/courses8.jpg" alt="image" />
+                                        <img src="/images/courses/courses8.jpg" alt="image" style={{borderRadius:"50px"}} />
                                     </a>
                                 </Link>
                                 <Link href="#">

@@ -13409,7 +13409,7 @@ Funfacts Area CSS
 .rtl-sidebar {
   position: fixed;
   right: 0;
-  top: 90px;
+  top: 140px;
   z-index: 999999;
   background: #efefef;
   padding: 10px;

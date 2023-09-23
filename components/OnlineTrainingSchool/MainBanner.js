@@ -29,7 +29,7 @@ const MainBanner = () => {
 
                     <div className="col-lg-6 col-md-12">
                         <div className="banner-wrapper-image">
-                            <img src="/images/banner-img2.png" alt="image" />
+                            <img src="/images/banner-img2.png" alt="image" style={{borderRadius:"150px"}} />
 
                             <div className="banner-shape8">
                                 <img src="/images/banner-shape8.png" alt="image" />

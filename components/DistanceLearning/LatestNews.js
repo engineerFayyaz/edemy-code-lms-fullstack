@@ -10,9 +10,7 @@ const LatestNews = () => {
 						<span className="sub-title">News</span>
 						<h2>Check Out Our Latest Blog</h2>
 						<p>
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-							sed do eiusmod tempor incididunt ut labore et dolore
-							magna aliqua.
+						Unveiling the Truth About Toxic Beauty: A Deep Dive into the Cosmetics Industry.
 						</p>
 					</div>
 
@@ -25,6 +23,7 @@ const LatestNews = () => {
 											<img
 												src="/images/blog/blog1.jpg"
 												alt="image"
+												style={{borderRadius:"50px"}}
 											/>
 										</a>
 									</Link>
@@ -36,8 +35,7 @@ const LatestNews = () => {
 									<h3>
 										<Link href="/single-blog-1">
 											<a>
-												University Admissions Could Face
-												Emergency Controls
+											Body Sculpting Masterclass at Toxic Beauty Academy
 											</a>
 										</Link>
 									</h3>
@@ -69,6 +67,7 @@ const LatestNews = () => {
 											<img
 												src="/images/blog/blog2.jpg"
 												alt="image"
+												style={{borderRadius:"50px"}}
 											/>
 										</a>
 									</Link>
@@ -80,8 +79,7 @@ const LatestNews = () => {
 									<h3>
 										<Link href="/single-blog-1">
 											<a>
-												Online Learning Can Prepare Students
-												For A Fast
+											Art of Hyaluron Pen: Training at Toxic Beauty Academy
 											</a>
 										</Link>
 									</h3>
@@ -113,6 +111,7 @@ const LatestNews = () => {
 											<img
 												src="/images/blog/blog3.jpg"
 												alt="image"
+												style={{borderRadius:"50px"}}
 											/>
 										</a>
 									</Link>
@@ -124,8 +123,7 @@ const LatestNews = () => {
 									<h3>
 										<Link href="/single-blog-1">
 											<a>
-												As Learning Moves Online, Trigger
-												Warnings Must Too
+											 Wood Therapy Training at Toxic Beauty Academy
 											</a>
 										</Link>
 									</h3>

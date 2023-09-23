@@ -14,7 +14,7 @@ const TopCategories = () => {
                 <div className="row">
                     <div className="col-lg-3 col-sm-6 col-md-6">
                         <div className="single-categories-box">
-                            <img src="/images/categories/categorie1.jpg" alt="image" />
+                            <img src="/images/categories/categorie1.jpg" alt="image" style={{borderRadius:"30px"}}/>
 
                             <div className="content">
                                 <h3>Body Sculpting</h3>
@@ -29,7 +29,7 @@ const TopCategories = () => {
 
                     <div className="col-lg-3 col-sm-6 col-md-6">
                         <div className="single-categories-box">
-                            <img src="/images/categories/categorie2.jpg" alt="image" />
+                            <img src="/images/categories/categorie2.jpg" alt="image" style={{borderRadius:"30px"}} />
 
                             <div className="content">
                                 <h3>Wood Therapy</h3>
@@ -44,7 +44,7 @@ const TopCategories = () => {
 
                     <div className="col-lg-3 col-sm-6 col-md-6">
                         <div className="single-categories-box">
-                            <img src="/images/categories/categorie3.jpg" alt="image" />
+                            <img src="/images/categories/categorie3.jpg" alt="image" style={{borderRadius:"30px"}} />
 
                             <div className="content">
                                 <h3>Lymphatic Drainage</h3>
@@ -59,7 +59,7 @@ const TopCategories = () => {
 
                     <div className="col-lg-3 col-sm-6 col-md-6">
                         <div className="single-categories-box">
-                            <img src="/images/categories/categorie4.jpg" alt="image" />
+                            <img src="/images/categories/categorie4.jpg" alt="image" style={{borderRadius:"30px"}} />
 
                             <div className="content">
                                 <h3>Lip Filler</h3>
@@ -74,7 +74,7 @@ const TopCategories = () => {
 
                     <div className="col-lg-3 col-sm-6 col-md-6">
                         <div className="single-categories-box">
-                            <img src="/images/categories/categorie5.jpg" alt="image" />
+                            <img src="/images/categories/categorie5.jpg" alt="image" style={{borderRadius:"30px"}}/>
 
                             <div className="content">
                                 <h3>Teeth Whitening</h3>
@@ -89,7 +89,7 @@ const TopCategories = () => {
 
                     <div className="col-lg-3 col-sm-6 col-md-6">
                         <div className="single-categories-box">
-                            <img src="/images/categories/categorie6.jpg" alt="image" />
+                            <img src="/images/categories/categorie6.jpg" alt="image" style={{borderRadius:"30px"}} />
 
                             <div className="content">
                                 <h3>Hair Extensions</h3>
@@ -104,7 +104,7 @@ const TopCategories = () => {
 
                     <div className="col-lg-3 col-sm-6 col-md-6">
                         <div className="single-categories-box">
-                            <img src="/images/categories/categorie7.jpg" alt="image" />
+                            <img src="/images/categories/categorie7.jpg" alt="image" style={{borderRadius:"30px"}} />
 
                             <div className="content">
                                 <h3>Fat Dissolving</h3>
@@ -119,7 +119,7 @@ const TopCategories = () => {
 
                     <div className="col-lg-3 col-sm-6 col-md-6">
                         <div className="single-categories-box">
-                            <img src="/images/categories/categorie8.jpg" alt="image" />
+                            <img src="/images/categories/categorie8.jpg" alt="image" style={{borderRadius:"30px"}} />
 
                             <div className="content">
                                 <h3>Health Care</h3>

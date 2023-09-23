@@ -23,7 +23,7 @@ const GetInstantCourses = () => {
 
                         <div className="col-lg-4 col-md-12">
                             <div className="get-instant-courses-image">
-                                <img src="/images/about-img-new-3.jpg" alt="image" />
+                                <img src="/images/about-img-new-3.jpg" alt="image" style={{borderRadius:"50px"}} />
                                 <div className="shape7">
                                     <img src="/images/shape4.png" alt="image" />
                                 </div>

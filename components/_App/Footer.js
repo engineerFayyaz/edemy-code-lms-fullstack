@@ -12,7 +12,7 @@ const Footer = () => {
                         <div className="single-footer-widget">
                             <Link href="/">
                                 <a className="logo">
-                                    <img src="/images/logo.png" alt="logo" />
+                                    <img src="/images/logo.png" alt="logo" style={{width:"150px",height:"150px",borderRadius:"100px"}} />
                                 </a>
                             </Link>
 

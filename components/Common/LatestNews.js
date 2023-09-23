@@ -17,7 +17,7 @@ const LatestNews = () => {
                             <div className="post-image">
                                 <Link href="/single-blog-1">
                                     <a className="d-block">
-                                        <img src="/images/blog/blog1.jpg" alt="image" />
+                                        <img src="/images/blog/blog1.jpg" alt="image" style={{borderRadius:"50px"}} />
                                     </a>
                                 </Link>
                             </div>
@@ -50,7 +50,7 @@ const LatestNews = () => {
                             <div className="post-image">
                                 <Link href="/single-blog-1">
                                     <a className="d-block">
-                                        <img src="/images/blog/blog2.jpg" alt="image" />
+                                        <img src="/images/blog/blog2.jpg" alt="image" style={{borderRadius:"50px"}} />
                                     </a>
                                 </Link>
                             </div>
@@ -83,7 +83,7 @@ const LatestNews = () => {
                             <div className="post-image">
                                 <Link href="/single-blog-1">
                                     <a className="d-block">
-                                        <img src="/images/blog/blog3.jpg" alt="image" />
+                                        <img src="/images/blog/blog3.jpg" alt="image" style={{borderRadius:"50px"}}/>
                                     </a>
                                 </Link>
                             </div>

@@ -10,7 +10,7 @@ const About = () => {
 				<div className="row align-items-center">
 					<div className="col-lg-6 col-md-12">
 						<div className="about-image">
-							<img src="/images/about-img12.png" alt="image" />
+							<img src="/images/about-img12.png" alt="image" style={{borderRadius:"150px"}}/>
 						</div>
 					</div>
 					<div className="col-lg-6 col-md-12">

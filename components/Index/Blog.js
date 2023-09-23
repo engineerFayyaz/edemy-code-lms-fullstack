@@ -21,7 +21,7 @@ const Blog = () => {
 										<img
 											src="/images/blog/img16.jpg"
 											alt="image"
-											style={{ height:"257px"}}/>
+											style={{ height:"257px", borderRadius:"50px"}}/>
 									</a>
 								</Link>
 							</div>
@@ -63,7 +63,7 @@ const Blog = () => {
 										<img
 											src="/images/blog/img17.jpg"
 											alt="image"
-											style={{height:"257px"}}
+											style={{height:"257px",borderRadius:"50px"}}
 										/>
 									</a>
 								</Link>
@@ -106,7 +106,7 @@ const Blog = () => {
 										<img
 											src="/images/blog/img18.jpg"
 											alt="image"
-											style={{height:"257px"}}
+											style={{height:"257px",borderRadius:"50px"}}
 										/>
 									</a>
 								</Link>
