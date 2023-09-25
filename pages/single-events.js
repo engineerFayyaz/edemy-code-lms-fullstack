@@ -40,12 +40,11 @@ const SingleEvents = () => {
 
                             <div className="events-details-desc">
                                 <h3>About The Event</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
+                                <p>Our events feature expert speakers, hands-on workshops, and discussions on cosmetic safety, sustainable practices, and the future of toxin-free beauty.</p>
+                                <p>"Events at Toxic Beauty Academy are informative and engaging gatherings focused on educating and raising awareness about safe cosmetics.</p>
                                 <h3>Where the event?</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
-                                <h3>Who this event is for?</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
+                                <p>Events hosted by Toxic Beauty Academy take place in various locations, including our campus, online webinars, and partner venues?</p>
+                                <p>Toxic Academy events take place at various locations, including our state-of-the-art campus and select partner venues. Stay tuned for event announcements and join us </p>
                             </div>
                         </div>
 

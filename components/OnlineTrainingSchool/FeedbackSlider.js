@@ -26,12 +26,7 @@ const FeedbackSlider = () => {
             <SwiperSlide>
               <div className="single-feedback-box">
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Quis ipsum ultrices gravida. Risus commodo viverra maecenas
-                  accumsan lacus vel facilisis. Lorem ipsum dolor sit amet,
-                  consectetur adipiscing elit, sed tempor incididunt ut labore
-                  et dolore.
+                Toxic Beauty Academy for its insightful courses on cosmetic safety. Exceptional instructors, practical knowledge, and a commitment to toxin-free beauty education make it a top choice
                 </p>
                 <div className="client-info d-flex align-items-center">
                   <img
@@ -41,7 +36,7 @@ const FeedbackSlider = () => {
                   />
                   <div className="title">
                     <h3>John Smith</h3>
-                    <span>Python Developer</span>
+                    <span>Lip Filler</span>
                   </div>
                 </div>
               </div>
@@ -50,12 +45,7 @@ const FeedbackSlider = () => {
             <SwiperSlide>
               <div className="single-feedback-box">
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Quis ipsum ultrices gravida. Risus commodo viverra maecenas
-                  accumsan lacus vel facilisis. Lorem ipsum dolor sit amet,
-                  consectetur adipiscing elit, sed tempor incididunt ut labore
-                  et dolore.
+                Students praise Toxic Beauty Academy for its insightful courses on cosmetic safety. Positive feedback highlights excellent faculty, practical knowledge, and commitment to eco-friendly, safe beauty practices.
                 </p>
                 <div className="client-info d-flex align-items-center">
                   <img
@@ -65,7 +55,7 @@ const FeedbackSlider = () => {
                   />
                   <div className="title">
                     <h3>Sarah Taylor</h3>
-                    <span>PHP Developer</span>
+                    <span>Body Scuplting</span>
                   </div>
                 </div>
               </div>
@@ -74,12 +64,7 @@ const FeedbackSlider = () => {
             <SwiperSlide>
               <div className="single-feedback-box">
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Quis ipsum ultrices gravida. Risus commodo viverra maecenas
-                  accumsan lacus vel facilisis. Lorem ipsum dolor sit amet,
-                  consectetur adipiscing elit, sed tempor incididunt ut labore
-                  et dolore.
+                Toxic Beauty Academy is exceptional! Students praise the informative courses, experienced instructors, and commitment to safer beauty practices. Join our satisfied community for a toxin-free beauty journey.
                 </p>
                 <div className="client-info d-flex align-items-center">
                   <img
@@ -89,7 +74,7 @@ const FeedbackSlider = () => {
                   />
                   <div className="title">
                     <h3>David Warner</h3>
-                    <span>QA Developer</span>
+                    <span>Dentist</span>
                   </div>
                 </div>
               </div>

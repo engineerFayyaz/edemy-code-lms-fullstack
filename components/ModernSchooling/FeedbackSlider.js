@@ -26,12 +26,7 @@ const FeedbackSlider = () => {
             <SwiperSlide>
               <div className="single-feedback-box">
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Quis ipsum ultrices gravida. Risus commodo viverra maecenas
-                  accumsan lacus vel facilisis. Lorem ipsum dolor sit amet,
-                  consectetur adipiscing elit, sed tempor incididunt ut labore
-                  et dolore.
+                Toxic Beauty Academy has been overwhelmingly positive, with students praising its comprehensive courses, expert instructors, and commitment to safe and ethical beauty practices
                 </p>
                 <div className="client-info d-flex align-items-center">
                   <img
@@ -41,7 +36,7 @@ const FeedbackSlider = () => {
                   />
                   <div className="title">
                     <h3>John Smith</h3>
-                    <span></span>
+                    <span>Health Care</span>
                   </div>
                 </div>
               </div>
@@ -50,7 +45,7 @@ const FeedbackSlider = () => {
             <SwiperSlide>
               <div className="single-feedback-box">
                 <p>
-                Cryolipolysis has previously received FDA clearance for fat reduction in the abdomen, flanks, and thighs. There is also interest in small volume fat reduction for areas such as the chin, knees, and axilla. This article reports the results of a cryolipolysis pivotal IDE study for reduction of submental fullness.
+                Toxic Beauty Academy: Empowering, insightful, and valuable. Instructors are knowledgeable, resources are extensive, and courses are transformative..
                 </p>
                 <div className="client-info d-flex align-items-center">
                   <img
@@ -60,7 +55,7 @@ const FeedbackSlider = () => {
                   />
                   <div className="title">
                     <h3>Sarah Taylor</h3>
-                    <span>PHP Developer</span>
+                    <span>Wood Therapist</span>
                   </div>
                 </div>
               </div>
@@ -69,12 +64,7 @@ const FeedbackSlider = () => {
             <SwiperSlide>
               <div className="single-feedback-box">
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Quis ipsum ultrices gravida. Risus commodo viverra maecenas
-                  accumsan lacus vel facilisis. Lorem ipsum dolor sit amet,
-                  consectetur adipiscing elit, sed tempor incididunt ut labore
-                  et dolore.
+                Toxic Beauty Academy has been overwhelmingly positive. Students praise the informative courses, expert instructors, and commitment to safety and sustainability
                 </p>
                 <div className="client-info d-flex align-items-center">
                   <img
@@ -84,7 +74,7 @@ const FeedbackSlider = () => {
                   />
                   <div className="title">
                     <h3>David Warner</h3>
-                    <span>QA Developer</span>
+                    <span>Yoga Training</span>
                   </div>
                 </div>
               </div>

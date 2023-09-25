@@ -37,17 +37,7 @@ const FeedbackSliderWithFunFacts = () => {
 									<SwiperSlide>
 										<div className="single-feedback-item">
 											<p>
-												Lorem ipsum dolor sit amet,
-												consectetur adipiscing elit, sed do
-												eiusmod tempor incididunt ut labore
-												et dolore magna aliqua. Quis ipsum
-												suspendisse ultrices gravida. Risus
-												commodo viverra maecenas accumsan
-												lacus vel facilisis. Lorem ipsum
-												dolor sit amet, consectetur
-												adipiscing elit, sed do eiusmod
-												tempor incididunt ut labore et
-												dolore.
+											Wood Therapy at Toxic Beauty Academy is exceptional. Students praise the hands-on training, comprehensive understanding of the technique's benefits, and the holistic approach to wellness. Graduates feel confident in offering this natural and effective beauty treatment, contributing to the academy's reputation for excellence.
 											</p>
 
 											<div className="client-info d-flex align-items-center">
@@ -58,7 +48,7 @@ const FeedbackSliderWithFunFacts = () => {
 												/>
 												<div className="title">
 													<h3>John Smith</h3>
-													<span>Python Developer</span>
+													<span>Wood Therapist</span>
 												</div>
 											</div>
 										</div>
@@ -67,17 +57,7 @@ const FeedbackSliderWithFunFacts = () => {
 									<SwiperSlide>
 										<div className="single-feedback-item">
 											<p>
-												Lorem ipsum dolor sit amet,
-												consectetur adipiscing elit, sed do
-												eiusmod tempor incididunt ut labore
-												et dolore magna aliqua. Quis ipsum
-												suspendisse ultrices gravida. Risus
-												commodo viverra maecenas accumsan
-												lacus vel facilisis. Lorem ipsum
-												dolor sit amet, consectetur
-												adipiscing elit, sed do eiusmod
-												tempor incididunt ut labore et
-												dolore.
+											wood therapy at Toxic Beauty Academy is excellent. Students praise the hands-on training, detailed curriculum, and skilled instructors. The course equips them with the knowledge and skills to offer natural and non-invasive beauty treatments, making it a valuable addition to their beauty education.
 											</p>
 
 											<div className="client-info d-flex align-items-center">
@@ -88,7 +68,7 @@ const FeedbackSliderWithFunFacts = () => {
 												/>
 												<div className="title">
 													<h3>Sarah Taylor</h3>
-													<span>PHP Developer</span>
+													<span>Wood Therapist</span>
 												</div>
 											</div>
 										</div>
@@ -97,17 +77,7 @@ const FeedbackSliderWithFunFacts = () => {
 									<SwiperSlide>
 										<div className="single-feedback-item">
 											<p>
-												Lorem ipsum dolor sit amet,
-												consectetur adipiscing elit, sed do
-												eiusmod tempor incididunt ut labore
-												et dolore magna aliqua. Quis ipsum
-												suspendisse ultrices gravida. Risus
-												commodo viverra maecenas accumsan
-												lacus vel facilisis. Lorem ipsum
-												dolor sit amet, consectetur
-												adipiscing elit, sed do eiusmod
-												tempor incididunt ut labore et
-												dolore.
+											Wood therapy at Toxic Beauty Academy receives rave reviews for its effectiveness in natural beauty treatments. Students praise the hands-on learning, the use of sustainable materials, and the instructors' expertise in holistic skincare. Many note improved skills and an appreciation for eco-friendly beauty practices.
 											</p>
 
 											<div className="client-info d-flex align-items-center">
@@ -118,7 +88,7 @@ const FeedbackSliderWithFunFacts = () => {
 												/>
 												<div className="title">
 													<h3>David Warner</h3>
-													<span>QA Developer</span>
+													<span>wood Therapist</span>
 												</div>
 											</div>
 										</div>

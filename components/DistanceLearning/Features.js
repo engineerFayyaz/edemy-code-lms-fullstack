@@ -13,7 +13,7 @@ const Features = () => {
                                 <img src="/images/icon-shape.png" alt="image" />
                             </div>
                             <h3>Learn the Latest Skills</h3>
-                            <p>Lorem ipsum dolor sit amet, consecteur adipiscing elit, sed do eiusmod tempor.</p>
+                            <p>Toxic beauty refers to the use of beauty and personal care products that contain harmful ingredients that can potentially harm your health.</p>
 
                             <Link href="/membership-levels">
                                 <a className="link-btn">Start Now!</a>
@@ -28,7 +28,7 @@ const Features = () => {
                                 <img src="/images/icon-shape.png" alt="image" />
                             </div>
                             <h3>Go at Your Own Pace</h3>
-                            <p>Lorem ipsum dolor sit amet, consecteur adipiscing elit, sed do eiusmod tempor.</p>
+                            <p> You can go at your own pace and gradually incorporate these practices into your daily life.</p>
                             
                             <Link href="/membership-levels">
                                 <a className="link-btn">Start Now!</a>
@@ -42,8 +42,8 @@ const Features = () => {
                                 <i className="flaticon-shield-1"></i>
                                 <img src="/images/icon-shape.png" alt="image" />
                             </div>
-                            <h3>Learn from Industry Experts</h3>
-                            <p>Lorem ipsum dolor sit amet, consecteur adipiscing elit, sed do eiusmod tempor.</p>
+                            <h3>Learn from Beauty Experts</h3>
+                            <p>Learning from beauty experts involves gaining insights, tips, and techniques from experienced professionals in the beauty industry to enhance your personal grooming.</p>
                             
                             <Link href="/membership-levels">
                                 <a className="link-btn">Start Now!</a>

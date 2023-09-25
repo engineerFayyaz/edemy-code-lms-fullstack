@@ -47,7 +47,7 @@ const CoursesRightSidebar = () => {
                                             <a href="#" className="fav">
                                                 <i className="flaticon-heart"></i>
                                             </a>
-                                            <div className="price shadow">$39</div>
+                                            <div className="price shadow">$190</div>
                                         </div>
                                         <div className="courses-content">
                                             <div className="course-author d-flex align-items-center">
@@ -57,11 +57,11 @@ const CoursesRightSidebar = () => {
 
                                             <h3>
                                                 <Link href="/single-courses-1">
-                                                    <a>The Data Science Course 2020: Complete Data Science Bootcamp</a>
+                                                    <a>Teeth Whitening</a>
                                                 </Link>
                                             </h3>
                                             
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                                            <p>Discover the art of teeth whitening in our comprehensive course.</p>
                                             <ul className="courses-box-footer d-flex justify-content-between align-items-center">
                                                 <li>
                                                     <i className='flaticon-agenda'></i> 15 Lessons
@@ -85,7 +85,7 @@ const CoursesRightSidebar = () => {
                                             <a href="#" className="fav">
                                                 <i className="flaticon-heart"></i>
                                             </a>
-                                            <div className="price shadow">$49</div>
+                                            <div className="price shadow">$190</div>
                                         </div>
                                         <div className="courses-content">
                                             <div className="course-author d-flex align-items-center">
@@ -95,11 +95,11 @@ const CoursesRightSidebar = () => {
                                         
                                             <h3>
                                                 <Link href="/single-courses-1">
-                                                    <a>Java Programming MasterclassName for Software Developers</a>
+                                                    <a>Natural Teeth Whitening</a>
                                                 </Link>
                                             </h3>
 
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                                            <p>Unlock the secrets of natural teeth whitening.</p>
                                             <ul className="courses-box-footer d-flex justify-content-between align-items-center">
                                                 <li>
                                                     <i className='flaticon-agenda'></i> 20 Lessons
@@ -123,7 +123,7 @@ const CoursesRightSidebar = () => {
                                             <a href="#" className="fav">
                                                 <i className="flaticon-heart"></i>
                                             </a>
-                                            <div className="price shadow">$59</div>
+                                            <div className="price shadow">$190</div>
                                         </div>
                                         <div className="courses-content">
                                             <div className="course-author d-flex align-items-center">
@@ -133,11 +133,13 @@ const CoursesRightSidebar = () => {
                                     
                                             <h3>
                                                 <Link href="/single-courses-1">
-                                                    <a>Deep Learning A-Z™: Hands-On Artificial Neural Networks</a>
+                                                    <a>Teeth Dentist
+                                        
+                                                    </a>
                                                 </Link>
                                             </h3>
         
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                                            <p>A teeth dentist, also known as a dentist or dental professional.</p>
                                             <ul className="courses-box-footer d-flex justify-content-between align-items-center">
                                                 <li>
                                                     <i className='flaticon-agenda'></i> 20 Lessons
@@ -161,7 +163,7 @@ const CoursesRightSidebar = () => {
                                             <a href="#" className="fav">
                                                 <i className="flaticon-heart"></i>
                                             </a>
-                                            <div className="price shadow">$39</div>
+                                            <div className="price shadow">$190</div>
                                         </div>
                                         <div className="courses-content">
                                             <div className="course-author d-flex align-items-center">
@@ -171,11 +173,11 @@ const CoursesRightSidebar = () => {
                                 
                                             <h3>
                                                 <Link href="/single-courses-1">
-                                                    <a>Python for Finance: Investment Fundamentals & Data Analytics</a>
+                                                    <a>Teeth Whitening</a>
                                                 </Link>
                                             </h3>
 
-                                            <p>Lorem ipsum dolor sit amet, constetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                                            <p>Unlock the secrets of natural teeth whitening.</p>
                                             <ul className="courses-box-footer d-flex justify-content-between align-items-center">
                                                 <li>
                                                     <i className='flaticon-agenda'></i> 15 Lessons
@@ -199,7 +201,7 @@ const CoursesRightSidebar = () => {
                                             <a href="#" className="fav">
                                                 <i className="flaticon-heart"></i>
                                             </a>
-                                            <div className="price shadow">$49</div>
+                                            <div className="price shadow">$190</div>
                                         </div>
                                         <div className="courses-content">
                                             <div className="course-author d-flex align-items-center">
@@ -209,11 +211,11 @@ const CoursesRightSidebar = () => {
                     
                                             <h3>
                                                 <Link href="/single-courses-1">
-                                                    <a>Machine Learning A-Z™: Hands-On Python & R In Data Science</a>
+                                                    <a>Yoga Training</a>
                                                 </Link>
                                             </h3>
 
-                                            <p>Lorem ipsum dolor sit amet, constetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                                            <p>"Yoga training is a transformative journey that combines physical postures.</p>
                                             <ul className="courses-box-footer d-flex justify-content-between align-items-center">
                                                 <li>
                                                     <i className='flaticon-agenda'></i> 20 Lessons
@@ -237,7 +239,7 @@ const CoursesRightSidebar = () => {
                                             <a href="#" className="fav">
                                                 <i className="flaticon-heart"></i>
                                             </a>
-                                            <div className="price shadow">$99</div>
+                                            <div className="price shadow">$190</div>
                                         </div>
                                         <div className="courses-content">
                                             <div className="course-author d-flex align-items-center">
@@ -247,11 +249,11 @@ const CoursesRightSidebar = () => {
                                         
                                             <h3>
                                                 <Link href="/single-courses-1">
-                                                    <a>R Programming A-Z™: R For Data Science With Real Exercises!</a>
+                                                    <a>Lymphatic drainage</a>
                                                 </Link>
                                             </h3>
 
-                                            <p>Lorem ipsum dolor sit amet, constetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                                            <p>"Lymphatic drainage is a gentle and specialized massage technique designed.</p>
                                             <ul className="courses-box-footer d-flex justify-content-between align-items-center">
                                                 <li>
                                                     <i className='flaticon-agenda'></i> 44 Lessons

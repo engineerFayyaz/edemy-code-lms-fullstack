@@ -31,11 +31,7 @@ const FeedbackSlider = () => {
 						<SwiperSlide>
 							<div className="single-feedback-box">
 								<p>
-									Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-									eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis
-									ipsum ultrices gravida. Risus commodo viverra maecenas accumsan
-									lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur
-									adipiscing elit, sed tempor incididunt ut labore et dolore.
+								Yoga training at Toxic Beauty Academy is exceptional. Instructors are knowledgeable, fostering a holistic approach to wellness. Highly recommended for those seeking a toxin-free, balanced lifestyle.
 								</p>
 
 								<div className="client-info d-flex align-items-center">
@@ -55,11 +51,7 @@ const FeedbackSlider = () => {
 						<SwiperSlide>
 							<div className="single-feedback-box">
 								<p>
-									Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-									eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis
-									ipsum ultrices gravida. Risus commodo viverra maecenas accumsan
-									lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur
-									adipiscing elit, sed tempor incididunt ut labore et dolore.
+								"Yoga training at Toxic Academy exceeded my expectations. Knowledgeable instructors, holistic approach, and a nurturing environment. A transformative experience for mind and body. Highly recommended!"
 								</p>
 
 								<div className="client-info d-flex align-items-center">
@@ -79,11 +71,7 @@ const FeedbackSlider = () => {
 						<SwiperSlide>
 							<div className="single-feedback-box">
 								<p>
-									Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-									eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis
-									ipsum ultrices gravida. Risus commodo viverra maecenas accumsan
-									lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur
-									adipiscing elit, sed tempor incididunt ut labore et dolore.
+								"Toxic Beauty Academy's yoga training received outstanding feedback. Students praised the expert instructors, comprehensive curriculum, and transformative experience. Join our holistic journey to well-being and vitality!"
 								</p>
 
 								<div className="client-info d-flex align-items-center">

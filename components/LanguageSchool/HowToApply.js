@@ -16,7 +16,7 @@ const HowToApply = () => {
                                         <i className="flaticon-checkmark"></i>
                                     </div>
                                     <h3>Select Suitable Course</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
+                                    <p>Selecting a suitable course in a toxic beauty academy depends on your career goals, interests, and current level of knowledge in the field of toxicology and beauty products..</p>
                                 </li>
 
                                 <li>
@@ -24,7 +24,7 @@ const HowToApply = () => {
                                         <i className="flaticon-webinar"></i>
                                     </div>
                                     <h3>Student Information</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
+                                    <p>To apply for admission to a Toxic Beauty Academy or a similar institution offering courses related to cosmetic toxicology, you will typically need to provide specific information and follow a standard application process.</p>
                                 </li>
                                 
                                 <li>
@@ -32,7 +32,7 @@ const HowToApply = () => {
                                         <i className="flaticon-credit-card-1"></i>
                                     </div>
                                     <h3>Payment Information</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
+                                    <p>Toxic Beauty Academy or any educational institution, you will need to contact the academy directly, as payment processes can vary widely depending on the academy's policies and procedures.</p>
                                 </li>
                                 
                                 <li>
@@ -40,7 +40,7 @@ const HowToApply = () => {
                                         <i className="flaticon-verify"></i>
                                     </div>
                                     <h3>Register Now</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
+                                    <p>Register now at Toxic Beauty Academy for comprehensive beauty education. Explore safe cosmetics and skincare. Join us for a toxin-free future!.</p>
                                 </li>
                             </ul>
                         </div>

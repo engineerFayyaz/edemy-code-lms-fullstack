@@ -37,13 +37,7 @@ const Feedback = () => {
 									<SwiperSlide>
 										<div className="feedback-quote">
 											<p>
-												Lorem ipsum dolor sit amet,
-												consectetur adipiscing elit, sed do
-												eiusmod tempor incididunt ut labore
-												et dolore magna aliqua. Quis ipsum
-												suspendisse ultrices gravida. Risus
-												commodo viverra maecenas accumsan
-												lacus vel facilisis.
+											Toxic Beauty Academy stands out from others through its comprehensive curriculum and commitment to holistic beauty. Learners appreciate the emphasis on clean, safe practices, sustainable approaches, and expert guidance, setting it apart as a top choice for those seeking an eco-conscious beauty education
 											</p>
 
 											<div className="client-info">
@@ -55,7 +49,7 @@ const Feedback = () => {
 													<div className="title">
 														<h3>John Smith</h3>
 														<span>
-															Python Developer
+															Lymphatic Drianage
 														</span>
 													</div>
 												</div>
@@ -91,13 +85,7 @@ const Feedback = () => {
 									<SwiperSlide>
 										<div className="feedback-quote">
 											<p>
-												Lorem ipsum dolor sit amet,
-												consectetur adipiscing elit, sed do
-												eiusmod tempor incididunt ut labore
-												et dolore magna aliqua. Quis ipsum
-												suspendisse ultrices gravida. Risus
-												commodo viverra maecenas accumsan
-												lacus vel facilisis.
+											Toxic Beauty Academy stand out due to their unmatched commitment to clean and safe beauty education. Learners consistently highlight the academy's exceptional curriculum, expert instructors, and its role in empowering individuals to make informed, toxin-free beauty choices, setting it apart from others in the industry.
 											</p>
 
 											<div className="client-info">
@@ -109,7 +97,7 @@ const Feedback = () => {
 													<div className="title">
 														<h3>John Smith</h3>
 														<span>
-															Python Developer
+														Yoga Training
 														</span>
 													</div>
 												</div>
@@ -145,13 +133,7 @@ const Feedback = () => {
 									<SwiperSlide>
 										<div className="feedback-quote">
 											<p>
-												Lorem ipsum dolor sit amet,
-												consectetur adipiscing elit, sed do
-												eiusmod tempor incididunt ut labore
-												et dolore magna aliqua. Quis ipsum
-												suspendisse ultrices gravida. Risus
-												commodo viverra maecenas accumsan
-												lacus vel facilisis.
+											Toxic Beauty Academy stands out with unique feedback compared to others. Learners commend its comprehensive approach to clean beauty education, personalized guidance, and emphasis on sustainability. The academy's commitment to holistic beauty and wellness sets it apart, earning praise for its distinctiveness.
 											</p>
 
 											<div className="client-info">
@@ -163,7 +145,7 @@ const Feedback = () => {
 													<div className="title">
 														<h3>John Smith</h3>
 														<span>
-															Python Developer
+															Lip Filler
 														</span>
 													</div>
 												</div>

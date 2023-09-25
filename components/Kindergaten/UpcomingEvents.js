@@ -60,7 +60,7 @@ const UpcomingEvents = () => {
                                                 <a>Paper Plates Art</a>
                                             </Link>
                                         </h3>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.</p>
+                                        <p>dolor sit amet, consectetur adipiscing elit, sed do.</p>
                                         <span className="location"><i className="bx bx-map"></i>Sydney, Australia</span>
                                     </div>
                                 </div>

@@ -11,7 +11,7 @@ const ProductsDetailsTabs = () => {
                 </TabList>
             
                 <TabPanel>
-                    <p>This story, dazzling in its powerful simplicity and soul-stirring wisdom, is about an Andalusian shepherd boy named Santiago who travels from his homeland in Spain to the Egyptian desert in search of a treasure buried near the Pyramids. Lorem ipsum dolor sit.</p>
+                    <p>This story, dazzling in its powerful simplicity and soul-stirring wisdom, is about an Andalusian shepherd boy named Santiago who travels from his homeland in Spain to the Egyptian desert in search of a treasure buried near the Pyramids.</p>
                     <ul>
                         <li>Instant eDemy bestseller</li>
                         <li>Translated into 18 languages</li>

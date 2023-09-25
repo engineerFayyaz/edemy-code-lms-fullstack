@@ -52,7 +52,7 @@ const MainBanner = () => {
                                     <i className="flaticon-brain-process"></i>
                                 </div>
                                 <h3>10,000 Online Courses</h3>
-                                <p>Lorem ipsum dolor sit amet consectets.</p>
+                                <p>Toxic Beauty Academy offers a wide range of online courses.</p>
                             </div>
                         </div>
 
@@ -62,7 +62,7 @@ const MainBanner = () => {
                                     <i className="flaticon-people"></i>
                                 </div>
                                 <h3>Experts Teachers</h3>
-                                <p>Lorem ipsum dolor sit amet consectets.</p>
+                                <p>Toxic Beauty Academy is proud to have a team of expert teachers.</p>
                             </div>
                         </div>
 
@@ -71,8 +71,8 @@ const MainBanner = () => {
                                 <div className="icon">
                                     <i className="flaticon-world"></i>
                                 </div>
-                                <h3>Lifetime Access</h3>
-                                <p>Lorem ipsum dolor sit amet consectets.</p>
+                                <h3>Lifetime Ascces</h3>
+                                <p>Toxic Beauty Academy offers lifetime access to their courses or materials.</p>
                             </div>
                         </div>
                     </div>

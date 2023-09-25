@@ -18,7 +18,7 @@ const Features = () => {
                                 <i className="flaticon-brain-process"></i>
                             </div>
                             <h3>Learn the Latest Skills</h3>
-                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.</p>
+                            <p>There are many variations of passages are available, but the majority have suffered alteration.</p>
 
                             <Link href="/profile-authentication">
                                 <a className="link-btn">Start Now!</a>
@@ -32,7 +32,7 @@ const Features = () => {
                                 <i className="flaticon-computer"></i>
                             </div>
                             <h3>Go at Your Own Pace</h3>
-                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.</p>
+                            <p>There are many variations of passages are available, but the majority have suffered alteration.</p>
                             
                             <Link href="/profile-authentication">
                                 <a className="link-btn">Start Now!</a>
@@ -46,7 +46,7 @@ const Features = () => {
                                 <i className="flaticon-shield-1"></i>
                             </div>
                             <h3>Learn from Industry Experts</h3>
-                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.</p>
+                            <p>There are many variations of passages are available, but the majority have suffered alteration.</p>
                             
                             <Link href="/profile-authentication">
                                 <a className="link-btn">Start Now!</a>

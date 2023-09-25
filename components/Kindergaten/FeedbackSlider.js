@@ -51,9 +51,7 @@ const FeedbackSlider = () => {
                 <div className="content">
                   <img src="/images/feedback-shape.png" alt="image" />
                   <p>
-                    Lorem ipsum dolor sit aadamet45, consectetur adipiscing elit
-                    elit3, sed do eiusmod tempor incididunt ut labore et dolore
-                    magna. Eiusmod incididunt.
+                  Toxic Beauty Academy is glowing. They appreciate the academy's dedication to educating on clean beauty, holistic wellness, and sustainable practices. The comprehensive courses and expert guidance ensure a transformative learning experience.
                   </p>
                 </div>
 
@@ -70,9 +68,7 @@ const FeedbackSlider = () => {
                 <div className="content">
                   <img src="/images/feedback-shape.png" alt="image" />
                   <p>
-                    Lorem ipsum dolor sit aadamet45, consectetur adipiscing elit
-                    elit3, sed do eiusmod tempor incididunt ut labore et dolore
-                    magna. Eiusmod incididunt.
+                  Toxic Beauty Academy is resoundingly positive. They highlight its dedication to educating on clean beauty, fostering self-confidence, and promoting eco-consciousness. The academy serves as a trustworthy guardian of healthy beauty practices
                   </p>
                 </div>
 
@@ -89,9 +85,7 @@ const FeedbackSlider = () => {
                 <div className="content">
                   <img src="/images/feedback-shape.png" alt="image" />
                   <p>
-                    Lorem ipsum dolor sit aadamet45, consectetur adipiscing elit
-                    elit3, sed do eiusmod tempor incididunt ut labore et dolore
-                    magna. Eiusmod incididunt.
+                  Toxic Beauty Academy is exceptionally positive. They appreciate the academy's commitment to educating individuals about safer beauty practices, empowering them to make informed choices while prioritizing health and well-being
                   </p>
                 </div>
 
@@ -108,9 +102,7 @@ const FeedbackSlider = () => {
                 <div className="content">
                   <img src="/images/feedback-shape.png" alt="image" />
                   <p>
-                    Lorem ipsum dolor sit aadamet45, consectetur adipiscing elit
-                    elit3, sed do eiusmod tempor incididunt ut labore et dolore
-                    magna. Eiusmod incididunt.
+                  Toxic Beauty Academy is highly positive. They laud its thorough education on clean beauty, the emphasis on safety, and the commitment to sustainability. The academy is seen as a reliable source for informed beauty choices
                   </p>
                 </div>
 
@@ -127,9 +119,7 @@ const FeedbackSlider = () => {
                 <div className="content">
                   <img src="/images/feedback-shape.png" alt="image" />
                   <p>
-                    Lorem ipsum dolor sit aadamet45, consectetur adipiscing elit
-                    elit3, sed do eiusmod tempor incididunt ut labore et dolore
-                    magna. Eiusmod incididunt.
+                  Toxic Beauty Academy is enthusiastic. They appreciate the academy's dedication to safe and sustainable beauty practices, providing valuable education that empowers healthier choices for our well-being
                   </p>
                 </div>
 
@@ -146,9 +136,7 @@ const FeedbackSlider = () => {
                 <div className="content">
                   <img src="/images/feedback-shape.png" alt="image" />
                   <p>
-                    Lorem ipsum dolor sit aadamet45, consectetur adipiscing elit
-                    elit3, sed do eiusmod tempor incididunt ut labore et dolore
-                    magna. Eiusmod incididunt.
+                  Toxic Beauty Academy is highly positive. They commend its educational depth, empowering individuals to make informed choices in the beauty industry. The academy's commitment to clean, sustainable practices aligns with our values.
                   </p>
                 </div>
 

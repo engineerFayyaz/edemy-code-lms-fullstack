@@ -23,12 +23,7 @@ const FeedbackSlider = () => {
             <SwiperSlide>
               <div className="single-feedback-item-box">
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Quis ipsum ultrices gravida. Risus commodo viverra maecenas
-                  accumsan lacus vel facilisis. Lorem ipsum dolor sit amet,
-                  consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                  ut labore et dolore.
+                Toxic Beauty Academy's hair extension courses is outstanding. Students praise the comprehensive curriculum, expert instructors, and hands-on training, enabling them to excel in the art of hair extensions while emphasizing safety and sustainability.e.
                 </p>
 
                 <div className="client-info d-flex align-items-center">
@@ -44,12 +39,7 @@ const FeedbackSlider = () => {
             <SwiperSlide>
               <div className="single-feedback-item-box">
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Quis ipsum ultrices gravida. Risus commodo viverra maecenas
-                  accumsan lacus vel facilisis. Lorem ipsum dolor sit amet,
-                  consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                  ut labore et dolore.
+                Hair extension training at Toxic Beauty Academy is exceptional. Students praise the comprehensive curriculum, hands-on practice, and expert guidance. They note increased confidence and skills in the art of hair extensions, making it a top choice for beauty education.
                 </p>
 
                 <div className="client-info d-flex align-items-center">
@@ -65,12 +55,7 @@ const FeedbackSlider = () => {
             <SwiperSlide>
               <div className="single-feedback-item-box">
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Quis ipsum ultrices gravida. Risus commodo viverra maecenas
-                  accumsan lacus vel facilisis. Lorem ipsum dolor sit amet,
-                  consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                  ut labore et dolore.
+                Toxic Beauty Academy's hair extension courses is outstanding. Students appreciate the comprehensive training, diverse extension techniques, and emphasis on ethical sourcing. They leave with newfound expertise and an understanding of sustainable beauty practices.
                 </p>
 
                 <div className="client-info d-flex align-items-center">

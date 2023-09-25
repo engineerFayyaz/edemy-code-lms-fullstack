@@ -45,7 +45,7 @@ const SingleProducts = () => {
                                     <a href="#" className="rating-count">3 reviews</a>
                                 </div>
 
-                                <p>This story, dazzling in its powerful simplicity and soul-stirring wisdom, is about an Andalusian shepherd boy named Santiago who travels from his homeland in Spain to the Egyptian desert in search of a treasure buried near the Pyramids. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt et.</p>
+                                <p>This story, dazzling in its powerful simplicity and soul-stirring wisdom, is about an Andalusian shepherd boy named Santiago who travels from his homeland in Spain to the Egyptian desert in search of a treasure buried near the Pyramids. </p>
 
                                 <div className="products-meta">
                                     <span>SKU: <span className="sku">10</span></span>
