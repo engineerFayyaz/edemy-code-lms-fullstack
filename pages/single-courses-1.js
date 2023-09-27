@@ -18,7 +18,7 @@ const SingleCourses = () => {
 
             <div className="courses-details-area pb-100">
                 <div className="courses-details-image">
-                    <img src="/images/blog/img16.jpg" style={{height:"480px",width:"100%"}} alt="image"  />
+                    <img src="/images/blog/img16.jpg" style={{height:"540px",width:"100%"}} alt="image"  />
                 </div>
 
                 <div className="container">
