@@ -43,7 +43,7 @@ const StudentNavbar = ({ user }) => {
 									onClick={toggleNavbar}
 									className="navbar-brand"
 								>
-									<img src="/images/logo.png" alt="logo"  style={{width:'50%', borderRadius:'50%'}}/>
+									<img src="/images/logo.png" alt="logo"  style={{width:'50%', borderRadius:'30%'}}/>
 								</a>
 							</Link>
 
@@ -81,133 +81,78 @@ const StudentNavbar = ({ user }) => {
 										</Link>
 
 										<ul className="dropdown-menu">
-											<li className="nav-item">
-												<Link
-													href="/"
-													activeClassName="active"
-												>
-													<a
-														onClick={toggleNavbar}
-														className="nav-link"
-													>
-														eLearning School
-													</a>
-												</Link>
-											</li>
+                      <li className="nav-item">
+                        <Link href="/" activeClassName="active">
+                          <a onClick={toggleNavbar} className="nav-link">
+                          Body Sculpting
+                          </a>
+                        </Link>
+                      </li>
 
-											<li className="nav-item">
-												<Link
-													href="/vendor-certification"
-													activeClassName="active"
-												>
-													<a
-														onClick={toggleNavbar}
-														className="nav-link"
-													>
-														Vendor Certification
-														Training
-													</a>
-												</Link>
-											</li>
+                      <li className="nav-item">
+                        <Link href="/woodtherapy" activeClassName="active">
+                          <a onClick={toggleNavbar} className="nav-link">
+                          Wood Therapy
+                          </a>
+                        </Link>
+                      </li>
 
-											<li className="nav-item">
-												<Link
-													href="/online-training"
-													activeClassName="active"
-												>
-													<a
-														onClick={toggleNavbar}
-														className="nav-link"
-													>
-														Online Training School
-													</a>
-												</Link>
-											</li>
+                      <li className="nav-item">
+                        <Link href="/lymphaticdrainage" activeClassName="active">
+                          <a onClick={toggleNavbar} className="nav-link">
+                          Lymphatic Drainage
+                          </a>
+                        </Link>
+                      </li>
 
-											<li className="nav-item">
-												<Link
-													href="/distance-learning"
-													activeClassName="active"
-												>
-													<a
-														onClick={toggleNavbar}
-														className="nav-link"
-													>
-														Distance Learning
-													</a>
-												</Link>
-											</li>
+                      <li className="nav-item">
+                        <Link href="/lipfillers" activeClassName="active">
+                          <a onClick={toggleNavbar} className="nav-link">
+                          Lip Fillers
+                          </a>
+                        </Link>
+                      </li>
 
-											<li className="nav-item">
-												<Link
-													href="/language-school"
-													activeClassName="active"
-												>
-													<a
-														onClick={toggleNavbar}
-														className="nav-link"
-													>
-														Language School
-													</a>
-												</Link>
-											</li>
+                      <li className="nav-item">
+                        <Link href="/teethwhitening" activeClassName="active">
+                          <a onClick={toggleNavbar} className="nav-link">
+                          Teeth whitening
+                          </a>
+                        </Link>
+                      </li>
 
-											<li className="nav-item">
-												<Link
-													href="/modern-schooling"
-													activeClassName="active"
-												>
-													<a
-														onClick={toggleNavbar}
-														className="nav-link"
-													>
-														Modern Schooling
-													</a>
-												</Link>
-											</li>
+                      <li className="nav-item">
+                        <Link href="/hairextensions" activeClassName="active">
+                          <a onClick={toggleNavbar} className="nav-link">
+                          Hair Extensions
+                          </a>
+                        </Link>
+                      </li>
 
-											<li className="nav-item">
-												<Link
-													href="/yoga-training"
-													activeClassName="active"
-												>
-													<a
-														onClick={toggleNavbar}
-														className="nav-link"
-													>
-														Yoga Training
-													</a>
-												</Link>
-											</li>
+                      <li className="nav-item">
+                        <Link href="/yoga-training" activeClassName="active">
+                          <a onClick={toggleNavbar} className="nav-link">
+                          Yoga Training
+                          </a>
+                        </Link>
+                      </li>
 
-											<li className="nav-item">
-												<Link
-													href="/health-coaching"
-													activeClassName="active"
-												>
-													<a
-														onClick={toggleNavbar}
-														className="nav-link"
-													>
-														Health Coaching
-													</a>
-												</Link>
-											</li>
+                      <li className="nav-item">
+                        <Link href="/health-coaching" activeClassName="active">
+                          <a onClick={toggleNavbar} className="nav-link">
+                            Health Coaching
+                          </a>
+                        </Link>
+                      </li>
 
-											<li className="nav-item">
-												<Link
-													href="/kindergaten"
-													activeClassName="active"
-												>
-													<a
-														onClick={toggleNavbar}
-														className="nav-link"
-													>
-														Kindergaten
-													</a>
-												</Link>
-											</li>
-										</ul>
+                      <li className="nav-item">
+                        <Link href="/lashes" activeClassName="active">
+                          <a onClick={toggleNavbar} className="nav-link">
+                          Lashes
+                          </a>
+                        </Link>
+                      </li>
+                    </ul>
 									</li>
 
 									<li className="nav-item">
@@ -280,7 +225,7 @@ const StudentNavbar = ({ user }) => {
 
 													<li className="nav-item">
 														<Link
-															href="/user/my-profile"
+															href="/profile"
 															activeClassName="active"
 														>
 															<a
