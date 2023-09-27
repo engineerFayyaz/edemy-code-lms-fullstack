@@ -40,7 +40,7 @@ const AdminNavbar = ({ user }) => {
             <div className="navbar navbar-expand-lg navbar-light">
               <Link href="/">
                 <a onClick={toggleNavbar} className="navbar-brand">
-                  <img src="/images/logo.png" alt="logo" style={{width:'50%', borderRadius:'50%'}} />
+                  <img src="/images/logo.png" alt="logo" style={{width:'50%', borderRadius:'25%'}} />
                 </a>
               </Link>
 
@@ -75,47 +75,47 @@ const AdminNavbar = ({ user }) => {
                       <li className="nav-item">
                         <Link href="/" activeClassName="active">
                           <a onClick={toggleNavbar} className="nav-link">
-                            eLearning School
+                          Body Sculpting
                           </a>
                         </Link>
                       </li>
 
                       <li className="nav-item">
-                        <Link href="/vendor-certification" activeClassName="active">
+                        <Link href="/woodtherapy" activeClassName="active">
                           <a onClick={toggleNavbar} className="nav-link">
-                            Vendor Certification Training
+                          Wood Therapy
                           </a>
                         </Link>
                       </li>
 
                       <li className="nav-item">
-                        <Link href="/online-training" activeClassName="active">
+                        <Link href="/lymphaticdrainage" activeClassName="active">
                           <a onClick={toggleNavbar} className="nav-link">
-                            Online Training School
+                          Lymphatic Drainage
                           </a>
                         </Link>
                       </li>
 
                       <li className="nav-item">
-                        <Link href="/distance-learning" activeClassName="active">
+                        <Link href="/lipfillers" activeClassName="active">
                           <a onClick={toggleNavbar} className="nav-link">
-                            Distance Learning
+                          Lip Fillers
                           </a>
                         </Link>
                       </li>
 
                       <li className="nav-item">
-                        <Link href="/language-school" activeClassName="active">
+                        <Link href="/teethwhitening" activeClassName="active">
                           <a onClick={toggleNavbar} className="nav-link">
-                            Language School
+                          Teeth whitening
                           </a>
                         </Link>
                       </li>
 
                       <li className="nav-item">
-                        <Link href="/modern-schooling" activeClassName="active">
+                        <Link href="/hairextensions" activeClassName="active">
                           <a onClick={toggleNavbar} className="nav-link">
-                            Modern Schooling
+                          Hair Extensions
                           </a>
                         </Link>
                       </li>
@@ -123,7 +123,7 @@ const AdminNavbar = ({ user }) => {
                       <li className="nav-item">
                         <Link href="/yoga-training" activeClassName="active">
                           <a onClick={toggleNavbar} className="nav-link">
-                            Yoga Training
+                          Yoga Training
                           </a>
                         </Link>
                       </li>
@@ -137,9 +137,9 @@ const AdminNavbar = ({ user }) => {
                       </li>
 
                       <li className="nav-item">
-                        <Link href="/kindergaten" activeClassName="active">
+                        <Link href="/lashes" activeClassName="active">
                           <a onClick={toggleNavbar} className="nav-link">
-                            Kindergaten
+                          Lashes
                           </a>
                         </Link>
                       </li>

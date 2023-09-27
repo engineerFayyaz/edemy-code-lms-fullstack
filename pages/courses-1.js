@@ -8,10 +8,10 @@ const CoursesGrid01 = ({ courses }) => {
     return (
         <>
             <PageBanner 
-                pageTitle="Courses Grid 01" 
+                pageTitle="All Courses" 
                 homePageUrl="/" 
                 homePageText="Home" 
-                activePageText="Courses Grid 01" 
+                activePageText="All courses" 
             />  
 
             <div className="courses-area courses-section pt-100 pb-70">

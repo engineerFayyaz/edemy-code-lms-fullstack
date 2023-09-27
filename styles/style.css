@@ -448,7 +448,7 @@ Navbar Area CSS
   padding-right: 0;
 }
 .edemy-nav .navbar .navbar-brand img{
-  width: 35%;
+  width: 35% !important;
 }
 .edemy-nav .navbar ul {
   width: 139%;
