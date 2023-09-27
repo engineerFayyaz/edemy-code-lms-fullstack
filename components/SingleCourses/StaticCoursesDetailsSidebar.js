@@ -21,7 +21,7 @@ const StaticCoursesDetailsSidebar = () => {
 				<ModalVideo
 					channel="youtube"
 					isOpen={!isOpen}
-					videoId="bk7McNUjWgw"
+					videoId="VPlxXVyUWvw"
 					onClose={() => setIsOpen(!isOpen)}
 				/>
 			) : (
@@ -30,7 +30,7 @@ const StaticCoursesDetailsSidebar = () => {
 
 			<div className="courses-details-info">
 				<div className="image">
-					<img src="/images/courses/courses1.jpg" alt="image" />
+					<img src="/images/courses/courses6.jpg" alt="image" />
 
 					<div
 						onClick={(e) => {
@@ -52,7 +52,7 @@ const StaticCoursesDetailsSidebar = () => {
 							<span>
 								<i className="flaticon-tag"></i> Price
 							</span>
-							$49
+							$500
 						</div>
 					</li>
 					<li>

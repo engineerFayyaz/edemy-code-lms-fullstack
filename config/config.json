@@ -1,14 +1,14 @@
 {
 	"development": {
 		"username": "postgres",
-		"password": "Tanveer",
+		"password": "Haseeb",
 		"database": "edemy_app_dev",
 		"host": "127.0.0.1",
 		"dialect": "postgres"
 	},
 	"test": {
 		"username": "postgres",
-		"password": "Tanveer",
+		"password": "Haseeb",
 		"database": "edemy_database_test",
 		"host": "127.0.0.1",
 		"dialect": "postgres"

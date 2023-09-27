@@ -8,17 +8,17 @@ const SingleCourses = () => {
     return (
         <>
             <PageBanner 
-                pageTitle="Python for Finance: Investment Fundamentals & Data Analytics" 
+                pageTitle="Mastering the Art of Body Sculpting: Your Complete Certified Course" 
                 homePageUrl="/" 
                 homePageText="Home" 
                 innerPageUrl="/courses-1" 
                 innerPageText="Courses" 
-                activePageText="Python for Finance: Investment Fundamentals & Data Analytics" 
+                activePageText="Mastering the Art of Body Sculpting: Your Complete Certified Course" 
             />  
 
             <div className="courses-details-area pb-100">
                 <div className="courses-details-image">
-                    <img src="/images/courses/course-details.jpg" alt="image" />
+                    <img src="/images/blog/img16.jpg" style={{height:"480px",width:"100%"}} alt="image"  />
                 </div>
 
                 <div className="container">
@@ -36,111 +36,114 @@ const SingleCourses = () => {
                                     <TabPanel>
                                         <div className="courses-overview">
                                             <h3>Course Description</h3>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
-                                            <h3>Certification</h3>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
+                                            <p>Hi! Welcome to our Body Sculpting Mastery Course, your ultimate path to achieving your fitness goals and sculpting the body you desire.</p>
+                                            <p>Here are some more details of what you get with The Body Sculpting Course:</p>
+                                <ul className="description-features-list">
+                                    <li><strong>Introduction to Body Sculpting: </strong> – An overview of the field, its history, and its relevance in the beauty and fitness industry.</li>
+                                    <li><strong>Anatomy and Physiology:</strong> – Understanding the human body's musculature, fat distribution, and how it relates to body sculpting;</li>
+                                    <li><strong>Client Consultation and Assessment: </strong> –  How to assess a client's goals, needs, and medical history to create a personalized sculpting plan;</li>
+                                    <li><strong>Body Sculpting Techniques:</strong> – Hands-on training in various body sculpting techniques such as liposuction, non-surgical methods, and more;</li>
+                                    <li><strong>Equipment and Tools:</strong> –   Familiarization with the tools and equipment used in body sculpting procedures, including their maintenance;</li>
+                                </ul>
+                                            {/* <h3>Certification</h3>
+                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p> */}
                                             <h3>Who this course is for</h3>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
+                                            <ul className="audience-list">
+                                    <li>Individuals who want to start a career in body sculpting and aesthetics.</li>
+                                    <li>Doctors, nurses, or medical practitioners looking to expand their skills and offer body sculpting services.</li>
+                                    <li>Professionals in the beauty and skincare industry seeking to diversify their services.</li>
+                                    <li>Personal trainers or fitness instructors interested in enhancing their knowledge of body contouring techniques.</li>
+                                </ul>
                                         </div>
                                     </TabPanel>
 
                                     <TabPanel>
-                                        <div className="courses-curriculum">
-                                            <h3>Python Introduction</h3>
-                                            <ul>
-                                                <li>
-                                                    <a href="#" className="d-flex justify-content-between align-items-center">
-                                                        <span className="courses-name">Python Introduction</span>
-                                                        <div className="courses-meta">
-                                                            <span className="questions">5 questions</span>
-                                                            <span className="duration">01 Hour</span>
-                                                            <span className="status">Preview</span>
-                                                        </div>
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                            <h3>Stepping into the World of Python</h3>
-                                            <ul>
-                                                <li>
-                                                    <a href="#" className="d-flex justify-content-between align-items-center">
-                                                        <span className="courses-name">NumPy Introduction</span>
-                                                        <div className="courses-meta">
-                                                            <span className="duration">15 Min</span>
-                                                            <span className="status locked"><i className="flaticon-password"></i></span>
-                                                        </div>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" className="d-flex justify-content-between align-items-center">
-                                                        <span className="courses-name">NumPy Getting Started</span>
-                                                        <div className="courses-meta">
-                                                            <span className="duration">30 Min</span>
-                                                            <span className="status locked"><i className="flaticon-password"></i></span>
-                                                        </div>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" className="d-flex justify-content-between align-items-center">
-                                                        <span className="courses-name">NumPy Creating Arrays</span>
-                                                        <div className="courses-meta">
-                                                            <span className="duration">45 Min</span>
-                                                            <span className="status locked"><i className="flaticon-password"></i></span>
-                                                        </div>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" className="d-flex justify-content-between align-items-center">
-                                                        <span className="courses-name">NumPy Array Indexing</span>
-                                                        <div className="courses-meta">
-                                                            <span className="questions">4 questions</span>
-                                                            <span className="duration">1 Hour</span>
-                                                            <span className="status locked"><i className="flaticon-password"></i></span>
-                                                        </div>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" className="d-flex justify-content-between align-items-center">
-                                                        <span className="courses-name">NumPy Array Slicing</span>
-                                                        <div className="courses-meta">
-                                                            <span className="duration">1.5 Hour</span>
-                                                            <span className="status locked"><i className="flaticon-password"></i></span>
-                                                        </div>
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                            <h3>Python MySQL</h3>
-                                            <ul>
-                                                <li>
-                                                    <a href="#" className="d-flex justify-content-between align-items-center">
-                                                        <span className="courses-name">Python MySQL</span>
-                                                        <div className="courses-meta">
-                                                            <span className="duration">01 Hour</span>
-                                                            <span className="status locked"><i className="flaticon-password"></i></span>
-                                                        </div>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" className="d-flex justify-content-between align-items-center">
-                                                        <span className="courses-name">Python MySQL Create Database</span>
-                                                        <div className="courses-meta">
-                                                            <span className="questions">3 questions</span>
-                                                            <span className="duration">1.1 Hour</span>
-                                                            <span className="status locked"><i className="flaticon-password"></i></span>
-                                                        </div>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" className="d-flex justify-content-between align-items-center">
-                                                        <span className="courses-name">Python MySQL Create Table</span>
-                                                        <div className="courses-meta">
-                                                            <span className="duration">1.5 Hour</span>
-                                                            <span className="status locked"><i className="flaticon-password"></i></span>
-                                                        </div>
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                        </div>
+                                    <div className="courses-curriculum">
+                                    <h3>Introduction to Body Sculpting: </h3>
+                                    <ul>
+                                        <li>
+                                            <a href="#" className="d-flex justify-content-between align-items-center">
+                                                <span className="courses-name">Introduction to Body Sculpting: </span>
+                                                <div className="courses-meta">
+                                                    <span className="questions">5 questions</span>
+                                                    <span className="duration">01 Hour</span>
+                                                    <span className="status">Preview</span>
+                                                </div>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                    <h3>Stepping into the World of Body Sculpting</h3>
+                                    <ul>
+                                        <li>
+                                            <a href="#" className="d-flex justify-content-between align-items-center">
+                                                <span className="courses-name">Anatomy and Physiology:</span>
+                                                <div className="courses-meta">
+                                                    <span className="duration">15 Min</span>
+                                                    <span className="status locked"><i className="flaticon-password"></i></span>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#" className="d-flex justify-content-between align-items-center">
+                                                <span className="courses-name">Client Consultation and Assessment: </span>
+                                                <div className="courses-meta">
+                                                    <span className="duration">30 Min</span>
+                                                    <span className="status locked"><i className="flaticon-password"></i></span>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#" className="d-flex justify-content-between align-items-center">
+                                                <span className="courses-name">Body Sculpting Techniques:</span>
+                                                <div className="courses-meta">
+                                                    <span className="duration">45 Min</span>
+                                                    <span className="status locked"><i className="flaticon-password"></i></span>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#" className="d-flex justify-content-between align-items-center">
+                                                <span className="courses-name">Equipment and Tools:</span>
+                                                <div className="courses-meta">
+                                                    <span className="questions">4 questions</span>
+                                                    <span className="duration">1 Hour</span>
+                                                    <span className="status locked"><i className="flaticon-password"></i></span>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#" className="d-flex justify-content-between align-items-center">
+                                                <span className="courses-name">NumPy Array Slicing</span>
+                                                <div className="courses-meta">
+                                                    <span className="duration">1.5 Hour</span>
+                                                    <span className="status locked"><i className="flaticon-password"></i></span>
+                                                </div>
+                                            </a>
+                                        </li>
+                                    </ul>
+
+                                    <h3>Last Week</h3>
+                                    <ul>
+                                        <li>
+                                            <a href="#" className="d-flex justify-content-between align-items-center">
+                                                <span className="courses-name">Hands-On Practice:</span>
+                                               
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#" className="d-flex justify-content-between align-items-center">
+                                                <span className="courses-name">Case Studies:</span>
+                                               
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#" className="d-flex justify-content-between align-items-center">
+                                                <span className="courses-name">Continuing Education:</span>
+                                              
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
                                     </TabPanel>
 
                                     <TabPanel>
@@ -157,7 +160,7 @@ const SingleCourses = () => {
                                                         <div className="advisor-content">
                                                             <h3>Sarah Taylor</h3>
                                                             <span className="sub-title">Agile Project Expert</span>
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                                            <p>James Anderson is a highly skilled and experienced Body Contouring Specialist dedicated to helping you achieve your desired aesthetic goals. With a passion for artistry and a deep understanding of human anatomy, James has honed his craft to bring out the best in your natural beauty</p>
                                                             
                                                             <ul className="social-link">
                                                                 <li><a href="#" className="d-block" target="_blank"><i className='bx bxl-facebook'></i></a></li>
