@@ -225,7 +225,7 @@ const StudentNavbar = ({ user }) => {
 
 													<li className="nav-item">
 														<Link
-															href="/user/my-profile"
+															href="/profile"
 															activeClassName="active"
 														>
 															<a
