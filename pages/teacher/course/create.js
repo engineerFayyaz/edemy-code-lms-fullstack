@@ -106,6 +106,7 @@ const Create = () => {
 		data.append("file", course.profilePhoto);
 		data.append("upload_preset", "vikings");
 		data.append("cloud_name", "lms-empty");
+		debugger
 		let response;
 		if (course.profilePhoto) {
 			response = await axios.post(process.env.CLOUDINARY_URL, data);
