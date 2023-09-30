@@ -448,7 +448,7 @@ Navbar Area CSS
   padding-right: 0;
 }
 .edemy-nav .navbar .navbar-brand img{
-  width: 35% !important;
+  width: 28% !important;
 }
 .edemy-nav .navbar ul {
   width: 139%;
@@ -9697,8 +9697,8 @@ Page Title Area CSS
   background-color: #f8f9f8;
   position: relative;
   z-index: 1;
-  padding-top: 20px;
-  padding-bottom: 80px;
+  padding-top: 7px;
+  padding-bottom: 25px;
 }
 
 .page-title-content ul {
@@ -9741,7 +9741,7 @@ Page Title Area CSS
 .page-title-content h2 {
   text-align: center;
   max-width: 800px;
-  margin-top: 80px;
+  margin-top: 0px;
   margin-bottom: 0;
   margin-left: auto;
   margin-right: auto;

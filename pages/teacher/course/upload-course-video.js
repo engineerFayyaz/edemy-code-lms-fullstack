@@ -4,7 +4,7 @@ import axios from "axios";
 import { Alert } from "reactstrap";
 import baseUrl from "@/utils/baseUrl";
 import { Spinner } from "reactstrap";
-import toast from "react-hot-toast";
+import { toast, Toaster } from "react-hot-toast"; // Import toast and Toaster
 import catchErrors from "@/utils/catchErrors";
 import PageBanner from "@/components/Common/PageBanner";
 import Link from "@/utils/ActiveLink";
@@ -23,7 +23,7 @@ const UploadCourseVideo = ({ courses }) => {
   const [video, setVideo] = React.useState(INIT_VIDEO);
   const [loading, setLoading] = React.useState(false);
   const [disabled, setDisabled] = React.useState(true);
-  const [error, setError] = React.useState(null); // Define 'error' state
+  const [error, setError] = React.useState(null);
 
   React.useEffect(() => {
     const { order, video_url, name } = video;
@@ -53,10 +53,10 @@ const UploadCourseVideo = ({ courses }) => {
     if (name === "video_url") {
       const videoSize = files[0].size / 1024 / 1024;
       if (videoSize > 20) {
-        addToast(
+        toast.error(
           "The video size is greater than 20 MB. Make sure it's less than 20 MB.",
           {
-            appearance: "error",
+            icon: "error",
           }
         );
         e.target.value = null;
@@ -98,7 +98,7 @@ const UploadCourseVideo = ({ courses }) => {
       toast.success(response.data);
       setVideo(INIT_VIDEO);
     } catch (err) {
-      catchErrors(err, setError); // Pass 'error' instead of 'setError'
+      catchErrors(err, setError);
       toast.error(error);
       console.error(err);
     } finally {
@@ -108,14 +108,14 @@ const UploadCourseVideo = ({ courses }) => {
 
   return (
     <>
+      <Toaster /> {/* Add Toaster component here */}
       <PageBanner
         pageTitle="Upload Course Video"
         homePageUrl="/"
         homePageText="Home"
         activePageText="Upload Course Video"
       />
-
-      <div className="ptb-100">
+       <div className="ptb-100">
         <div className="container">
           {courses.length == 0 && (
             <Alert color="danger" className="text-center">

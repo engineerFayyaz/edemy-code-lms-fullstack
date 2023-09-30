@@ -7,7 +7,14 @@ import baseUrl from "@/utils/baseUrl";
 import CoursesCurriculum from "@/components/Courses/CoursesCurriculum";
 
 const Details = ({ course, user }) => {
-  // console.log(course)
+  // Function to extract the first letter of the instructor's name
+  const getInstructorInitial = (name) => {
+    if (name) {
+      return name.charAt(0).toUpperCase();
+    }
+    return "";
+  };
+
   return (
     <>
       <PageBanner
@@ -53,14 +60,19 @@ const Details = ({ course, user }) => {
                         <div className="row align-items-center">
                           <div className="col-lg-4 col-md-4">
                             <div className="advisor-image">
-                              <img
+                              {/* Display the instructor's initial */}
+                              <div className="instructor-initial">
+                                {getInstructorInitial(course.user.name)}
+                              </div>
+                              {/* <img
                                 src={`${
                                   course.user.profilePhoto
                                     ? course.user.profilePhoto
-                                    : "/images/advisor/advisor2.jpg"
+                                    :course.user.name
                                 }`}
                                 alt={course.user.name}
-                              />
+                              /> */}
+                             { course.user.name}
                             </div>
                           </div>
 
@@ -118,7 +130,7 @@ const Details = ({ course, user }) => {
                   </TabPanel>
 
                   <TabPanel>
-                    <div className="courses-reviews">
+                  <div className="courses-reviews">
                       <h3>Course Rating</h3>
                       <div className="rating">
                         <span className="bx bxs-star checked"></span>
