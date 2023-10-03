@@ -40,7 +40,7 @@ const AdminNavbar = ({ user }) => {
             <div className="navbar navbar-expand-lg navbar-light">
               <Link href="/">
                 <a onClick={toggleNavbar} className="navbar-brand">
-                  <img src="/images/logo.png" alt="logo" style={{width:'50%', borderRadius:'25%'}} />
+                  <img src="/images/logo.png" alt="logo" style={{ width: '50%', borderRadius: '25%' }} />
                 </a>
               </Link>
 
@@ -63,87 +63,10 @@ const AdminNavbar = ({ user }) => {
                 <ul className="navbar-nav">
                   <li className="nav-item">
                     <Link href="/" activeClassName="active">
-                      <a
-                        onClick={(e) => e.preventDefault()}
-                        className="nav-link"
-                      >
-                        Home <i className="bx bx-chevron-down"></i>
+                      <a className="nav-link" onClick={toggleNavbar}>
+                        Home
                       </a>
                     </Link>
-
-                    <ul className="dropdown-menu">
-                      <li className="nav-item">
-                        <Link href="/" activeClassName="active">
-                          <a onClick={toggleNavbar} className="nav-link">
-                          Body Sculpting
-                          </a>
-                        </Link>
-                      </li>
-
-                      <li className="nav-item">
-                        <Link href="/woodtherapy" activeClassName="active">
-                          <a onClick={toggleNavbar} className="nav-link">
-                          Wood Therapy
-                          </a>
-                        </Link>
-                      </li>
-
-                      <li className="nav-item">
-                        <Link href="/lymphaticdrainage" activeClassName="active">
-                          <a onClick={toggleNavbar} className="nav-link">
-                          Lymphatic Drainage
-                          </a>
-                        </Link>
-                      </li>
-
-                      <li className="nav-item">
-                        <Link href="/lipfillers" activeClassName="active">
-                          <a onClick={toggleNavbar} className="nav-link">
-                          Lip Fillers
-                          </a>
-                        </Link>
-                      </li>
-
-                      <li className="nav-item">
-                        <Link href="/teethwhitening" activeClassName="active">
-                          <a onClick={toggleNavbar} className="nav-link">
-                          Teeth whitening
-                          </a>
-                        </Link>
-                      </li>
-
-                      <li className="nav-item">
-                        <Link href="/hairextensions" activeClassName="active">
-                          <a onClick={toggleNavbar} className="nav-link">
-                          Hair Extensions
-                          </a>
-                        </Link>
-                      </li>
-
-                      <li className="nav-item">
-                        <Link href="/yoga-training" activeClassName="active">
-                          <a onClick={toggleNavbar} className="nav-link">
-                          Yoga Training
-                          </a>
-                        </Link>
-                      </li>
-
-                      <li className="nav-item">
-                        <Link href="/health-coaching" activeClassName="active">
-                          <a onClick={toggleNavbar} className="nav-link">
-                            Health Coaching
-                          </a>
-                        </Link>
-                      </li>
-
-                      <li className="nav-item">
-                        <Link href="/lashes" activeClassName="active">
-                          <a onClick={toggleNavbar} className="nav-link">
-                          Lashes
-                          </a>
-                        </Link>
-                      </li>
-                    </ul>
                   </li>
 
                   <li className="nav-item">

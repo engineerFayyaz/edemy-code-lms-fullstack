@@ -6,29 +6,29 @@ const AboutUs = () => {
             <div className="container">
                 <div className="row align-items-center">
                     <div className="col-lg-6 col-md-12">
-                        <div className="about-image">
+                    <div className="about-image">
                             <div className="row">
-                                <div className="col-lg-6 col-sm-6 col-md-6 col-6">
+                                <div className="col-lg-6 col-sm-6 col-md-6 col-6 align-self-center">
                                     <div className="image">
-                                        <img src="/images/about-img5.jpg" className='rounded-4' alt="image" />
+                                        <img src="/images/about-img12.png" className='rounded-pill' alt="image" />
+                                    </div>
+                                </div>
+
+                                <div className="col-lg-6 col-sm-6 col-md-6 col-6 ">
+                                    <div className="image">
+									<img src="/images/banner-img4.png" className='rounded-5' alt="image" />
                                     </div>
                                 </div>
 
                                 <div className="col-lg-6 col-sm-6 col-md-6 col-6">
                                     <div className="image">
-                                        <img src="/images/about-img6.jpg" className='rounded-pill' alt="image" />
+                                        <img src="/images/kindergarten-about-img2.png" className='rounded-5' alt="image" />
                                     </div>
                                 </div>
 
                                 <div className="col-lg-6 col-sm-6 col-md-6 col-6">
                                     <div className="image">
-                                        <img src="/images/about-img10.png" className='rounded-pill' alt="image" />
-                                    </div>
-                                </div>
-
-                                <div className="col-lg-6 col-sm-6 col-md-6 col-6">
-                                    <div className="image">
-                                        <img src="/images/about-img-new-3.jpg" className='rounded-4' alt="image" />
+                                        <img src="/images/banner-img2.png" className='rounded-pill' alt="image" />
                                     </div>
                                 </div>
                             </div>

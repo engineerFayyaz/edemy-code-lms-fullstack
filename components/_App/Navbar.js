@@ -66,13 +66,13 @@ const Navbar = ({ user }) => {
                 <SearchForm />
 
                 <ul className="navbar-nav">
-                <li className="nav-item">
-                        <Link href="/" activeClassName="active">
-                          <a className="nav-link" onClick={toggleNavbar}>
-                            Home
-                          </a>
-                        </Link>
-                      </li>
+                  <li className="nav-item">
+                    <Link href="/" activeClassName="active">
+                      <a className="nav-link" onClick={toggleNavbar}>
+                        Home
+                      </a>
+                    </Link>
+                  </li>
 
                   <li className="nav-item">
                     <Link href="/">
@@ -85,13 +85,13 @@ const Navbar = ({ user }) => {
                     </Link>
 
                     <ul className="dropdown-menu">
-                    <li className="nav-item">
-                            <Link href="/about-1" activeClassName="active">
-                              <a onClick={toggleNavbar} className="nav-link">
-                                About Us
-                              </a>
-                            </Link>
-                          </li>  
+                      <li className="nav-item">
+                        <Link href="/about-1" activeClassName="active">
+                          <a onClick={toggleNavbar} className="nav-link">
+                            About Us
+                          </a>
+                        </Link>
+                      </li>
 
                       <li className="nav-item">
                         <Link href="/">
@@ -454,11 +454,11 @@ const Navbar = ({ user }) => {
                   </li>
 
                   <li className="nav-item">
-                  <Link href="/blogs" activeClassName="active">
-                          <a onClick={toggleNavbar} className="nav-link">
-                            Blogs
-                          </a>
-                        </Link>
+                    <Link href="/blogs" activeClassName="active">
+                      <a onClick={toggleNavbar} className="nav-link">
+                        Blogs
+                      </a>
+                    </Link>
 
                     {/* <ul className="dropdown-menu">
                       <li className="nav-item">

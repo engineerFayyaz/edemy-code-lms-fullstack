@@ -6,10 +6,10 @@ const Blog3 = () => {
     return (
         <>
             <PageBanner 
-                pageTitle="Blog Grid (Full Width)" 
+                pageTitle="Latest Blogs " 
                 homePageUrl="/" 
                 homePageText="Home" 
-                activePageText="Blog Grid (Full Width)" 
+                activePageText="Latest Blogs " 
             />  
 
             <div className="blog-area ptb-100">

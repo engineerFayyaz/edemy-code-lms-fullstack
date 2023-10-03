@@ -32,7 +32,7 @@ const Blog = () => {
 								<h3>
 									<Link href="/single-blog-1">
 										<a>
-										body sculpting
+										Body sculpting
 										</a>
 									</Link>
 								</h3>
