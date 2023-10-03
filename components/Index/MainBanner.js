@@ -22,9 +22,34 @@ const MainBanner = () => {
 						</div>
 					</div>
 					<div className="col-lg-6 col-md-12">
-						<div className="main-banner-image-style-two">
-							<img src="/images/banner-img4.png" alt="image" style={{borderRadius:"50px"}} />
-						</div>
+						 <div className="about-image">
+                            <div className="row">
+                                <div className="col-lg-6 col-sm-6 col-md-6 col-6 align-self-center">
+                                    <div className="image">
+                                        <img src="/images/about-img12.png" className='rounded-pill' alt="image" />
+                                    </div>
+                                </div>
+
+                                <div className="col-lg-6 col-sm-6 col-md-6 col-6 ">
+                                    <div className="image">
+									<img src="/images/banner-img4.png" className='rounded-5' alt="image" />
+                                    </div>
+                                </div>
+
+                                <div className="col-lg-6 col-sm-6 col-md-6 col-6">
+                                    <div className="image">
+                                        <img src="/images/kindergarten-about-img2.png" className='rounded-5' alt="image" />
+                                    </div>
+                                </div>
+
+                                <div className="col-lg-6 col-sm-6 col-md-6 col-6">
+                                    <div className="image">
+                                        {/* <img src="/images/banner-img4.png" className='rounded-pill' alt="image" /> */}
+                                        <img src="/images/banner-img2.png" className='rounded-pill' alt="image" />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
 					</div>
 				</div>
 			</div>
@@ -32,7 +57,7 @@ const MainBanner = () => {
 				<img src="/images/banner-shape1.png" alt="image" />
 			</div>
 			<div className="banner-shape2">
-				<img src="/images/banner-shape2.png" alt="image" />
+				{/* <img src="/images/banner-shape2.png" alt="image" /> */}
 			</div>
 			<div className="banner-shape3">
 				<img src="/images/banner-shape3.png" alt="image" />

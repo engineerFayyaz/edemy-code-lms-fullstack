@@ -8,10 +8,25 @@ const About = () => {
 		<div className="about-area ptb-100 bg-f9fbff">
 			<div className="container">
 				<div className="row align-items-center">
-					<div className="col-lg-6 col-md-12">
-						<div className="about-image">
-							<img src="/images/about-img12.png" alt="image" style={{borderRadius:"150px"}}/>
-						</div>
+					<div className="col-lg-6 col-md-12 ">
+					 <div className="about-image">
+                            <div className="row">
+                                <div className="col-lg-6 col-sm-6 col-md-6 col-6 align-self-center" >
+                                    <div className="image">
+									<img src="/images/banner-img4.png"  style={{boxShadow:"2px 2px 6px black"}}  alt="image" />
+                                    </div>
+                                </div>
+
+                               
+
+                                
+                                <div className="col-lg-6 col-sm-6 col-md-6 col-6">
+                                    <div className="image">
+                                        <img src="/images/kindergarten-about-img2.png" style={{boxShadow:"2px 2px 6px black"}}  alt="image" />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
 					</div>
 					<div className="col-lg-6 col-md-12">
 						<div className="about-content">

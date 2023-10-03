@@ -12,100 +12,132 @@ const TopCourses = ({ courses }) => {
 					<h2>{t("course-heading")}</h2>
 					<p>{t("course-description")}</p>
 				</div>
-
-				<div className="row justify-content-center">
-					{courses ? (
-						courses.map((course) => (
-							<div className="col-lg-4 col-md-6" key={course.id}>
-								<div className="single-courses-box">
-									<div className="courses-image">
-										<Link
-											href="/courses/[id]"
-											as={`/courses/${course.id}`}
-										>
-											<a className="d-block image">
-												<img
-													src={course.profilePhoto}
-													alt={course.title}
-												/>
-											</a>
-										</Link>
-
-										<Link href="#">
-											<a className="fav">
-												<i className="flaticon-heart"></i>
-											</a>
-										</Link>
-
-										<div className="price shadow">
-											${course.price}
-										</div>
-									</div>
-
-									<div className="courses-content">
-										<div className="course-author d-flex align-items-center">
-											<img
-												src={`${
-													course.user.profilePhoto
-														? course.user
-																.profilePhoto
-														: "/images/user1.jpg"
-												}`}
-												className="rounded-circle"
-												alt={course.user.name}
-											/>
-											<span>{course.user.name}</span>
-										</div>
-
-										<h3 title={course.title}>
-											<Link
-												href="/courses/[id]"
-												as={`/courses/${course.id}`}
-											>
-												<a>
-													{course.title.slice(0, 20)}
-													...
-												</a>
-											</Link>
-										</h3>
-
-										<p>
-											{course.overview.slice(0, 100)}...
-										</p>
-
-										<ul className="courses-box-footer d-flex justify-content-between align-items-center">
-											<li>
-												<i className="flaticon-agenda"></i>{" "}
-												{parseInt(course.lessons)}{" "}
-												Lessons
-											</li>
-											<li>
-												<i className="flaticon-people"></i>{" "}
-												{course.enroled_courses.length}{" "}
-												Students
-											</li>
-										</ul>
-									</div>
-								</div>
-							</div>
-						))
-					) : (
-						<h2>Empty</h2>
-					)}
-
-					<div className="col-lg-12 col-md-12">
-						<div className="courses-info">
-							<p>
-								{t("course-description2")}{" "}
-								<Link href="/authentication">
-									<a>{t("join-free-now")}</a>
-								</Link>
-								.
-							</p>
-						</div>
-					</div>
-				</div>
 			</div>
+			<div className="categories-area">
+                <div className="container">
+                    <div className="row">
+                        <div className="col-lg-3 col-sm-6 col-md-6">
+                            <div className="single-categories-box">
+                                <img src="/images/categories/categorie1.jpg" alt="image" />
+
+                                <div className="content">
+                                    <h3>Body Sculpting</h3>
+                                    <span>10 Courses</span>
+                                </div>
+
+                                <Link href="/courses-1">
+                                    <a className="link-btn"></a>
+                                </Link>
+                            </div>
+                        </div>
+
+                        <div className="col-lg-3 col-sm-6 col-md-6">
+                            <div className="single-categories-box">
+                                <img src="/images/categories/categorie2.jpg" alt="image" />
+
+                                <div className="content">
+                                    <h3>Wood Therapy</h3>
+                                    <span>20 Courses</span>
+                                </div>
+
+                                <Link href="/courses-1">
+                                    <a className="link-btn"></a>
+                                </Link>
+                            </div>
+                        </div>
+
+                        <div className="col-lg-3 col-sm-6 col-md-6">
+                            <div className="single-categories-box">
+                                <img src="/images/categories/categorie3.jpg" alt="image" />
+
+                                <div className="content">
+                                    <h3>Lymphatic Drainage</h3>
+                                    <span>15 Courses</span>
+                                </div>
+                                
+                                <Link href="/courses-1">
+                                    <a className="link-btn"></a>
+                                </Link>
+                            </div>
+                        </div>
+
+                        <div className="col-lg-3 col-sm-6 col-md-6">
+                            <div className="single-categories-box">
+                                <img src="/images/categories/categorie4.jpg" alt="image" />
+
+                                <div className="content">
+                                    <h3>Lip Fillers</h3>
+                                    <span>11 Courses</span>
+                                </div>
+                                
+                                <Link href="/courses-1">
+                                    <a className="link-btn"></a>
+                                </Link>
+                            </div>
+                        </div>
+
+                        <div className="col-lg-3 col-sm-6 col-md-6">
+                            <div className="single-categories-box">
+                                <img src="/images/categories/categorie5.jpg" alt="image" />
+
+                                <div className="content">
+                                    <h3>Teeth Whitening</h3>
+                                    <span>10 Courses</span>
+                                </div>
+                                
+                                <Link href="/courses-1">
+                                    <a className="link-btn"></a>
+                                </Link>
+                            </div>
+                        </div>
+
+                        <div className="col-lg-3 col-sm-6 col-md-6">
+                            <div className="single-categories-box">
+                                <img src="/images/categories/categorie6.jpg" alt="image" />
+
+                                <div className="content">
+                                    <h3>Hair Extensions</h3>
+                                    <span>12 Courses</span>
+                                </div>
+                                
+                                <Link href="/courses-1">
+                                    <a className="link-btn"></a>
+                                </Link>
+                            </div>
+                        </div>
+
+                        <div className="col-lg-3 col-sm-6 col-md-6">
+                            <div className="single-categories-box">
+                                <img src="/images/categories/categorie7.jpg" alt="image" />
+
+                                <div className="content">
+                                    <h3>Fat Dissolving Shots</h3>
+                                    <span>05 Courses</span>
+                                </div>
+                                
+                                <Link href="/courses-1">
+                                    <a className="link-btn"></a>
+                                </Link>
+                            </div>
+                        </div>
+
+                        <div className="col-lg-3 col-sm-6 col-md-6">
+                            <div className="single-categories-box">
+                                <img src="/images/categories/categorie8.jpg" alt="image" />
+
+                                <div className="content">
+                                    <h3>Health Coaching</h3>
+                                    <span>20 Courses</span>
+                                </div>
+                                
+                                <Link href="/courses-1">
+                                    <a className="link-btn"></a>
+                                </Link>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
 		</div>
 	);
 };

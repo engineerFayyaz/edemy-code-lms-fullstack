@@ -80,7 +80,7 @@ const Navbar = ({ user }) => {
                         onClick={(e) => e.preventDefault()}
                         className="nav-link"
                       >
-                        Pages <i className="bx bx-chevron-down"></i>
+                        More <i className="bx bx-chevron-down"></i>
                       </a>
                     </Link>
 

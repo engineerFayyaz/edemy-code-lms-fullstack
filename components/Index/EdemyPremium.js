@@ -11,7 +11,7 @@ const EdemyPremium = () => {
 					<div className="row align-items-center">
 						<div className="col-lg-6 col-md-12">
 							<div className="view-all-courses-image-style-two">
-								<img src="/images/strategy.png" alt="image" />
+								<img src="/images/bout-img10.png" className="rounded-circle" alt="image" />
 							</div>
 						</div>
 						<div className="col-lg-6 col-md-12">
@@ -35,7 +35,7 @@ const EdemyPremium = () => {
 			</div>
 
 			<div className="premium-access-area-two">
-				<div className="container">
+				<div className="container p-5">
 					<div className="row align-items-center">
 						<div className="col-lg-6 col-md-12">
 							<div className="premium-access-content-style-two">
@@ -53,9 +53,9 @@ const EdemyPremium = () => {
 								</Link>
 							</div>
 						</div>
-						<div className="col-lg-6 col-md-12">
+						<div className="col-lg-6 col-md-12" >
 							<div className="premium-access-image-style-two">
-								<img src="/images/security.png" alt="image" />
+								<img src="/images/logo.png" className="rounded-circle" alt="image" />
 							</div>
 						</div>
 					</div>
