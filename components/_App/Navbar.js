@@ -66,104 +66,13 @@ const Navbar = ({ user }) => {
                 <SearchForm />
 
                 <ul className="navbar-nav">
-                  <li className="nav-item">
-                    <Link href="/" activeClassName="active">
-                      <a
-                        onClick={(e) => e.preventDefault()}
-                        className="nav-link"
-                      >
-                        Home <i className="bx bx-chevron-down"></i>
-                      </a>
-                    </Link>
-
-                    <ul className="dropdown-menu">
-                      <li className="nav-item">
+                <li className="nav-item">
                         <Link href="/" activeClassName="active">
                           <a className="nav-link" onClick={toggleNavbar}>
-                            Body Sculpting
+                            Home
                           </a>
                         </Link>
                       </li>
-
-                      <li className="nav-item">
-                        <Link href="/woodtherapy" activeClassName="active">
-                          <a onClick={toggleNavbar} className="nav-link">
-                            Wood Therapy
-                          </a>
-                        </Link>
-                      </li>
-
-                      <li className="nav-item">
-                        <Link
-                          href="/lymphaticdrainage"
-                          activeClassName="active"
-                        >
-                          <a onClick={toggleNavbar} className="nav-link">
-                            Lymphatic Drainage
-                          </a>
-                        </Link>
-                      </li>
-
-                      <li className="nav-item">
-                        <Link href="/lipfillers" activeClassName="active">
-                          <a onClick={toggleNavbar} className="nav-link">
-                            Lip Fillers
-                          </a>
-                        </Link>
-                      </li>
-
-                      <li className="nav-item">
-                        <Link href="/teethwhitening" activeClassName="active">
-                          <a onClick={toggleNavbar} className="nav-link">
-                            Teeth whitening
-                          </a>
-                        </Link>
-                      </li>
-
-                      <li className="nav-item">
-                        <Link href="/hairextensions" activeClassName="active">
-                          <a onClick={toggleNavbar} className="nav-link">
-                            Hair Extensions
-                          </a>
-                        </Link>
-                      </li>
-
-                      <li className="nav-item">
-                        <Link
-                          href="/fatdesolvingshots"
-                          activeClassName="active"
-                        >
-                          <a onClick={toggleNavbar} className="nav-link">
-                            Fat Desolving Shots
-                          </a>
-                        </Link>
-                      </li>
-
-                      <li className="nav-item">
-                        <Link href="/yoga-training" activeClassName="active">
-                          <a onClick={toggleNavbar} className="nav-link">
-                            Yoga Training
-                          </a>
-                        </Link>
-                      </li>
-
-                      <li className="nav-item">
-                        <Link href="/health-coaching" activeClassName="active">
-                          <a onClick={toggleNavbar} className="nav-link">
-                            Health Coaching
-                          </a>
-                        </Link>
-                      </li>
-
-                      <li className="nav-item">
-                        <Link href="/lashes" activeClassName="active">
-                          <a onClick={toggleNavbar} className="nav-link">
-                            Lashes
-                          </a>
-                        </Link>
-                      </li>
-                    </ul>
-                  </li>
 
                   <li className="nav-item">
                     <Link href="/">
@@ -176,42 +85,13 @@ const Navbar = ({ user }) => {
                     </Link>
 
                     <ul className="dropdown-menu">
-                      <li className="nav-item">
-                        <Link href="/">
-                          <a
-                            onClick={(e) => e.preventDefault()}
-                            className="nav-link"
-                          >
-                            About Us <i className="bx bx-chevron-down"></i>
-                          </a>
-                        </Link>
-
-                        <ul className="dropdown-menu">
-                          <li className="nav-item">
+                    <li className="nav-item">
                             <Link href="/about-1" activeClassName="active">
                               <a onClick={toggleNavbar} className="nav-link">
-                                About Us 01
+                                About Us
                               </a>
                             </Link>
-                          </li>
-
-                          <li className="nav-item">
-                            <Link href="/about-2" activeClassName="active">
-                              <a onClick={toggleNavbar} className="nav-link">
-                                About Us 02
-                              </a>
-                            </Link>
-                          </li>
-
-                          <li className="nav-item">
-                            <Link href="/about-3" activeClassName="active">
-                              <a onClick={toggleNavbar} className="nav-link">
-                                About Us 03
-                              </a>
-                            </Link>
-                          </li>
-                        </ul>
-                      </li>
+                          </li>  
 
                       <li className="nav-item">
                         <Link href="/">
@@ -540,17 +420,9 @@ const Navbar = ({ user }) => {
 
                     <ul className="dropdown-menu">
                       <li className="nav-item">
-                        <Link href="/products-list-1" activeClassName="active">
+                        <Link href="/products-list" activeClassName="active">
                           <a onClick={toggleNavbar} className="nav-link">
-                            Product List 01
-                          </a>
-                        </Link>
-                      </li>
-
-                      <li className="nav-item">
-                        <Link href="/products-list-2" activeClassName="active">
-                          <a onClick={toggleNavbar} className="nav-link">
-                            Product List 02
+                            Product List
                           </a>
                         </Link>
                       </li>
@@ -582,32 +454,13 @@ const Navbar = ({ user }) => {
                   </li>
 
                   <li className="nav-item">
-                    <Link href="/">
-                      <a
-                        onClick={(e) => e.preventDefault()}
-                        className="nav-link"
-                      >
-                        Blog <i className="bx bx-chevron-down"></i>
-                      </a>
-                    </Link>
-
-                    <ul className="dropdown-menu">
-                      <li className="nav-item">
-                        <Link href="/blog-1" activeClassName="active">
+                  <Link href="/blogs" activeClassName="active">
                           <a onClick={toggleNavbar} className="nav-link">
-                            Grid (2 in Row)
+                            Blogs
                           </a>
                         </Link>
-                      </li>
 
-                      <li className="nav-item">
-                        <Link href="/blog-2" activeClassName="active">
-                          <a onClick={toggleNavbar} className="nav-link">
-                            Grid (3 in Row)
-                          </a>
-                        </Link>
-                      </li>
-
+                    {/* <ul className="dropdown-menu">
                       <li className="nav-item">
                         <Link href="/blog-3" activeClassName="active">
                           <a onClick={toggleNavbar} className="nav-link">
@@ -616,13 +469,7 @@ const Navbar = ({ user }) => {
                         </Link>
                       </li>
 
-                      <li className="nav-item">
-                        <Link href="/blog-4" activeClassName="active">
-                          <a onClick={toggleNavbar} className="nav-link">
-                            Right Sidebar
-                          </a>
-                        </Link>
-                      </li>
+                     
 
                       <li className="nav-item">
                         <Link href="/">
@@ -669,7 +516,7 @@ const Navbar = ({ user }) => {
                           </li>
                         </ul>
                       </li>
-                    </ul>
+                    </ul> */}
                   </li>
 
                   <li className="nav-item">

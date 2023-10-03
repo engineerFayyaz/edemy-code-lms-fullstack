@@ -57,7 +57,7 @@ const ContactForm = () => {
 								ref={register({ required: true })}
 							/>
 							<div
-								className="invalid-feedback"
+								className="invalid-"
 								style={{ display: "block" }}
 							>
 								{errors.name && "Name is required."}
