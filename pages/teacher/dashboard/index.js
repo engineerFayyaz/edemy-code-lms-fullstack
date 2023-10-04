@@ -47,6 +47,15 @@ const index = () => {
                       <a>Upload Course Video</a>
                     </Link>
                   </li>
+
+                  <li>
+                    <Link
+                      href="/teacher/course/createQuiz"
+                      activeClassName="active"
+                    >
+                      <a>Create Quiz</a>
+                    </Link>
+                  </li>
                 </ul>
               </div>
             </div>
