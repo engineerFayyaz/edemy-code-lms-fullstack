@@ -2,6 +2,7 @@ import React from "react";
 import Link from "@/utils/ActiveLink";
 import { handleLogout } from "@/utils/auth";
 import SearchForm from "./SearchForm";
+import Profile from "pages/profile";
 
 const AdminNavbar = ({ user }) => {
   // console.log(user)
@@ -184,6 +185,7 @@ const AdminNavbar = ({ user }) => {
                       </Link>
                     )}
                   </div>
+                  <Profile user={user} />
                 </div>
               </div>
             </div>
