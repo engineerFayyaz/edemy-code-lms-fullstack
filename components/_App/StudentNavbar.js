@@ -43,7 +43,7 @@ const StudentNavbar = ({ user }) => {
 									onClick={toggleNavbar}
 									className="navbar-brand"
 								>
-									<img src="/images/logo.png" alt="logo"  style={{width:'50%', borderRadius:'30%'}}/>
+									<img src="/images/logo.png" alt="logo"  style={{width:'30%', borderRadius:'30%'}}/>
 								</a>
 							</Link>
 

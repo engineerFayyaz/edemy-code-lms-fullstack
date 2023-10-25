@@ -41,7 +41,7 @@ const CoursesRightSidebar = () => {
                                         <div className="courses-image">
                                             <Link href="/single-courses-1">
                                                 <a className="d-block image">
-                                                    <img src="/images/courses/courses1.jpg" alt="image" />
+                                                    <img src="/images/courses/courses15.jpg" alt="image" style={{width:"100%", height:"256px"}} />
                                                 </a>
                                             </Link>
                                             <a href="#" className="fav">
