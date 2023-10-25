@@ -27,6 +27,8 @@ const Edit = ({ existingData }) => {
     category: existingData.category,
   };
 
+  console.log("video existing",existingData.course_preview_video)
+
   const [course, setCourse] = React.useState(INIT_COURSE);
   const [profilePreview, setProfilePreview] = React.useState("");
   const [coverPhotoPreview, setCoverPhotoPreview] = React.useState("");
@@ -417,7 +419,9 @@ const Edit = ({ existingData }) => {
                       value={course.course_preview_video}
                       onChange={handleChange}
                     />
+                    {console.log("Course Preview", course.course_preview_video)}
                   </div>
+                
 
                   <div className="form-group">
                     <label>

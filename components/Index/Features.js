@@ -14,9 +14,9 @@ const Features = () => {
 							<a href="/courses-1">
 								<img src="/images/courses/course1-new.jpeg" className="card-img-top" alt="Product Image" />
 							</a>
-							<div className="position-absolute top-0 end-0 mt-2 me-2">
-								<button className="btn btn-light" title="Add to Cart">
-									<i className="flatcart-plus"></i>
+							<div className="position-absolute top-0 end-0 mt-2">
+								<button className="btn " title="Add to Cart" >
+									<i className="flaticon-shopping-cart"></i>
 								</button>
 							</div>
 							<div className="card-body" style={{ textAlign: "center" }}>
@@ -41,9 +41,9 @@ const Features = () => {
 							<a href="/courses-1">
 								<img src="/images/courses/course2-new.jpeg" className="card-img-top" alt="Product Image" />
 							</a>
-							<div className="position-absolute top-0 end-0 mt-2 me-2">
-								<button className="btn btn-light" title="Add to Cart">
-									<i className="flatcart-plus"></i>
+							<div className="position-absolute top-0 end-0 mt-2 ">
+								<button className="btn " title="Add to Cart">
+									<i className="flaticon-shopping-cart"></i>
 								</button>
 							</div>
 							<div className="card-body" style={{ textAlign: "center" }}>
@@ -68,9 +68,9 @@ const Features = () => {
 							<a href="/courses-1">
 								<img src="/images/courses/course3-new.jpeg" className="card-img-top" alt="Product Image" />
 							</a>
-							<div className="position-absolute top-0 end-0 mt-2 me-2">
-								<button className="btn btn-light" title="Add to Cart">
-									<i className="flatcart-plus"></i>
+							<div className="position-absolute top-0 end-0 mt-2 ">
+								<button className="btn " title="Add to Cart">
+									<i className="flaticon-shopping-cart"></i>
 								</button>
 							</div>
 							<div className="card-body" style={{ textAlign: "center" }}>
@@ -95,9 +95,9 @@ const Features = () => {
 							<a href="/courses-1">
 								<img src="/images/courses/course4-new.jpeg" className="card-img-top" alt="Product Image" />
 							</a>
-							<div className="position-absolute top-0 end-0 mt-2 me-2">
-								<button className="btn btn-light" title="Add to Cart">
-									<i className="flatcart-plus"></i>
+							<div className="position-absolute top-0 end-0 mt-2">
+								<button className="btn " title="Add to Cart">
+									<i className="flaticon-shopping-cart"></i>
 								</button>
 							</div>
 							<div className="card-body" style={{ textAlign: "center" }}>
@@ -123,6 +123,7 @@ const Features = () => {
 	<img src="/images/carousel-img2.jpeg" style={{width:'100%', height:"500px"}} />
 
 			{/* products section end */}
+			
 			{/* <div className="container">
 				<div className="section-title">
 					<span className="sub-title">

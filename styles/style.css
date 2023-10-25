@@ -543,7 +543,7 @@ Navbar Area CSS
 }
 .edemy-nav .navbar .navbar-nav .nav-item:hover a, .edemy-nav .navbar .navbar-nav .nav-item.active a {
   color: #f74aaf;
-  border-bottom: 2px solid black;
+  /* border-bottom: 2px solid black; */
 }
 .edemy-nav .navbar .navbar-nav .nav-item .dropdown-menu {
   border: none;
@@ -586,7 +586,9 @@ Navbar Area CSS
   color: #221638;
 }
 .edemy-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a:hover, .edemy-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a:focus, .edemy-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a.active {
-  color: #fe4a55;
+  /* color: #fe4a55;/ */
+  color: #f74aaf;
+
 }
 .edemy-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu {
   top: 0;
@@ -597,7 +599,9 @@ Navbar Area CSS
   color: #221638;
 }
 .edemy-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover, .edemy-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li a:focus, .edemy-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li a.active {
-  color: #fe4a55;
+  /* color: #fe4a55; */
+  color: #f74aaf;
+
 }
 .edemy-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu {
   top: 0;
@@ -608,7 +612,9 @@ Navbar Area CSS
   color: #221638;
 }
 .edemy-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover, .edemy-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:focus, .edemy-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a.active {
-  color: #fe4a55;
+  /* color: #fe4a55; */
+  color: #f74aaf;
+
 }
 .edemy-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu {
   top: 0;
@@ -619,7 +625,9 @@ Navbar Area CSS
   color: #221638;
 }
 .edemy-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover, .edemy-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:focus, .edemy-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a.active {
-  color: #fe4a55;
+  /* color: #fe4a55; */
+  color: #f74aaf;
+
 }
 .edemy-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu {
   top: 0;
@@ -13473,4 +13481,12 @@ Funfacts Area CSS
 }
 .courses-homepage .card-text del{
   color: #3324;
+}
+
+.flaticon-shopping-cart{
+  color: #ffffff;
+  background: black;
+  padding:7px 10px;
+  border-radius: 50%;
+  font-weight: 600;
 }
