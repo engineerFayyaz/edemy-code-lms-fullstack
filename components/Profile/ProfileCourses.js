@@ -4,7 +4,7 @@ import MyCourses from 'pages/my-courses';
 
 const ProfileCourses = () => {
     return (
-        <div className="profile-courses pb-70">
+        <div className="profile-courses pb-70 m-4">
             <h3 className="title">Courses</h3>
             <div className="row">
                 <MyCourses/>

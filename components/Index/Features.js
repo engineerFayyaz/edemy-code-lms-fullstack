@@ -14,7 +14,7 @@ const Features = () => {
 							<a href="/courses-1">
 								<img src="/images/courses/course1-new.jpeg" className="card-img-top" alt="Product Image" />
 							</a>
-							<div className="position-absolute top-0 end-0 mt-2">
+							<div className="position-absolute top-0 end-0 mt-2 courses-new-section">
 								<button className="btn " title="Add to Cart" >
 									<i className="flaticon-shopping-cart"></i>
 								</button>
@@ -41,7 +41,7 @@ const Features = () => {
 							<a href="/courses-1">
 								<img src="/images/courses/course2-new.jpeg" className="card-img-top" alt="Product Image" />
 							</a>
-							<div className="position-absolute top-0 end-0 mt-2 ">
+							<div className="position-absolute top-0 end-0 mt-2 courses-new-section">
 								<button className="btn " title="Add to Cart">
 									<i className="flaticon-shopping-cart"></i>
 								</button>
@@ -68,7 +68,7 @@ const Features = () => {
 							<a href="/courses-1">
 								<img src="/images/courses/course3-new.jpeg" className="card-img-top" alt="Product Image" />
 							</a>
-							<div className="position-absolute top-0 end-0 mt-2 ">
+							<div className="position-absolute top-0 end-0 mt-2 courses-new-section">
 								<button className="btn " title="Add to Cart">
 									<i className="flaticon-shopping-cart"></i>
 								</button>
@@ -95,7 +95,7 @@ const Features = () => {
 							<a href="/courses-1">
 								<img src="/images/courses/course4-new.jpeg" className="card-img-top" alt="Product Image" />
 							</a>
-							<div className="position-absolute top-0 end-0 mt-2">
+							<div className="position-absolute top-0 end-0 mt-2 courses-new-section">
 								<button className="btn " title="Add to Cart">
 									<i className="flaticon-shopping-cart"></i>
 								</button>

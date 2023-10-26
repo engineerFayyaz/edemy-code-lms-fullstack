@@ -1,56 +1,99 @@
-import React from 'react';
-import PageBanner from '../components/Common/PageBanner';
-import ProfileCourses from '../components/Profile/ProfileCourses';
-import Quizzes from '../components/Profile/Quizzes';
+import React from "react";
+import PageBanner from "@/components/Common/PageBanner";
+import Link from "next/link";
 
-const Profile = ({user}) => {
-    return (
-        <>
-            <PageBanner 
-                pageTitle="Profile" 
-                homePageUrl="/" 
-                homePageText="Home" 
-                activePageText="Profile" 
-            />  
+// import Quizzes from "../components/Profile/Quizzes";
+import ProfileCourses from "@/components/Profile/ProfileCourses";
+import Quizzes from "@/components/Profile/Quizzes";
 
-            <div className="profile-area">
-                <div className="container">
-                    <div className="profile-box ptb-100">
-                        <div className="row align-items-center">
-                            <div className="col-lg-4 col-md-4">
-                                <div className="image">
-                                    <img src="/images/man2.jpg" alt="image" style={{width:"55% !important"}}/>
-                                </div>
-                            </div>
-
-                            <div className="col-lg-8 col-md-8">
-                                <div className="content">
-                                    <h3>{user.name}</h3>
-                                    <p>Our project management training equips learners with the knowledge and discipline required to effectively plan, manage, execute, and control projects regardless of industry. You'll learn all about the most popular project management methodologies that help organizations deliver successful projects..</p>
-                                    
-                                    <ul className="info">
-                                        {/* <li><span>Phone Number:</span> <a href="tel:+44254588689">+1 (602) 316-8811</a></li> */}
-                                        <li><span>Email:</span> <a href="mailto:hello@sarahtaylor.com">{user.email}</a></li>
-                                    </ul>
-
-                                    <ul className="social-link">
-                                        <li><a href="#" className="d-block" target="_blank"><i className='bx bxl-facebook'></i></a></li>
-                                        <li><a href="#" className="d-block" target="_blank"><i className='bx bxl-twitter'></i></a></li>
-                                        <li><a href="#" className="d-block" target="_blank"><i className='bx bxl-instagram'></i></a></li>
-                                        <li><a href="#" className="d-block" target="_blank"><i className='bx bxl-linkedin'></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <ProfileCourses />
-                    
-                    <Quizzes />
-                </div>
+const Profile = ({ user }) => {
+  return (
+    <>
+      <PageBanner
+        pageTitle="My Profile"
+        homePageUrl="/"
+        homePageText="Home"
+        activePageText="My Profile"
+      />
+<div className="container">
+<div className="profile-area ptb-100 d-flex justify-content-center align-items-center">
+        <div className="profile-box">
+          <div className="row ">
+            <div className="col-lg-4 col-md-4 text-end">
+              <div className="image">
+                <img
+                  src="/images/man.jpg"
+                  alt="image"
+                  className=" bg-dark p-3"
+                />
+              </div>
             </div>
-        </>
-    )
-}
+
+            <div className="col-lg-8 col-md-8">
+              <div className="content">
+                <h3>{user.name}</h3>
+                
+                <p>
+                Access a wide range of courses, from body sculpting to hair extensions, track your progress, and engage with rich educational content. Stay connected with your educational journey and achieve your beauty aspirations with ease.
+                </p>
+
+                <ul className="info">
+                  <li>
+                    <span>Email:</span>{" "}
+                    <a href="mailto:hello@sarahtaylor.com">{user.email}</a>
+                  </li>
+                </ul>
+
+                <ul className="social-link">
+                  <li>
+                    <a
+                      href="#"
+                      className="d-block  rounded-circle"
+                      target="_blank"
+                    >
+                      <i className="bx bxl-facebook"></i>
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="#"
+                      className="d-block  rounded-circle"
+                      target="_blank"
+                    >
+                      <i className="bx bxl-twitter"></i>
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="#"
+                      className="d-block  rounded-circle"
+                      target="_blank"
+                    >
+                      <i className="bx bxl-instagram"></i>
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="#"
+                      className="d-block rounded-circle"
+                      target="_blank"
+                    >
+                      <i className="bx bxl-linkedin"></i>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+</div>
+   
+      <ProfileCourses />
+
+      <Quizzes />
+    </>
+  );
+};
 
 export default Profile;
