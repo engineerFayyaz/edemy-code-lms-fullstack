@@ -1,39 +1,54 @@
-import nodemailer from 'nodemailer';
-import sgTransport from 'nodemailer-sendgrid-transport';
+import { check, validationResult } from 'express-validator';
+import sgMail from '@sendgrid/mail';
 
-const transporter = {
-    auth: {
-        // Update your SendGrid API key here
-        api_key: ''
+sgMail.setApiKey('KCPVjFRBRO6wO1bKGQNmvA'); // Replace with your SendGrid API key
+
+const contactRouter = Router();
+
+contactRouter.post(
+    '/api/contact',
+    [
+        check('name').not().isEmpty().withMessage('Name is required'),
+        check('email').isEmail().withMessage('Invalid email address'),
+        check('number').not().isEmpty().withMessage('Number is required'),
+        check('subject').not().isEmpty().withMessage('Subject is required'),
+        check('text').not().isEmpty().withMessage('Text body is required'),
+    ],
+    async (req, res) => {
+        try {
+            // Check for validation errors
+            const errors = validationResult(req);
+            if (!errors.isEmpty()) {
+                return res.status(400).json({ errors: errors.array() });
+            }
+
+            const { name, email, number, subject, text } = req.body;
+
+            const msg = {
+                to: 'muhammadfayyaz0097@gmail.com', // Change to your recipient
+                from: email, // Change to your verified sender
+                subject: subject,
+                text: text,
+                html: `<b>From:</b> ${name} <br /> 
+                    <b>Number:</b> ${number} <br /> 
+                    <b>Text:</b> ${text}`
+            };
+
+            await sgMail.send(msg);
+            console.log('Email sent');
+            res.status(200).send('Email sent successfully');
+        } catch (error) {
+            console.error(error);
+
+            // Handle SendGrid API errors
+            if (error.response) {
+                console.error('SendGrid API Error:', error.response.body);
+                res.status(error.response.statusCode).send('Error sending email');
+            } else {
+                res.status(500).send('Error sending email');
+            }
+        }
     }
-}
+);
 
-const mailer = nodemailer.createTransport(sgTransport(transporter));
-
-export default async (req, res) => {
-    console.log(req.body)
-    const {name, email, number, subject, text} = req.body;
-
-    const data = {
-        // Update your email here
-        to: 'muhammadfayyaz0097@gmail.com',
-        from: email,
-        subject: 'Hi there',
-        text: text,
-        html: `
-            <b>From:</b> ${name} <br /> 
-            <b>Number:</b> ${number} <br /> 
-            <b>Subject:</b> ${subject} <br /> 
-            <b>Text:</b> ${text} 
-        ` 
-    };
-
-    try {
-        const response = await mailer.sendMail(data);
-        console.log(response)
-        res.status(200).send("Email send successfully")
-    } catch (error) {
-        console.log(error);
-        res.status(500).send("Error proccessing charge");
-    }
-}
+export default contactRouter;

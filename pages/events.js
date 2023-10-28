@@ -1,227 +1,85 @@
 import React from 'react';
-import PageBanner from '../components/Common/PageBanner';
 import Link from 'next/link';
-import SubscribeForm from '../components/Common/SubscribeForm';
+// import { Events } from 'pg';
 
-const Events = () => {
+const events = () => {
+    const [days, setDays] = React.useState('');
+    const [hours, setHours] = React.useState('');
+    const [minutes, setMinutes] = React.useState('');
+    const [seconds, setSeconds] = React.useState('');
+
+    React.useEffect(() => {
+        const interval = setInterval(() => { 
+            commingSoonTime();
+        }, 1000);
+        return () => clearInterval(interval);
+    }, [])
+
+    const commingSoonTime = () => {
+        let endTime = new Date("August 23, 2024 17:00:00 PDT");
+        let endTimeParse = (Date.parse(endTime)) / 1000;
+        let now = new Date();
+        let nowParse = (Date.parse(now) / 1000);
+        let timeLeft = endTimeParse - nowParse;
+        let days = Math.floor(timeLeft / 86400); 
+        let hours = Math.floor((timeLeft - (days * 86400)) / 3600);
+        let minutes = Math.floor((timeLeft - (days * 86400) - (hours * 3600 )) / 60);
+        let seconds = Math.floor((timeLeft - (days * 86400) - (hours * 3600) - (minutes * 60)));
+        if (hours < "10") { hours = "0" + hours; }
+        if (minutes < "10") { minutes = "0" + minutes; }
+        if (seconds < "10") { seconds = "0" + seconds; }
+        setDays(days);
+        setHours(hours);
+        setMinutes(minutes);
+        setSeconds(seconds);
+    }
     return (
-        <>
-            <PageBanner 
-                pageTitle="Events" 
-                homePageUrl="/" 
-                homePageText="Home" 
-                activePageText="Events" 
-            />  
+        <div className="coming-soon-area">
+            <div className="d-table">
+                <div className="d-table-cell">
+                    <div className="coming-soon-content">
+                        <Link href="/">
+                            <a className="logo">
+                                <img src="/images/logo.png" alt="image" style={{width:'30%', borderRadius:'50%'}} />
+                            </a>
+                        </Link>
 
-            <div className="events-area pt-100 pb-70">
-                <div className="container">
-                    <div className="shorting">
-                        <div className="row">
-                            <div className="col-lg-4 col-sm-6 col-md-6">
-                                <div className="single-events-box">
-                                    <div className="image">
-                                        <Link href="/single-events">
-                                            <a className="d-block">
-                                                <img src="/images/events/events1.jpg" alt="image" />
-                                            </a>
-                                        </Link>
-                                        <span className="date">Wed, 20 May, 2020</span>
-                                    </div>
+                        <h2>We Are Launching Soon</h2>
 
-                                    <div className="content">
-                                        <h3>
-                                            <Link href="/single-events">
-                                                <a>Global Conference on Business Management</a>
-                                            </Link>
-                                        </h3>
-                                        <span className="location"><i className="bx bx-map"></i>Vancover, Canada</span>
-                                    </div>
-                                </div>
+                        <div id="timer" className="flex-wrap d-flex justify-content-center">
+                            <div id="days" className="align-items-center flex-column d-flex justify-content-center">
+                                {days} <span>Days</span>
                             </div>
-
-                            <div className="col-lg-4 col-sm-6 col-md-6">
-                                <div className="single-events-box">
-                                    <div className="image">
-                                        <Link href="/single-events">
-                                            <a className="d-block">
-                                                <img src="/images/events/events2.jpg" alt="image" />
-                                            </a>
-                                        </Link>
-                                        <span className="date">Tue, 19 May, 2020</span>
-                                    </div>
-
-                                    <div className="content">
-                                        <h3>
-                                            <Link href="/single-events">
-                                                <a>International Conference on Teacher Education</a>
-                                            </Link>
-                                        </h3>
-                                        <span className="location"><i className="bx bx-map"></i>Sydney, Australia</span>
-                                    </div>
-                                </div>
+                            <div id="hours" className="align-items-center flex-column d-flex justify-content-center">
+                                {hours} <span>Hours</span>
                             </div>
-
-                            <div className="col-lg-4 col-sm-6 col-md-6">
-                                <div className="single-events-box">
-                                    <div className="image">
-                                        <Link href="/single-events">
-                                            <a className="d-block">
-                                                <img src="/images/events/events3.jpg" alt="image" />
-                                            </a>
-                                        </Link>
-                                        <span className="date">Mon, 18 May, 2020</span>
-                                    </div>
-
-                                    <div className="content">
-                                        <h3>
-                                            <Link href="/single-events">
-                                                <a>International Conference on Special Needs Education</a>
-                                            </Link>
-                                        </h3>
-                                        <span className="location"><i className="bx bx-map"></i>Istanbul, Turkey</span>
-                                    </div>
-                                </div>
+                            <div id="minutes" className="align-items-center flex-column d-flex justify-content-center">
+                                {minutes} <span>Minutes</span>
                             </div>
-
-                            <div className="col-lg-4 col-sm-6 col-md-6">
-                                <div className="single-events-box">
-                                    <div className="image">
-                                        <Link href="/single-events">
-                                            <a className="d-block">
-                                                <img src="/images/events/events4.jpg" alt="image" />
-                                            </a>
-                                        </Link>
-                                        <span className="date">Sun, 17 May, 2020</span>
-                                    </div>
-
-                                    <div className="content">
-                                        <h3>
-                                            <Link href="/single-events">
-                                                <a>International Conference on Literacy Teaching</a>
-                                            </Link>
-                                        </h3>
-                                        <span className="location"><i className="bx bx-map"></i>Athens, Greece</span>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div className="col-lg-4 col-sm-6 col-md-6">
-                                <div className="single-events-box">
-                                    <div className="image">
-                                        <Link href="/single-events">
-                                            <a className="d-block">
-                                                <img src="/images/events/events5.jpg" alt="image" />
-                                            </a>
-                                        </Link>
-                                        <span className="date">Sat, 16 May, 2020</span>
-                                    </div>
-
-                                    <div className="content">
-                                        <h3>
-                                            <Link href="/single-events">
-                                                <a>International Conference on Educational Administration</a>
-                                            </Link>
-                                        </h3>
-                                        <span className="location"><i className="bx bx-map"></i>Rome, Italy</span>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div className="col-lg-4 col-sm-6 col-md-6">
-                                <div className="single-events-box">
-                                    <div className="image">
-                                        <Link href="/single-events">
-                                            <a className="d-block">
-                                                <img src="/images/events/events6.jpg" alt="image" />
-                                            </a>
-                                        </Link>
-                                        <span className="date">Fri, 15 May, 2020</span>
-                                    </div>
-
-                                    <div className="content">
-                                        <h3>
-                                            <Link href="/single-events">
-                                                <a>International Conference on Education and Pedagogy</a>
-                                            </Link>
-                                        </h3>
-                                        <span className="location"><i className="bx bx-map"></i>Athens, Greece</span>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div className="col-lg-4 col-sm-6 col-md-6">
-                                <div className="single-events-box">
-                                    <div className="image">
-                                        <Link href="/single-events">
-                                            <a className="d-block">
-                                                <img src="/images/events/events7.jpg" alt="image" />
-                                            </a>
-                                        </Link>
-                                        <span className="date">Thu, 14 May, 2020</span>
-                                    </div>
-
-                                    <div className="content">
-                                        <h3>
-                                            <Link href="/single-events">
-                                                <a>Research Conference Aims and Objectives</a>
-                                            </Link>
-                                        </h3>
-                                        <span className="location"><i className="bx bx-map"></i>Tokyo, Japan</span>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div className="col-lg-4 col-sm-6 col-md-6">
-                                <div className="single-events-box">
-                                    <div className="image">
-                                        <Link href="/single-events">
-                                            <a className="d-block">
-                                                <img src="/images/events/events8.jpg" alt="image" />
-                                            </a>
-                                        </Link>
-                                        <span className="date">Wed, 13 May, 2020</span>
-                                    </div>
-
-                                    <div className="content">
-                                        <h3>
-                                            <Link href="/single-events">
-                                                <a>Conference on Gender Discrimination in Education</a>
-                                            </Link>
-                                        </h3>
-                                        <span className="location"><i className="bx bx-map"></i>Oslo, Norway</span>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div className="col-lg-4 col-sm-6 col-md-6">
-                                <div className="single-events-box">
-                                    <div className="image">
-                                        <Link href="/single-events">
-                                            <a className="d-block">
-                                                <img src="/images/events/events9.jpg" alt="image" />
-                                            </a>
-                                        </Link>
-                                        <span className="date">Tue, 12 May, 2020</span>
-                                    </div>
-
-                                    <div className="content">
-                                        <h3>
-                                            <Link href="/single-events">
-                                                <a>Quality and Improvement in Education Conference</a>
-                                            </Link>
-                                        </h3>
-                                        <span className="location"><i className="bx bx-map"></i>Tokyo, Japan</span>
-                                    </div>
-                                </div>
+                            <div id="seconds" className="align-items-center flex-column d-flex justify-content-center">
+                                {seconds} <span>Seconds</span>
                             </div>
                         </div>
+  
+                        <form className="newsletter-form" data-toggle="validator">
+                            <div className="form-group">
+                                <input type="email" className="input-newsletter" placeholder="Enter your email" name="EMAIL" required />
+                                <span className="label-title">
+                                    <i className='bx bx-envelope'></i>
+                                </span>
+                            </div>
+
+                            <button type="submit" className="default-btn">
+                                <i className="flaticon-user"></i> Subscribe <span></span>
+                            </button>
+ 
+                            <p>If you would like to be notified when your app is live, Please subscribe to our mailing list.</p>
+                        </form>
                     </div>
                 </div>
             </div>
-
-            <SubscribeForm />
-        </>
+        </div>
     )
 }
 
-export default Events;
+export default events;

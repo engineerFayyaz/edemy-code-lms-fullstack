@@ -43,7 +43,7 @@ const Footer = () => {
                         </div>
                     </div>
 
-                    <div className="col-lg-2 col-md-6 col-sm-6">
+                    <div className="col-lg-2 col-md-6 col-sm-6" style={{marginLeft:"100px"}}>
                         <div className="single-footer-widget pl-5">
                             <h3>Explore</h3>
                             <ul className="footer-links-list">
@@ -76,7 +76,7 @@ const Footer = () => {
                         </div>
                     </div>
 
-                    <div className="col-lg-2 col-md-6 col-sm-6">
+                    {/* <div className="col-lg-2 col-md-6 col-sm-6">
                         <div className="single-footer-widget">
                             <h3>Resources</h3>
                             <ul className="footer-links-list">
@@ -107,7 +107,7 @@ const Footer = () => {
                                 </li>
                             </ul>
                         </div>
-                    </div>
+                    </div> */}
 
                     <div className="col-lg-4 col-md-6 col-sm-6">
                         <div className="single-footer-widget">
