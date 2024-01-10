@@ -16,7 +16,7 @@ const SingleEvents = () => {
 
             <div className="events-details-area pb-100">
                 <div className="events-details-image">
-                    <img src="/images/events/events-details.jpg" alt="image" />
+                    <img src="/images/events-details.jpg" alt="image" />
 
                     <EventsTimer />
                 </div>

@@ -15,13 +15,29 @@ const CoursesDetailsSidebar = ({
 	duration,
 	title,
 	loggedInUser,
+	coverPhoto,
+    course_preview_video,
+    course_preview_img,
+    
 }) => {
 	const cartItems = useSelector((state) => state.cart.cartItems);
 	const [display, setDisplay] = useState(false);
 	const dispatch = useDispatch();
 	const [add, setAdd] = useState(false);
 	const [alreadyBuy, setAlreadyBuy] = useState(false);
+	const videoId = extractVideoId(course_preview_video);
+	
+	function extractVideoId(url) {
+		const match = url.match(/(?:\?v=|\/embed\/|\/watch\?v=|\.be\/|\/\d{11}(?![\d]))([^&\n?#]+)/);
+		return match && match[1];
+	  }
 
+	  useEffect(() => {
+		if (course_preview_video) {
+		  setIsOpen(true);
+		}
+	  }, [course_preview_video]);
+	  
 	const addToCart = (courseId, title, price, lessons, duration, image) => {
 		let courseObj = {};
 		courseObj["id"] = courseId;
@@ -76,6 +92,7 @@ const CoursesDetailsSidebar = ({
 		countEnrolled();
 	}, []);
 
+	
 	const checkBoughtAlready = () => {
 		return (
 			enroled_courses.filter(function (val) {
@@ -83,17 +100,22 @@ const CoursesDetailsSidebar = ({
 			}).length > 0
 		);
 	};
-
+	console.log("course link",course_preview_video)
 	return (
 		<>
+		<div>
 			{/* If you want to change the video need to update videoID */}
+			
 			{display ? (
+				
 				<ModalVideo
-					channel="youtube"
-					isOpen={!isOpen}
-					videoId="bk7McNUjWgw"
-					onClose={() => setIsOpen(!isOpen)}
-				/>
+				channel="youtube"
+				isOpen={!isOpen}
+				videoId={videoId}                
+				onClose={() => setIsOpen(!isOpen)}
+				
+			  />
+			  
 			) : (
 				""
 			)}
@@ -240,6 +262,7 @@ const CoursesDetailsSidebar = ({
 						</ul>
 					</div>
 				</div>
+			</div>
 			</div>
 		</>
 	);

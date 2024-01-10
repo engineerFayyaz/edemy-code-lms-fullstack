@@ -28,15 +28,15 @@ const Contact = () => {
                                             <i className='bx bx-map'></i>
                                         </div>
                                         <h3>Our Address</h3>
-                                        <p>2750 Quadra Street Victoria Road, New York, Canada</p>
+                                        <p>2750 Quadra Street Golden Victoria Road, New York, USA</p>
                                     </li>
                                     <li>
                                         <div className="icon">
                                             <i className='bx bx-phone-call'></i>
                                         </div>
                                         <h3>Contact</h3>
-                                        <p>Mobile: <a href="tel:+44457895789">(+44) - 45789 - 5789</a></p>
-                                        <p>Mail: <a href="mailto:hello@edemy.com">hello@edemy.com</a></p>
+                                        <p>Mobile: <a href="tel:+1(602)316-8811">+1 (602) 316-8811</a></p>
+                                        <p>Mail: <a href="mailto:hello@toxicbeautyacademy.com">hello@toxicbeautyacademy.com</a></p>
                                     </li>
                                     <li>
                                         <div className="icon">

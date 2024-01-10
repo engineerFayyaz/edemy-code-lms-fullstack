@@ -170,14 +170,6 @@ const UploadCourseVideo = ({ courses }) => {
                       <a>createQuiz</a>
                     </Link>
                   </li>
-                  <li>
-                    <Link
-                      href="/teacher/course/createQuiz"
-                      activeClassName="active"
-                    >
-                      <a>createQuiz</a>
-                    </Link>
-                  </li>
                 </ul>
               </div>
             </div>

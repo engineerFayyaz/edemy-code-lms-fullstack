@@ -283,7 +283,7 @@ a:hover {
 .section-title .sub-title {
   display: block;
   text-transform: uppercase;
-  color: #fe4a55;
+  color: #f768b8;
   margin-bottom: 10px;
   font-size: 14px;
   font-weight: 600;
@@ -311,8 +311,8 @@ a:hover {
   text-align: center;
   overflow: hidden;
   z-index: 1;
-  color: #ffffff;
-  background-color: #fe4a55;
+  color: black;
+  background-color: #fba7d8;
   transition: 0.5s;
   border-radius: 5px;
   font-weight: 700;
@@ -522,6 +522,7 @@ Navbar Area CSS
   padding-bottom: 25px;
   margin-left: 13px;
   margin-right: 13px;
+  border-bottom: 2px solid transparent;
 }
 .edemy-nav .navbar .navbar-nav .nav-item a i {
   font-size: 18px;
@@ -532,7 +533,7 @@ Navbar Area CSS
   margin-right: -3px;
 }
 .edemy-nav .navbar .navbar-nav .nav-item a:hover, .edemy-nav .navbar .navbar-nav .nav-item a:focus, .edemy-nav .navbar .navbar-nav .nav-item a.active {
-  color: #fe4a55;
+  color: #f74aaf;
 }
 .edemy-nav .navbar .navbar-nav .nav-item:last-child a {
   margin-right: 0;
@@ -541,7 +542,8 @@ Navbar Area CSS
   margin-left: 0;
 }
 .edemy-nav .navbar .navbar-nav .nav-item:hover a, .edemy-nav .navbar .navbar-nav .nav-item.active a {
-  color: #fe4a55;
+  color: #f74aaf;
+  /* border-bottom: 2px solid black; */
 }
 .edemy-nav .navbar .navbar-nav .nav-item .dropdown-menu {
   border: none;
@@ -584,7 +586,9 @@ Navbar Area CSS
   color: #221638;
 }
 .edemy-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a:hover, .edemy-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a:focus, .edemy-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a.active {
-  color: #fe4a55;
+  /* color: #fe4a55;/ */
+  color: #f74aaf;
+
 }
 .edemy-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu {
   top: 0;
@@ -595,7 +599,9 @@ Navbar Area CSS
   color: #221638;
 }
 .edemy-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover, .edemy-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li a:focus, .edemy-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li a.active {
-  color: #fe4a55;
+  /* color: #fe4a55; */
+  color: #f74aaf;
+
 }
 .edemy-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu {
   top: 0;
@@ -606,7 +612,9 @@ Navbar Area CSS
   color: #221638;
 }
 .edemy-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover, .edemy-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:focus, .edemy-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a.active {
-  color: #fe4a55;
+  /* color: #fe4a55; */
+  color: #f74aaf;
+
 }
 .edemy-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu {
   top: 0;
@@ -617,7 +625,9 @@ Navbar Area CSS
   color: #221638;
 }
 .edemy-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover, .edemy-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:focus, .edemy-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a.active {
-  color: #fe4a55;
+  /* color: #fe4a55; */
+  color: #f74aaf;
+
 }
 .edemy-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu {
   top: 0;
@@ -1896,7 +1906,7 @@ About Area CSS
 .about-content .sub-title {
   display: block;
   text-transform: uppercase;
-  color: #fe4a55;
+  color: #f768b8;
   margin-bottom: 10px;
   font-size: 14px;
   font-weight: 600;
@@ -6181,14 +6191,18 @@ Profile Area CSS
   padding-right: 15px;
 }
 .profile-box .image img {
-  border-radius: 5px;
+  border-radius: 50%;
+  width: 250px;
+  height: 250px;
+
 }
 .profile-box .content {
-  padding: 20px 0 20px 50px;
+  padding: 0px 0 20px 50px;
 }
 .profile-box .content h3 {
   margin-bottom: 7px;
   font-size: 23px;
+  font-family: monospace;
   font-weight: 800;
 }
 .profile-box .content .sub-title {
@@ -6208,7 +6222,7 @@ Profile Area CSS
   font-weight: 600;
 }
 .profile-box .content .info li span {
-  color: #606060;
+  color: #818080;
   font-weight: 700;
 }
 .profile-box .content .info li:last-child {
@@ -7515,7 +7529,7 @@ Blog Area CSS
   margin-right: 10px;
 }
 .single-blog-post .post-content .post-content-footer li .post-author span {
-  color: #fe4a55;
+  color: #f768b8;
   font-weight: 600;
   font-size: 15px;
 }
@@ -12562,8 +12576,8 @@ Contact Area CSS
 Footer Area CSS
 =================================================*/
 .footer-area {
-  background-color: #100f1f;
-  color:black;
+  background-color: #fba7d8;
+  color:white;
   position: relative;
   z-index: 1;
   padding-top: 100px;
@@ -12600,7 +12614,7 @@ Footer Area CSS
   display: inline-block;
 }
 .single-footer-widget .footer-links-list li a:hover {
-  color: #fe4a55;
+  color: black;
 }
 .single-footer-widget .footer-links-list li:last-child {
   margin-bottom: 0;
@@ -13070,8 +13084,11 @@ Main Banner Area CSS
 .main-banner-area {
   z-index: 1;
   position: relative;
-  padding-top: 80px;
+  /* padding-top: 80px; */
   padding-bottom: 100px;
+}
+.main-banner-area .carousel-root{
+  margin-bottom: 30px;
 }
 .main-banner-area .container-fluid {
   max-width: 1395px;
@@ -13146,7 +13163,7 @@ View All Courses Area CSS
 .view-all-courses-content-style-two .sub-title {
   display: block;
   text-transform: uppercase;
-  color: #fe4a55;
+  color: #f768b8;
   margin-bottom: 8px;
   font-size: 14px;
   font-weight: 600;
@@ -13183,7 +13200,7 @@ Premium Access Area CSS
   z-index: -1;
   height: 35px;
   position: absolute;
-  background-color: #100f1f;
+  background-color: #fba7d8;
 }
 
 .premium-access-content-style-two {
@@ -13193,7 +13210,7 @@ Premium Access Area CSS
 .premium-access-content-style-two .sub-title {
   display: block;
   text-transform: uppercase;
-  color: #fe4a55;
+  color: #f768b8;
   margin-bottom: 8px;
   font-size: 14px;
   font-weight: 600;
@@ -13301,7 +13318,7 @@ Get Instant Courses Area CSS
 
 .get-instant-courses-content-style-two .sub-title {
   display: block;
-  color: #fe4a55;
+  color: #f768b8;
   margin-bottom: 10px;
   text-transform: uppercase;
   font-size: 14px;
@@ -13379,7 +13396,7 @@ Funfacts Area CSS
 }
 .funfacts-box h3 {
   margin-bottom: 8px;
-  color: #fe4a55;
+  color: #f768b8;
   font-size: 44px;
   font-weight: 800;
 }
@@ -13441,3 +13458,39 @@ Funfacts Area CSS
 .rtl-sidebar ul li:nth-child(4) a {
   background-color: #3e3d3d;
 }/*# sourceMappingURL=style.css.map */
+
+/* ///// courses homepage new start  */
+.courses-homepage{
+  margin-bottom: 100px;
+}
+.courses-homepage .title{
+  font-family: sans-serif;
+  font-weight: 600;
+  font-size: 25px;
+  padding-bottom: 30px;
+}
+.courses-homepage .card-title{
+  font-size: 12px;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+}
+.courses-homepage .rating .star{
+   color: orange;
+}
+.courses-homepage .rating .review{
+  margin-left: 10px;
+}
+.courses-homepage .card-text{
+  font-family: Times, serif;
+}
+.courses-homepage .card-text del{
+  color: #3324;
+}
+
+.courses-new-section .flaticon-shopping-cart{
+  color: #ffffff;
+  background: black;
+  padding:7px 10px;
+  border-radius: 50%;
+  font-weight: 600;
+}

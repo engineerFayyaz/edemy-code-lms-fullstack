@@ -1,9 +1,22 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import PageBanner from '../components/Common/PageBanner';
 import PremiumAccessTwo from '../components/Common/PremiumAccessTwo';
 import Link from 'next/link';
+import axios from 'axios';
 
 const Advisor = () => {
+    const [advisors, setAdvisors] = useState([]); // Initialize with an empty array
+
+    useEffect(() => {
+        axios.get('/api/teachers') // Replace '/api/advisors' with the actual API endpoint
+            .then((response) => {
+                setAdvisors(response.data.advisors || []); // Ensure advisors is an array
+            })
+            .catch((error) => {
+                console.error('Error fetching advisor data:', error);
+            });
+    }, []);
+
     return (
         <>
             <PageBanner 
@@ -16,149 +29,35 @@ const Advisor = () => {
             <div className="advisor-area pt-100 pb-70">
                 <div className="container">
                     <div className="row">
-                        <div className="col-lg-4 col-sm-6 col-md-6">
-                            <div className="single-advisor-item">
-                                <div className="advisor-image">
-                                    <img src="/images/advisor/advisor4.jpg" alt="image" />
+                        {advisors.length > 0 ? (
+                            advisors.map((advisor) => (
+                                <div className="col-lg-4 col-sm-6 col-md-6" key={advisor.id}>
+                                    <div className="single-advisor-item">
+                                        <div className="advisor-image">
+                                            <img src={advisor.imageUrl} alt="image" />
 
-                                    <ul className="social-link">
-                                        <li><a href="#" className="d-block" target="_blank"><i className='bx bxl-facebook'></i></a></li>
-                                        <li><a href="#" className="d-block" target="_blank"><i className='bx bxl-twitter'></i></a></li>
-                                        <li><a href="#" className="d-block" target="_blank"><i className='bx bxl-instagram'></i></a></li>
-                                        <li><a href="#" className="d-block" target="_blank"><i className='bx bxl-linkedin'></i></a></li>
-                                    </ul>
+                                            <ul className="social-link">
+                                                <li><a href={advisor.facebook} className="d-block" target="_blank"><i className='bx bxl-facebook'></i></a></li>
+                                                <li><a href={advisor.twitter} className="d-block" target="_blank"><i className='bx bxl-twitter'></i></a></li>
+                                                <li><a href={advisor.instagram} className="d-block" target="_blank"><i className='bx bxl-instagram'></i></a></li>
+                                                <li><a href={advisor.linkedin} className="d-block" target="_blank"><i className='bx bxl-linkedin'></i></a></li>
+                                            </ul>
+                                        </div>
+
+                                        <div className="advisor-content">
+                                            <h3>
+                                                <Link href="#">
+                                                    <a>{advisor.name}</a>
+                                                </Link>
+                                            </h3>
+                                            <span>{advisor.role}</span>
+                                        </div>
+                                    </div>
                                 </div>
-
-                                <div className="advisor-content">
-                                    <h3>
-                                        <Link href="#">
-                                            <a>James Andy</a>
-                                        </Link>
-                                    </h3>
-                                    <span>Wood Therapiest</span>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div className="col-lg-4 col-sm-6 col-md-6">
-                            <div className="single-advisor-item">
-                                <div className="advisor-image">
-                                    <img src="/images/advisor/advisor5.jpg" alt="image" />
-
-                                    <ul className="social-link">
-                                        <li><a href="#" className="d-block" target="_blank"><i className='bx bxl-facebook'></i></a></li>
-                                        <li><a href="#" className="d-block" target="_blank"><i className='bx bxl-twitter'></i></a></li>
-                                        <li><a href="#" className="d-block" target="_blank"><i className='bx bxl-instagram'></i></a></li>
-                                        <li><a href="#" className="d-block" target="_blank"><i className='bx bxl-linkedin'></i></a></li>
-                                    </ul>
-                                </div>
-
-                                <div className="advisor-content">
-                                    <h3>
-                                        <Link href="#">
-                                            <a>Jassica Hische</a>
-                                        </Link>
-                                    </h3>
-                                    <span>Dermatologist</span>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div className="col-lg-4 col-sm-6 col-md-6">
-                            <div className="single-advisor-item">
-                                <div className="advisor-image">
-                                    <img src="/images/advisor/advisor6.jpg" alt="image" />
-
-                                    <ul className="social-link">
-                                        <li><a href="#" className="d-block" target="_blank"><i className='bx bxl-facebook'></i></a></li>
-                                        <li><a href="#" className="d-block" target="_blank"><i className='bx bxl-twitter'></i></a></li>
-                                        <li><a href="#" className="d-block" target="_blank"><i className='bx bxl-instagram'></i></a></li>
-                                        <li><a href="#" className="d-block" target="_blank"><i className='bx bxl-linkedin'></i></a></li>
-                                    </ul>
-                                </div>
-
-                                <div className="advisor-content">
-                                    <h3>
-                                        <Link href="#">
-                                            <a>Alister Cock</a>
-                                        </Link>
-                                    </h3>
-                                    <span>body sculptor</span>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div className="col-lg-4 col-sm-6 col-md-6">
-                            <div className="single-advisor-item">
-                                <div className="advisor-image">
-                                    <img src="/images/advisor/advisor7.jpg" alt="image" />
-
-                                    <ul className="social-link">
-                                        <li><a href="#" className="d-block" target="_blank"><i className='bx bxl-facebook'></i></a></li>
-                                        <li><a href="#" className="d-block" target="_blank"><i className='bx bxl-twitter'></i></a></li>
-                                        <li><a href="#" className="d-block" target="_blank"><i className='bx bxl-instagram'></i></a></li>
-                                        <li><a href="#" className="d-block" target="_blank"><i className='bx bxl-linkedin'></i></a></li>
-                                    </ul>
-                                </div>
-
-                                <div className="advisor-content">
-                                    <h3>
-                                        <Link href="#">
-                                            <a>Lina Ninja</a>
-                                        </Link>
-                                    </h3>
-                                    <span>Yoga Trainer</span>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div className="col-lg-4 col-sm-6 col-md-6">
-                            <div className="single-advisor-item">
-                                <div className="advisor-image">
-                                    <img src="/images/advisor/advisor8.jpg" alt="image" />
-
-                                    <ul className="social-link">
-                                        <li><a href="#" className="d-block" target="_blank"><i className='bx bxl-facebook'></i></a></li>
-                                        <li><a href="#" className="d-block" target="_blank"><i className='bx bxl-twitter'></i></a></li>
-                                        <li><a href="#" className="d-block" target="_blank"><i className='bx bxl-instagram'></i></a></li>
-                                        <li><a href="#" className="d-block" target="_blank"><i className='bx bxl-linkedin'></i></a></li>
-                                    </ul>
-                                </div>
-
-                                <div className="advisor-content">
-                                    <h3>
-                                        <Link href="#">
-                                            <a>Chris Evans</a>
-                                        </Link>
-                                    </h3>
-                                    <span>Dentist</span>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div className="col-lg-4 col-sm-6 col-md-6">
-                            <div className="single-advisor-item">
-                                <div className="advisor-image">
-                                    <img src="/images/advisor/advisor9.jpg" alt="image" />
-
-                                    <ul className="social-link">
-                                        <li><a href="#" className="d-block" target="_blank"><i className='bx bxl-facebook'></i></a></li>
-                                        <li><a href="#" className="d-block" target="_blank"><i className='bx bxl-twitter'></i></a></li>
-                                        <li><a href="#" className="d-block" target="_blank"><i className='bx bxl-instagram'></i></a></li>
-                                        <li><a href="#" className="d-block" target="_blank"><i className='bx bxl-linkedin'></i></a></li>
-                                    </ul>
-                                </div>
-
-                                <div className="advisor-content">
-                                    <h3>
-                                        <Link href="#">
-                                            <a>Scarlett Johansson</a>
-                                        </Link>
-                                    </h3>
-                                    <span>Fitness Trainer</span>
-                                </div>
-                            </div>
-                        </div>
+                            ))
+                        ) : (
+                            <p>No advisors available.</p>
+                        )}
                     </div>
                 </div>
             </div>
@@ -167,7 +66,7 @@ const Advisor = () => {
                 <PremiumAccessTwo />
             </div>
         </>
-    )
+    );
 }
 
 export default Advisor;

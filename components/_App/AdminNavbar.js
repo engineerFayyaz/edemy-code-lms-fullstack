@@ -2,11 +2,21 @@ import React from "react";
 import Link from "@/utils/ActiveLink";
 import { handleLogout } from "@/utils/auth";
 import SearchForm from "./SearchForm";
-import Profile from "pages/profile";
+import axios from "axios";
+// import Profile from "pages/profile";
 
 const AdminNavbar = ({ user }) => {
   // console.log(user)
   const [menu, setMenu] = React.useState(true);
+
+  const [teachers, setTeachers] = React.useState([]);
+
+  React.useEffect(() => {
+    // Fetch teacher data from the API
+    axios.get('/api/teachers').then((response) => {
+      setTeachers(response.data.teachers);
+    });
+  }, []);
 
   const toggleNavbar = () => {
     setMenu(!menu);
@@ -185,14 +195,16 @@ const AdminNavbar = ({ user }) => {
                       </Link>
                     )}
                   </div>
-                  <Profile user={user} />
+                  {/* <Profile user={user} /> */}
                 </div>
               </div>
             </div>
           </div>
         </div>
       </div>
+      <advisor teachers={teachers} />
     </>
+    
   );
 };
 
