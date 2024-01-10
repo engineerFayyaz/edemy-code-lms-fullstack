@@ -5,6 +5,8 @@ import Cors from 'cors'
 import initMiddleware from '@/lib/init-middleware'
 import { enroled_courses as Enroled_courses } from '@/models/index'
 
+
+const STRIPE_SECRET_KEY="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"
 const stripe = Stripe(process.env.STRIPE_SECRET_KEY)
 
 // Initialize the cors middleware

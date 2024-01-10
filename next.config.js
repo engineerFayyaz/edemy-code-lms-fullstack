@@ -24,8 +24,8 @@ module.exports = nextTranslate(
 				"https://api.cloudinary.com/v1_1/lms-empty/image/upload",
 			CLOUDINARY_VIDEO_URL:
 				"https://api.cloudinary.com/v1_1/lms-empty/video/upload",
-			STRIPE_SECRET_KEY: "sk_test_2**********",
-			STRIPE_PUBLISHABLE_KEY: "pk_test_ZaZZW**********",
+			STRIPE_SECRET_KEY: "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",
+			STRIPE_PUBLISHABLE_KEY: "pk_live_51OWvQIFgKHDpomfgNwdCL517Au8V3EBr36RRilRzQlMtvhwWsHEwohfZN5nZE0CtxQaT6HOMA4amJwMrniC2ifRS00xCGhWqmZ",
 		},
   })
 );
