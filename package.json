@@ -12,6 +12,7 @@
 	"license": "ISC",
 	"dependencies": {
 		"@sendgrid/mail": "^7.7.0",
+		"@vercel/edge-config": "^0.4.1",
 		"axios": "^0.21.4",
 		"bcrypt": "^5.0.0",
 		"caniuse-lite": "^1.0.30001554",
