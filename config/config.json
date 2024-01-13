@@ -14,10 +14,11 @@
 		"dialect": "postgres"
 	},
 	"production": {
-		"username": "salak",
-		"password": "shrt345&3hsg12sA",
-		"database": "edemy_database_production",
-		"host": "127.0.0.1",
+		"username": "default",
+		"password": "tBqV5IgeN2oJ",
+		"database": "verceldb",
+		"host": "ep-frosty-bread-60840896-pooler.us-east-1.postgres.vercel-storage.com",
 		"dialect": "postgres"
+		
 	}
 }

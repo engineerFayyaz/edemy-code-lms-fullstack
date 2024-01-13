@@ -1,5 +1,5 @@
 {
-	"name": "edemy",
+	"name": "web",
 	"version": "1.8.0",
 	"description": "eDemy -  React Next.js LMS Education & Online Courses Theme",
 	"main": "index.js",
@@ -27,7 +27,7 @@
 		"markdown-it": "^12.2.0",
 		"multer": "^1.4.5-lts.1",
 		"next": "^12.3.1",
-		"next-pwa": "^3.1.5",
+		"next-pwa": "^5.6.0",
 		"next-translate": "^1.4.0",
 		"nodemailer": "^6.9.7",
 		"nodemailer-sendgrid-transport": "^0.2.0",
