@@ -14,12 +14,10 @@
 		"dialect": "postgres"
 	},
 	"production": {
-		"POSTGRES_URL": "postgres://default:tBqV5IgeN2oJ@ep-frosty-bread-60840896-pooler.us-east-1.postgres.vercel-storage.com:5432/verceldb",
-		"POSTGRES_PRISMA_URL": "postgres://default:tBqV5IgeN2oJ@ep-frosty-bread-60840896-pooler.us-east-1.postgres.vercel-storage.com:5432/verceldb?pgbouncer:true&connect_timeout:15",
-		"POSTGRES_URL_NON_POOLING": "postgres://default:tBqV5IgeN2oJ@ep-frosty-bread-60840896.us-east-1.postgres.vercel-storage.com:5432/verceldb",
-		"POSTGRES_USER": "default",
-		"POSTGRES_HOST": "ep-frosty-bread-60840896-pooler.us-east-1.postgres.vercel-storage.com",
-		"POSTGRES_PASSWORD": "tBqV5IgeN2oJ",
-		"POSTGRES_DATABASE": "verceldb"
+		"username": "postgres",
+		"password": "Fayyaz",
+		"database": "edemy_app_dev",
+		"host": "127.0.0.1",
+		"dialect": "postgres"
 	}
 }
