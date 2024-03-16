@@ -14,6 +14,10 @@ const sequelize = new Sequelize(
   }
 );
 
+
+
 // Define your Comment model here using Sequelize
 
 export default sequelize;
+
+

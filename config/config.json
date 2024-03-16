@@ -1,23 +1,24 @@
 {
 	"development": {
-		"username": "postgres",
-		"password": "Fayyaz",
-		"database": "edemy_app_dev",
-		"host": "127.0.0.1",
-		"dialect": "postgres"
+	  "username": "postgres",
+	  "password": "Fayyaz",
+	  "database": "edemy_app_dev",
+	  "host": "127.0.0.1",
+	  "dialect": "postgres"
 	},
 	"test": {
-		"username": "postgres",
-		"password": "Fayyaz",
-		"database": "edemy_database_test",
-		"host": "127.0.0.1",
-		"dialect": "postgres"
+	  "username": "postgres",
+	  "password": "Fayyaz",
+	  "database": "edemy_database_test",
+	  "host": "127.0.0.1",
+	  "dialect": "postgres"
 	},
 	"production": {
-		"username": "postgres",
-		"password": "Fayyaz",
-		"database": "edemy_app_dev",
-		"host": "127.0.0.1",
-		"dialect": "postgres"
+	  "username": "lgsxajzhwzreut",
+	  "password": "31efecafaa4baa1019a1b805e83c4ffd54e6db605f9362fc0ea3566c7e06f9ce",
+	  "database": "dh7oh1mmttobv",
+	  "host": "ec2-35-169-9-79.compute-1.amazonaws.com",
+	  "dialect": "postgres"
 	}
-}
+  }
+  
